@@ -1,7 +1,9 @@
 ﻿            <LIBRO PRIMERO>
       
        <SONETO  I>
-              
+       
+
+       
        Sufro llorando, en vano error perdido, 
     el miedo i el dolor de mi cuidado,
     sin esperança, ageno; i entregado 
