@@ -22,11 +22,24 @@ Los Anexos I y II contienen el corpus digitalizado de la poesía de Herrera y Pa
 
 ## Corpus etiquetado morfosintácticamente
 
+El Anexo III contiene el corpus poético de Herrera y Pacheco anotado automáticamente con información de Part-of-Speech (categorías morfológicas). Se encuentra también dentro de la carpeta "corpus", dentro de "POS".
+
 ## Scripts en R
 
-Se incluyen los scripts propios utilizados en la carpeta "scripts".
+En el Anexo IV se incluyen los scripts propios en R utilizados en la carpeta "scripts".
+
+## Lista de palabras de H que no aparecen en P
+
+El Anexo V contiene dos lista desglosada de las palabras de H que no aparecen en P, clasificadas en las siguientes categorías: 
+
+a) Palabras que corresponden a la égloga venatoria
+b) Palabras que corresponden a los dos sonetos que no pasan a P
+c) Palabras eliminadas al pasar a P
+
+La primera lista incluye las palabras como tokens, mientras que la segunda incluye la lista de lemas de H que no pasan a P.
 
 ## Ngramas morfosintácticos
+
 
 
 ### Bigramas morfosintácticos
