@@ -40,7 +40,7 @@ La primera lista incluye las palabras como tokens, mientras que la segunda inclu
 
 ## Ngramas morfosintácticos
 
-Los Anexos VI y VII incluyen los bigramas y trigramas morfosintácticos obtenidos en el apartado x del libro.
+Los Anexos VI y VII incluyen los bigramas y trigramas morfosintácticos obtenidos en el apartado x del libro. Se encuentran en la carpeta "POS-ngrams".
 
 ### Bigramas morfosintácticos
 
