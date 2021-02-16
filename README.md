@@ -40,7 +40,7 @@ La primera lista incluye las palabras como tokens, mientras que la segunda inclu
 
 ## Ngramas morfosintácticos
 
-
+Los Anexos VI y VII incluyen los bigramas y trigramas morfosintácticos obtenidos en el apartado x del libro.
 
 ### Bigramas morfosintácticos
 
@@ -52,4 +52,4 @@ Tabla completa de las distancias de patrones morfosintácticos obtenidas para P2
 
 ## Cómo citar
 
-
+Hernández Lorenzo, Laura, <i>Los textos poéticos de Fernando de Herrera: aproximaciones desde la Estilística de corpus y la Estilometría</i>
