@@ -54,7 +54,7 @@ Tabla completa de las distancias de patrones morfosintácticos obtenidas para P2
 
 ## Imágenes en color de Rolling Classify
 
-En la medida de lo posible, los gráficos resultantes de los análisis estilométricos se han generado en blanco y negro para facilitar su impresión y visualización por parte del lector. En el caso de Rolling Classify, esto no ha sido posible, pues no lo permite la herramienta. Por esta razón, se incluyen en el Anexo VIII las imágenes originales en color por si el lector necesita consultarlas.
+En la medida de lo posible, los gráficos resultantes de los análisis estilométricos se han generado en blanco y negro para facilitar su impresión y visualización por parte del lector. En el caso de Rolling Classify, esto no ha sido posible, pues no lo permite la herramienta. Por esta razón, se incluyen en el Anexo VIII las imágenes originales en color por si el lector necesita consultarlas. Se encuentran en la carpeta "rolling_classify-color".
 
 ## Cómo citar
 
