@@ -16,6 +16,8 @@ Este repositorio contiene los anexos de mi obra <i>Los textos poéticos de Ferna
 
 - Anexo VII. Trigramas morfosintácticos en P2, Herrera y Pacheco
 
+- Anexo VIII. Imágenes en color de los análisis de Rolling Classify (sección 7.5)
+
 ## Digitalización del corpus poético de Herrera y Pacheco
 
 Los Anexos I y II contienen el corpus digitalizado de la poesía de Herrera y Pacheco. Se encuentran en la carpeta "corpus". Dentro de esta, el corpus con la ortografía original (Anexo I) se encuentra en la carpeta "original", y el corpus con ortografía modernizada (Anexo II), en la carpeta "modernizado".
@@ -49,6 +51,10 @@ Tabla completa de las distancias de patrones morfosintácticos obtenidas para P2
 ### Trigramas morfosintácticos
 
 Tabla completa de las distancias de patrones morfosintácticos obtenidas para P2, Herrera (H y poemas sueltos) y Pacheco (poesía escrita por él), mediante el cálculo de z-scores. La primera columna recoge cada relación de tres etiquetas o trigramas, las tres siguientes columnas contienen la frecuencia relativa de cada uno de los trigramas para Herrera, P2 y Pacheco respectivamente, mientras que la quinta columna incluye la media de cada trigrama en los tres corpus, y la sexta representa el valor de desviación típica obtenido para cada uno de los trigramas (SD). A continuación, las tres siguientes columnas recogen los valores de z-scores obtenidos para cada uno de los corpus. Para finalizar, las dos últimas columnas contienen los valores de distancia basados en los z-scores de P2 frente a Herrera (“P2 vs Herrera”) y P2 frente a Pacheco (“P2 vs Pacheco”).
+
+## Imágenes en color de Rolling Classify
+
+En la medida de lo posible, los gráficos resultantes de los análisis estilométricos se han generado en blanco y negro para facilitar su impresión y visualización por parte del lector. En el caso de Rolling Classify, esto no ha sido posible, pues no lo permite la herramienta. Por esta razón, se incluyen en el Anexo VIII las imágenes originales en color por si el lector necesita consultarlas.
 
 ## Cómo citar
 
