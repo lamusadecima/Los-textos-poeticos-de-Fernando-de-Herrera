@@ -39,7 +39,9 @@ En el Anexo IV se incluyen los scripts propios en R utilizados en la carpeta "sc
 El Anexo V contiene dos lista desglosada de las palabras de H que no aparecen en P, clasificadas en las siguientes categorías: 
 
 a) Palabras que corresponden a la égloga venatoria
+
 b) Palabras que corresponden a los dos sonetos que no pasan a P
+
 c) Palabras eliminadas al pasar a P
 
 La primera lista incluye las palabras como tokens, mientras que la segunda incluye la lista de lemas de H que no pasan a P.
@@ -50,11 +52,11 @@ Los Anexos VI y VII incluyen los 20 bigramas y trigramas morfosintácticos más 
 
 ### Bigramas morfosintácticos
 
-Relación de los 20 bigramas morfosintácticos más frecuentes en el corpus completo de la Tesis doctoral, con sus frecuencias absolutas, ordenados por sus valores en el total del corpus. Una de las tablas contiene las frecuencias relativas y otra, las absolutas.
+Relación de los 20 bigramas morfosintácticos más frecuentes en el corpus completo de la Tesis doctoral. La tabla "bigramas_frecuencias-absolutas" contiene las frecuencias absolutas, ordenados por sus valores en el total del corpus. La tabla "bigramas_frecuencias-relativas" contiene las frecuencias relativas en tantos por mil.
 
 ### Trigramas morfosintácticos
 
-Relación de los 20 trigramas morfosintácticos más frecuentes en el corpus completo de la Tesis doctoral, con sus frecuencias absolutas, ordenados por sus valores en el total del corpus. Una de las tablas contiene las frecuencias relativas y otra, las absolutas.
+Relación de los 20 trigramas morfosintácticos más frecuentes en el corpus completo de la Tesis doctoral. La tabla "trigramas_frecuencias-absolutas" contiene las frecuencias absolutas, ordenados por sus valores en el total del corpus. La tabla "trigramas_frecuencias-relativas" contiene las frecuencias relativas en tantos por mil.
 
 ## Distancias de los ngramas morfosintácticos
 
