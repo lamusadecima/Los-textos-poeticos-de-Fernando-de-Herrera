@@ -12,11 +12,15 @@ Este repositorio contiene los anexos de mi obra <i>Los textos poéticos de Ferna
 
 - Anexo V. Palabras de H que no aparecen en P desglosadas
 
-- Anexo VI. Bigramas morfosintácticos en P2, Herrera y Pacheco
+- Anexo VI. 20 bigramas morfosintácticos más frecuentes en el corpus completo
 
-- Anexo VII. Trigramas morfosintácticos en P2, Herrera y Pacheco
+- Anexo VII. Distancias de bigramas morfosintácticos en P2, Herrera y Pacheco
 
-- Anexo VIII. Imágenes en color de los análisis de Rolling Classify (sección 7.5)
+- Anexo VIII. 20 trigramas morfosintácticos más frecuentes en el corpus completo
+
+- Anexo IX. Distancias de trigramas morfosintácticos en P2, Herrera y Pacheco
+
+- Anexo X. Imágenes en color de los análisis de Rolling Classify (capítulo 4.5)
 
 ## Digitalización del corpus poético de Herrera y Pacheco
 
@@ -40,9 +44,21 @@ c) Palabras eliminadas al pasar a P
 
 La primera lista incluye las palabras como tokens, mientras que la segunda incluye la lista de lemas de H que no pasan a P.
 
-## Ngramas morfosintácticos
+## Ngramas morfosintácticos más frecuentes en el corpus
 
-Los Anexos VI y VII incluyen los bigramas y trigramas morfosintácticos obtenidos en el apartado x del libro. Se encuentran en la carpeta "POS-ngrams".
+Los Anexos VI y VII incluyen los 20 bigramas y trigramas morfosintácticos más frecuentes del corpus completo obtenidos en los apartados 3.3.3.2.1 y 3.3.3.2.2 del libro. Se encuentran en la carpeta "POS-ngrams".
+
+### Bigramas morfosintácticos
+
+Relación de los 20 bigramas morfosintácticos más frecuentes en el corpus completo de la Tesis doctoral, con sus frecuencias absolutas, ordenados por sus valores en el total del corpus. Una de las tablas contiene las frecuencias relativas y otra, las absolutas.
+
+### Trigramas morfosintácticos
+
+Relación de los 20 trigramas morfosintácticos más frecuentes en el corpus completo de la Tesis doctoral, con sus frecuencias absolutas, ordenados por sus valores en el total del corpus. Una de las tablas contiene las frecuencias relativas y otra, las absolutas.
+
+## Distancias de los ngramas morfosintácticos
+
+Los Anexos VII y IX incluyen los resultados completos del cálculo de los z-scores para bigramas y trigramas morfosintácticos, analizados en los apartados 3.3.3.2.1 y 3.3.3.2.2 del libro. Se encuentran en la carpeta "Distancias_POS-ngrams".
 
 ### Bigramas morfosintácticos
 
