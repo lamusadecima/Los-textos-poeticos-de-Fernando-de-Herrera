@@ -74,7 +74,7 @@ Tabla completa de las distancias de patrones morfosintácticos obtenidas para P2
 
 ## Descripción del corpus de Siglo de Oro utilizado
 
-En la carpeta "descripción-corpus", se presenta el corpus de poetas del Siglo de Oro utilizado en los análisis estilométricos de esta Tesis, ofreciendo información sobre los autores que lo componen, fecha de nacimiento y muerte, número de poemas que constituyen el corpus de cada autor, y número total de palabras.
+En la carpeta "descripción-corpus-ampliado", se presenta el corpus de poetas del Siglo de Oro utilizado en los análisis estilométricos de esta Tesis, ofreciendo información sobre los autores que lo componen, fecha de nacimiento y muerte, número de poemas que constituyen el corpus de cada autor, y número total de palabras.
 
 Una de las tablas muestra el corpus de sonetos de Siglo de Oro, preparado a partir de los textos del proyecto ADSO (Navarro-Colorado et al., 2016), además de los sonetos escritos por Herrera y Pacheco digitalizados para la Tesis (en su versión modernizada). Como se indicó en el apartado 2.1.3.4, la ortografía del corpus digitalizado para la Tesis se contrastó con la de los textos extraídos de ADSO para comprobar que no existieran diferencias que pudieran producir distorsiones en el análisis. Asimismo, conforme a las reglas de ortografía actuales se ha eliminado la tilde en sólo en todos los textos. El corpus de sonetos de Siglo de Oro ha sido utilizado para los análisis estilométricos de los apartados 4.2, 4.3, 4.4 (solo Arguijo, Herrera, Góngora y Pacheco) y 4.7.
 
