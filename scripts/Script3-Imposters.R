@@ -3,8 +3,8 @@
 ##    LOS TEXTOS POÉTICOS DE FERNANDO DE HERRERA.                       ##
 ##    APROXIMACIONES DESDE LA ESTILÍSTICA DE CORPUS Y LA ESTILOMETRÍA   ##
 ##    Tesis doctoral escrita por Laura Hernández Lorenzo                ##
-##    Capítulo 7. Análisis con métodos estilométricos                   ##
-##    Apartado 7.7.Verificación de autoría: impostores                  ##
+##    Capítulo 4. Análisis con métodos estilométricos                   ##
+##    Apartado 4.7.Verificación de autoría: impostores                  ##
 ##    Script 3 de la Tesis                                              ##
 ##                                                                      ##
 ##########################################################################
