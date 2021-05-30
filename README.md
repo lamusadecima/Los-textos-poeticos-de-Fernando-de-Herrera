@@ -26,6 +26,10 @@ Este repositorio contiene los anexos de mi obra <i>Los textos poéticos de Ferna
 
 - Anexo XII. Imágenes en color de los análisis de Rolling Classify (capítulo 4.5)
 
+## Anexo I. Poemas en B, H y P
+
+Listado con los títulos de los poemas herrerianos que aparecen en los testimonios B, H y P.
+
 ## Anexos II y III. Digitalización del corpus poético de Herrera y Pacheco
 
 Los Anexos II y III contienen el corpus digitalizado de la poesía de Herrera y Pacheco. Se encuentran en la carpeta "corpus". Dentro de esta, el corpus con la ortografía original (Anexo II) se encuentra en la carpeta "original", y el corpus con ortografía modernizada (Anexo III), en la carpeta "modernizado".
