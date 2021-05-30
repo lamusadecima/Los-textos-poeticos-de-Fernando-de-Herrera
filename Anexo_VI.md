@@ -1,8 +1,9 @@
-Anexo V: Palabras de H que no aparecen en P desglosadas
+## Anexo VI: Palabras de H que no aparecen en P desglosadas
 
 Advertencia: En esta lista de palabras no han sido contempladas las flexiones gramaticales ni la distinción entre homónimos.
 
-A) Palabras que corresponden a la égloga venatoria
+### A) Palabras que corresponden a la égloga venatoria
+
 1                   adornara                             
 2                   agradase                             
 3                   ah                                   
@@ -71,7 +72,7 @@ A) Palabras que corresponden a la égloga venatoria
 66                  vuelves                              
 67                  álamos                                                   
 
-B) Palabras que corresponden a los dos sonetos que no pasan a P
+### B) Palabras que corresponden a los dos sonetos que no pasan a P
 
 1                   desvaría                            
 2                   intentar                            
@@ -82,7 +83,7 @@ B) Palabras que corresponden a los dos sonetos que no pasan a P
 7                   pintada                             
 8                   tiranía                
 
-C) Palabras eliminadas al pasar a P
+### C) Palabras eliminadas al pasar a P
 
 1                   acabo                               
 2                   Agareno                             
@@ -177,11 +178,11 @@ C) Palabras eliminadas al pasar a P
 91                  vibrada                             
 92                  volvisteis      
             
-Lista de lemas de H que no pasan a P desglosados
+### Lista de lemas de H que no pasan a P desglosados
 
 En esta segunda lista, se han contemplado las flexiones gramaticales mediante lematización realizada por Freeling:
 
-A) Lemas correspondientes a la égloga venatoria
+#### A) Lemas correspondientes a la égloga venatoria
 
 1                   ah                             
 2                   aprender                       
@@ -211,7 +212,7 @@ A) Lemas correspondientes a la égloga venatoria
 26                  volador                        
 27                  álamo
  
-B) Lemas correspondientes a los dos sonetos que no pasan a P
+#### B) Lemas correspondientes a los dos sonetos que no pasan a P
 
 1                   desvariar                          
 2                   Pacheco                            
@@ -219,7 +220,7 @@ B) Lemas correspondientes a los dos sonetos que no pasan a P
 4                   tiranía 
 
 
-C) Lemas eliminados al pasar a P
+#### C) Lemas eliminados al pasar a P
 
 1                   Agareno                              
 2                   Alemania
