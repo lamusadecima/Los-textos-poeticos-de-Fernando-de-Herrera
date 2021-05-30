@@ -20,7 +20,9 @@ Este repositorio contiene los anexos de mi obra <i>Los textos poéticos de Ferna
 
 - Anexo IX. Distancias de trigramas morfosintácticos en P2, Herrera y Pacheco
 
-- Anexo X. Imágenes en color de los análisis de Rolling Classify (capítulo 4.5)
+- Anexo X. Descripción del corpus de Siglo de Oro utilizado
+
+- Anexo XI. Imágenes en color de los análisis de Rolling Classify (capítulo 4.5)
 
 ## Digitalización del corpus poético de Herrera y Pacheco
 
@@ -69,6 +71,14 @@ Tabla completa de las distancias de patrones morfosintácticos obtenidas para P2
 ### Trigramas morfosintácticos
 
 Tabla completa de las distancias de patrones morfosintácticos obtenidas para P2, Herrera (H y poemas sueltos) y Pacheco (poesía escrita por él), mediante el cálculo de z-scores. La primera columna recoge cada relación de tres etiquetas o trigramas, las tres siguientes columnas contienen la frecuencia relativa de cada uno de los trigramas para Herrera, P2 y Pacheco respectivamente, mientras que la quinta columna incluye la media de cada trigrama en los tres corpus, y la sexta representa el valor de desviación típica obtenido para cada uno de los trigramas (SD). A continuación, las tres siguientes columnas recogen los valores de z-scores obtenidos para cada uno de los corpus. Para finalizar, las dos últimas columnas contienen los valores de distancia basados en los z-scores de P2 frente a Herrera (“P2 vs Herrera”) y P2 frente a Pacheco (“P2 vs Pacheco”).
+
+### Descripción del corpus de Siglo de Oro utilizado
+
+En la carpeta "descripción-corpus", se presenta el corpus de poetas del Siglo de Oro utilizado en los análisis estilométricos de esta Tesis, ofreciendo información sobre los autores que lo componen, fecha de nacimiento y muerte, número de poemas que constituyen el corpus de cada autor, y número total de palabras.
+
+Una de las tablas muestra el corpus de sonetos de Siglo de Oro, preparado a partir de los textos del proyecto ADSO (Navarro-Colorado et al., 2016), además de los sonetos escritos por Herrera y Pacheco digitalizados para la Tesis (en su versión modernizada). Como se indicó en el apartado 2.1.3.4, la ortografía del corpus digitalizado para la Tesis se contrastó con la de los textos extraídos de ADSO para comprobar que no existieran diferencias que pudieran producir distorsiones en el análisis. Asimismo, conforme a las reglas de ortografía actuales se ha eliminado la tilde en sólo en todos los textos. El corpus de sonetos de Siglo de Oro ha sido utilizado para los análisis estilométricos de los apartados 4.2, 4.3, 4.4 (solo Arguijo, Herrera, Góngora y Pacheco) y 4.7.
+
+Por otra parte, se han recopilado poemas de diferentes subgéneros poéticos de Garcilaso y Góngora con el objetivo de utilizarlos como autores de control en los análisis estilométricos de los apartados 4.4 (solo Góngora) y 4.5 (ambos). Como ya se ha indicado en estos apartados, los textos poéticos de Garcilaso fueron extraídos de la Biblioteca Virtual Miguel de Cervantes (http://www.cervantesvirtual.com/portales/garcilaso_de_la_vega/), mientras que los de Góngora han sido copiados de la edición digital de su poesía completa que ofrece el proyecto Góngora del OBVIL (Góngora, 2016): http://obvil.sorbonne-universite.site/corpus/gongora/gongora_obra-poetica. El texto ha sido copiado de esta edición, y a continuación se han eliminado la numeración y fechas de los poemas, las diéresis métricas y los titulillos de los poemas, con el objetivo de utilizar en el análisis únicamente el texto de las composiciones gongorinas. Más información sobre estos corpus se recoge en la tabla "garcilasoygongora".
 
 ## Imágenes en color de Rolling Classify
 
