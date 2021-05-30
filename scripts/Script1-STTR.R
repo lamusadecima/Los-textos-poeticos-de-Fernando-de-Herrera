@@ -3,8 +3,8 @@
 ##    LOS TEXTOS POÉTICOS DE FERNANDO DE HERRERA.                       ##
 ##    APROXIMACIONES DESDE LA ESTILÍSTICA DE CORPUS Y LA ESTILOMETRÍA   ##
 ##    Tesis doctoral escrita por Laura Hernández Lorenzo                ##
-##    Capítulo 6. Análisis con métodos de corpus y computacionales      ##
-##    Apartado 6.2.1. Densidad léxica                                   ##
+##    Capítulo 3. Análisis con métodos de corpus y computacionales      ##
+##    Apartado 3.2.1. Densidad léxica                                   ##
 ##    Script 1 de la Tesis                                              ##
 ##                                                                      ##
 ##########################################################################
