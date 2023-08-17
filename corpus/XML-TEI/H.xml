@@ -1,0 +1,4761 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    Corpus de poesía de Fernando de Herrera. Algunas obras (1582)
+                </title>
+                <author>Fernando de Herrera</author>
+                <respStmt>
+                    <resp>Digitalización del corpus, revisión, corrección, modernización y anotación TEI</resp>
+                    <persName>Laura Hernández Lorenzo</persName>
+                </respStmt>
+                <funder>Ayudas para la Formación de Profesorado Universitario, FPU 2014. Ministerio de Educación y Ciencia</funder>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Laura Hernández Lorenzo</distributor>
+                <availability status = "free">
+                  <licence target="https://creativecommons.org/licenses/by-nc/4.0/">licencia de Creative Commons Reconocimiento-NoComercial 4.0 Internacional</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl><author>Fernando de Herrera</author><title>Obra poética</title>
+                    <editor>José Manuel Blecua</editor>
+                    <publisher>Boletín de la Real Academia Española</publisher><pubPlace>Madrid</pubPlace>
+                </bibl>            
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>    
+    <text>
+        <body>
+                <div1 type="poem">
+        <head>SONETO I</head>
+        <lg>
+          <l>Osé, y temí;  mas pudo la osadía</l>
+          <l>tanto, que desprecié el temor cobarde.</l>
+          <l>subí  a do el fuego más  me enciende y arde.</l>
+          <l>cuanto más la esperanza se desvía.</l>
+        </lg>
+        <lg>
+          <l>Gasté  en error la edad  florida  mía;</l>
+          <l>ahora  veo el daño, pero tarde;</l>
+          <l>que  ya mal puede  ser, que  el seso guarde</l>
+          <l>a quien  se  entrega ciego a su porfía.</l>
+        </lg>
+        <lg>
+          <l>Tal  vez pruebo (mas qué  me vale?) alzarme</l>
+          <l>del grave  peso, que mi cuello  oprime;</l>
+          <l>aunque falta  a la poca  fuerza el hecho.</l>
+        </lg>
+        <lg>
+          <l>Sigo al fin mi furor, porque mudarme</l>
+          <l>no es honra  ya, ni  justo, que se  estime</l>
+          <l>tan mal de quien  tan  bien  rindió  su pecho.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO  II</head>
+        <lg>
+          <l>Voy siguiendo la fuerza de mi hado</l>
+          <l>por este campo estéril y escondido.</l>
+          <l>todo calla, y no cesa mi gemido;</l>
+          <l>y lloro la desdicha de mi estado.</l>
+        </lg>
+        <lg>
+          <l>Crece el camino, y crece mi cuidado;</l>
+          <l>que nunca mi dolor pone en olvido.</l>
+          <l>el curso al fin acaba, aunque  extendido;</l>
+          <l>pero no acaba el daño dilatado.</l>
+        </lg>
+        <lg>
+          <l>Qué vale contra un mal siempre presente</l>
+          <l>apartarse  y huir, si en la memoria</l>
+          <l>se  estampa, y muestra frescas las señales?</l>
+        </lg>
+        <lg>
+          <l>Vuela Amor en mi alcance; y no consiente</l>
+          <l>en mi afrenta, que  olvide aquella historia,</l>
+          <l>que descubrió la senda de mis males.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO III</head>
+        <lg>
+          <l>Pensé, mas fue engañoso pensamiento,</l>
+          <l>armar  de duro  hielo el pecho mío;</l>
+          <l>porque  el fuego de  Amor  al grave  frío</l>
+          <l>no desatase en nuevo  encendimiento.</l>
+        </lg>
+        <lg>
+          <l>Procuré no rendirme  al mal, que siento;</l>
+          <l>y fue todo  mi esfuerzo desvarío.</l>
+          <l>perdí  mi libertad, perdí  mi brío;</l>
+          <l>cobré  un perpetuo mal, cobré un tormento.</l>
+        </lg>
+        <lg>
+          <l>El fuego al hielo destempló en tal suerte,</l>
+          <l>que, gastando su humor,  quedó ardor hecho;</l>
+          <l>y es llama, es fuego, todo cuanto espiro.</l>
+        </lg>
+        <lg>
+          <l>Este incendio no puede  darme  muerte;</l>
+          <l>que,  cuanto de su fuerza  más deshecho,</l>
+          <l>tanto más de su eterno afán  respiro.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO  IIII</head>
+        <lg>
+          <l>El Sátiro, que el fuego  vio primero,</l>
+          <l>de su vivo esplendor todo  vencido,</l>
+          <l>llegó a tocallo; mas probó encendido,</l>
+          <l>que era, cuanto hermoso, ardiente y fiero.</l>
+        </lg>
+        <lg>
+          <l>Yo, que la pura  luz, do  ardiendo muero,</l>
+          <l>mísero  vi, engañado, y ofrecido</l>
+          <l>a mi dolor,  en llanto  convertido</l>
+          <l>acabar no pensé, como ya espero.</l>
+        </lg>
+        <lg>
+          <l>Belleza, y claridad antes  no vista,</l>
+          <l>dieron  principio al mal de mi deseo,</l>
+          <l>dura  pena y afán a un rudo  pecho.</l>
+        </lg>
+        <lg>
+          <l>Padezco el dulce engaño  de la vista;</l>
+          <l>mas si me pierdo  con el  bien que veo,</l>
+          <l>como  no estoy ceniza  todo  hecho?</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO   V</head>
+        <lg>
+          <l>Hórrido invierno,  que la luz serena,</l>
+          <l>y agradable color  del puro  cielo</l>
+          <l>cubres de  oscura  sombra  y  turbio velo</l>
+          <l>con la mojada  faz de nieblas  llena;</l>
+        </lg>
+        <lg>
+          <l>Vuelve a la fría gruta,  y la cadena</l>
+          <l>del nevoso  Aquilón; y en aquel  hielo,</l>
+          <l>que oprime  con rigor el duro  suelo,</l>
+          <l>las furias  de tu  ímpetu  refrena.</l>
+        </lg>
+        <lg>
+          <l>Que en tanto que, en tu ira embravecido,</l>
+          <l>asaltas  el divino Hesperio río,</l>
+          <l>que corre al sacro seno de Occidente;</l>
+        </lg>
+        <lg>
+          <l>Yo triste, en  nube eterna del olvido,</l>
+          <l>culpa tuya, apartado del Sol mío,</l>
+          <l>no me  enciendo en los rayos de su frente.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO  VI</head>
+        <lg>
+          <l>Al mar desierto  en el profundo  estrecho</l>
+          <l>entre las duras rocas con mi nave</l>
+          <l>desnuda  tras el canto voy suave,</l>
+          <l>que forzado me lleva a mi despecho.</l>
+        </lg>
+        <lg>
+          <l>Temerario  deseo, incauto  pecho,</l>
+          <l>a quien   rendí  de  mi poder la llave,</l>
+          <l>al peligro me  entregan  fiero y grave;</l>
+          <l>sin que pueda apartarme del mal hecho.</l>
+        </lg>
+        <lg>
+          <l>Veo los huesos blanquear,  y siento</l>
+          <l>el triste son de la engañada gente;</l>
+          <l>y crecer de las ondas el bramido.</l>
+        </lg>
+        <lg>
+          <l>Huir no puedo ya mi perdimiento;</l>
+          <l>que no me da lugar el mal presente,</l>
+          <l>ni osar me vale en el temor perdido.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>ELEGIA  I</head>
+        <lg>
+          <l>Si el grave mal, que el corazón me parte,</l>
+          <l>y siempre tiene en áspero tormento,</l>
+          <l>sin darme de sosiego alguna parte;</l>
+        </lg>
+        <lg>
+          <l>Pusiese fin al mísero lamento,</l>
+          <l>que en los húmedos cercos de mis ojos</l>
+          <l>conoce solo su perpetuo asiento;</l>
+        </lg>
+        <lg>
+          <l>Podría yo, Señor, vuestros enojos</l>
+          <l>consolar, como bien ejercitado</l>
+          <l>del ansioso afán en los despojos.</l>
+        </lg>
+        <lg>
+          <l>Pero nunca permite Amor airado,</l>
+          <l>que yo levante la cerviz cansada,</l>
+          <l>o en algo desocupe mi cuidado.</l>
+        </lg>
+        <lg>
+          <l>Por la prolija senda y no acabada</l>
+          <l>de mi dolor prosigo; y mi porfía</l>
+          <l>en el mayor peligro es más osada.</l>
+        </lg>
+        <lg>
+          <l>En el silencio  de la noche fría</l>
+          <l>me hiere el miedo del eterno  olvido,</l>
+          <l>ausente  de la Luz de la alma mía.</l>
+        </lg>
+        <lg>
+          <l>Y en la sombra  del aire desparcido</l>
+          <l>se me presenta  la visión dichosa,</l>
+          <l>cierto  descanso al ánimo afligido.</l>
+        </lg>
+        <lg>
+          <l>Mas veo mi serena Luz hermosa</l>
+          <l>cubrirse; porque en ella haber espero</l>
+          <l>sepulcro, como simple mariposa.</l>
+        </lg>
+        <lg>
+          <l>Entonces  me derriba  el dolor fiero,</l>
+          <l>y mi llorosa faz fijando en ella,</l>
+          <l>cual cisne hiere el aire en son postrero;</l>
+        </lg>
+        <lg>
+          <l>Digo, Luz de mi alma, pura  estrella,</l>
+          <l>si os perturba  el osado intento mío,</l>
+          <l>y por eso celáis la imagen bella;</l>
+        </lg>
+        <lg>
+          <l>Ponedme, no en horror  de duro frío,</l>
+          <l>mas donde a la  abrasada  África enciende</l>
+          <l>el cálido vapor del seco estío;</l>
+        </lg>
+        <lg>
+          <l>Y allí veréis, que al corazón no ofende</l>
+          <l>su fuerza toda;  que el sutil veneno,</l>
+          <l>que de vos lo penetra, lo defiende.</l>
+        </lg>
+        <lg>
+          <l>No me  escondáis el resplandor sereno,</l>
+          <l>que siempre he de seguir vuestra belleza,</l>
+          <l>cual Clicie al Sol de  ardientes  rayos lleno.</l>
+        </lg>
+        <lg>
+          <l>Amo, mas con temor, vuestra  grandeza;</l>
+          <l>para apurar en vuestro sacro fuego,</l>
+          <l>lo que en mi guarda esta mortal corteza.</l>
+        </lg>
+        <lg>
+          <l>Que sea inmensa gloria, yo no niego;</l>
+          <l>pero por este paso en alto vuelo,</l>
+          <l>do es sin vos imposible alcanzar, llego.</l>
+        </lg>
+        <lg>
+          <l>Y separada  del umbroso velo,</l>
+          <l>como desea estar, mi alma pura,</l>
+          <l>se halla alegre en el luciente cielo.</l>
+        </lg>
+        <lg>
+          <l>Yo espero  a vuestra sola hermosura</l>
+          <l>por tanto bien con inmortal  memoria</l>
+          <l>hacer del tiempo y su furor segura.</l>
+        </lg>
+        <lg>
+          <l>No gravaré en columnas vuestra historia,</l>
+          <l>ni en las tablas con lumbres engañadas,</l>
+          <l>y sombras falsas os daré la gloria;</l>
+        </lg>
+        <lg>
+          <l>Más en eternas cartas y sagradas,</l>
+          <l>con la virtud, que  Febo Apolo inspira</l>
+          <l>de las Cirreas cumbres ensalzadas.</l>
+        </lg>
+        <lg>
+          <l>Y si a do opreso Atlante  no respira</l>
+          <l>con la pesada carga, y a do suena</l>
+          <l>turbado el alto Ganges, lleno de  ira:</l>
+        </lg>
+        <lg>
+          <l>Y si a do el Nilo la secreta vena</l>
+          <l>derrama do el Duina grande y frío</l>
+          <l>las tardas  ondas con el hielo enfrena;</l>
+        </lg>
+        <lg>
+          <l>No pudiere alcanzar el canto mío,</l>
+          <l>al menos honrará vuestra belleza,</l>
+          <l>cuanto Ebro y Tajo cerca, y nuestro río.</l>
+        </lg>
+        <lg>
+          <l>Seré el primero yo, que con pureza</l>
+          <l>de corazón, y con humilde frente</l>
+          <l>osé mirar, mi Luz, vuestra  grandeza.</l>
+        </lg>
+        <lg>
+          <l>Así le digo, y viendo el Oriente,</l>
+          <l>do el cielo y tierra  tocan, esmaltado,</l>
+          <l>y que mi Luz se  esconde  en Occidente;</l>
+        </lg>
+        <lg>
+          <l>Al lloroso ejercicio del cuidado</l>
+          <l>vuelvo, de mis trabajos  perseguido,</l>
+          <l>de vida si, no de pasión cansado.</l>
+        </lg>
+        <lg>
+          <l>En tal mísero estado  aquí perdido</l>
+          <l>me halla el canto vuestro, que esclarece,</l>
+          <l>y guarda  vuestra  gloria del olvido.</l>
+        </lg>
+        <lg>
+          <l>Y al rudo ingenio y nombre mío ofrece</l>
+          <l>eternamente no cansada  fama,</l>
+          <l>merced del ardor  sacro, que  en vos crece.</l>
+        </lg>
+        <lg>
+          <l>Si do el deseo  justo, que me  inflama,</l>
+          <l>fuese mi voz, sería en honra vuestra</l>
+          <l>una inmortal  y siempre  viva llama.</l>
+        </lg>
+        <lg>
+          <l>Pero  no sufre la fortuna  nuestra,</l>
+          <l>que intente tanto bien, y así me deja</l>
+          <l>desplegar solo esta pequeña  muestra.</l>
+        </lg>
+        <lg>
+          <l>El Tracio amante, a cuya dulce queja</l>
+          <l>el severo Plutón, enternecido,</l>
+          <l>vuelve aquella, que  en sombra del se  aleja;</l>
+        </lg>
+        <lg>
+          <l>Cuando en el frío Ródope, y tendido</l>
+          <l>yugo del alto y áspero Pangeo</l>
+          <l>cantó llorando con dolor perdido;</l>
+        </lg>
+        <lg>
+          <l>Y trajo al son del número Febeo</l>
+          <l>las peñas, fieras, y árboles mezclados,</l>
+          <l>y atento el coro, que bañó el Olmeo;</l>
+        </lg>
+        <lg>
+          <l>Con inmortales  versos y sagrados</l>
+          <l>en la  escondida niebla refería</l>
+          <l>los principios del mundo comenzados;</l>
+        </lg>
+        <lg>
+          <l>El Sol ardiente, Cintia blanca y fría,</l>
+          <l>los celestiales giros, y belleza</l>
+          <l>de la alta, inmensa luz, y la  armonía.</l>
+        </lg>
+        <lg>
+          <l>Y arrebatado en la mayor grandeza</l>
+          <l>del tenebroso cerco reluciente,</l>
+          <l>cantó el ardor profundo  y su riqueza.</l>
+        </lg>
+        <lg>
+          <l>Mas porque   el mortal ánimo doliente,</l>
+          <l>indigno de sentir  su hermosura,</l>
+          <l>se  ofuscaba en aquella luz presente;</l>
+        </lg>
+        <lg>
+          <l>Con otra  voz menos excelsa y pura,</l>
+          <l>pero sublime, y que rudeza  humana</l>
+          <l>desdeña, y solo la virtud  procura;</l>
+        </lg>
+        <lg>
+          <l>Volvió a sonar la lira soberana,</l>
+          <l>honrando  a quien la bella Melpómene</l>
+          <l>lejos de tanta multitud  profana</l>
+        </lg>
+        <lg>
+          <l>Con blandos ojos mira, y lo sostiene</l>
+          <l>en alteza, do  nunca verse puede</l>
+          <l>el gran varón, que su favor no tiene.</l>
+        </lg>
+        <lg>
+          <l>A este solo tanto bien concede,</l>
+          <l>que cuando llegue la implacable muerte,</l>
+          <l>libre de su furor viviendo quede.</l>
+        </lg>
+        <lg>
+          <l>Aquel también, que  mereció tal suerte,</l>
+          <l>que  el sacro verso haga de él memoria,</l>
+          <l>no temerá su agudo hierro fuerte.</l>
+        </lg>
+        <lg>
+          <l>Tal por este camino dio a la gloria</l>
+          <l>de la inmortalidad el paso abierto,</l>
+          <l>quien celebró de Grecia la victoria;</l>
+        </lg>
+        <lg>
+          <l>Y el otro mayor que él (si no es incierto</l>
+          <l>lo que la fama afirma) que  el Troyano</l>
+          <l>puso en Italia, y cantó a Turno muerto.</l>
+        </lg>
+        <lg>
+          <l>Tal el suave espíritu  Romano</l>
+          <l>huyó con Delia del mortal  tormento,</l>
+          <l>y el puro, el terso y el gentil Toscano.</l>
+        </lg>
+        <lg>
+          <l>Por esta senda sube al alto asiento</l>
+          <l>Laso, gloria inmortal  de toda España,</l>
+          <l>mezclado en el sagrado ayuntamiento.</l>
+        </lg>
+        <lg>
+          <l>Do, si al deseo mío amor no engaña,</l>
+          <l>yo espero veros, siendo  colocado</l>
+          <l>en la  alta cumbre; que Castalia baña,</l>
+        </lg>
+        <lg>
+          <l>Si en medio el curso no dejáis cansado</l>
+          <l>la vía, llana a vos, y no ofendido</l>
+          <l>lleváis por ella el paso acostumbrado.</l>
+        </lg>
+        <lg>
+          <l>El rico Tajo vuestro, conocido</l>
+          <l>será por vos, a donde  riega el Indo,</l>
+          <l>y el collado de Cintra, esclarecido</l>
+          <l>con tal honra, será otro  nuevo Pindo.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO  VII</head>
+        <lg>
+          <l>No puedo sufrir  más el dolor fiero,</l>
+          <l>ni ya tolerar  más el duro asalto</l>
+          <l>de vuestras  bellas luces, antes  falto</l>
+          <l>de paciencia y valor, en el postrero</l>
+        </lg>
+        <lg>
+          <l>Trance, arrojando el yugo, desespero;</l>
+          <l>y, por do voy huyendo, el  suelo esmalto</l>
+          <l>de rotos lazos;  y levanto en alto</l>
+          <l>el cuello osado, y libertad  espero.</l>
+        </lg>
+        <lg>
+          <l>Más que vale mostrar  estos despojos,</l>
+          <l>y la ufanía de  alcanzar la palma</l>
+          <l>de  un vano atrevimiento sin provecho?</l>
+        </lg>
+        <lg>
+          <l>El rayo, que salió de vuestros  ojos,</l>
+          <l>puso su fuerza en abrasar  mi alma,</l>
+          <l>dejando  casi sin tocar el pecho.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO  VIII</head>
+        <lg>
+          <l>Por qué  renuevas este encendimiento,</l>
+          <l>tirano  Amor, en  mi herido  pecho?</l>
+          <l>que ya, casi olvidado del mal hecho,</l>
+          <l>vivía en soledad de mi tormento.</l>
+        </lg>
+        <lg>
+          <l>Cuando más descuidado y más contento,</l>
+          <l>revuelves a meterme   en tanto  estrecho,</l>
+          <l>obligasme, cruel, que  a mi despecho,</l>
+          <l>procure  contrastar tu fiero intento.</l>
+        </lg>
+        <lg>
+          <l>Las armas en el templo  ya colgadas,</l>
+          <l>visto, y el acerado escudo embrazo,</l>
+          <l>y en mi venganza salgo a la batalla.</l>
+        </lg>
+        <lg>
+          <l>Mas ay, que  a las saetas, que  templadas</l>
+          <l>en la luz de mi Estrella  están, y al brazo</l>
+          <l>tuyo no puede resistir  la malla.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO  IX</head>
+        <lg>
+          <l>Esta desnuda  playa, esta llanura,</l>
+          <l>de  astas y rotas armas mal sembrada;</l>
+          <l>do el vencedor  cayó con muerte  airada,</l>
+          <l>es de España  sangrienta sepultura.</l>
+        </lg>
+        <lg>
+          <l>Mostró el valor su esfuerzo, mas ventura</l>
+          <l>negó el suceso, y dio a la muerte entrada,</l>
+          <l>que rehuyó dudosa  y admirada</l>
+          <l>del temido furor  la suerte  dura.</l>
+        </lg>
+        <lg>
+          <l>Venció Otomano  al Español ya muerto,</l>
+          <l>antes del muerto  el vivo fue vencido,</l>
+          <l>y España y Grecia lloran la victoria,</l>
+        </lg>
+        <lg>
+          <l>Pero será testigo este desierto,</l>
+          <l>que el Español, muriendo  no rendido,</l>
+          <l>llevó de Grecia y Asia el nombre y gloria.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO  X</head>
+        <lg>
+          <l>Rojo Sol, que con hacha luminosa</l>
+          <l>coloras el purpúreo  y alto cielo,</l>
+          <l>hallaste tal belleza en todo  el suelo,</l>
+          <l>que iguale  a mi serena Luz dichosa</l>
+        </lg>
+        <lg>
+          <l>Aura suave, blanda y amorosa,</l>
+          <l>que nos halagas con tu fresco vuelo;</l>
+          <l>cuando se cubre del dorado velo</l>
+          <l>mi Luz, tocaste  trenza más hermosa</l>
+        </lg>
+        <lg>
+          <l>Luna; honor de la noche, ilustre  coro</l>
+          <l>de las errantes  lumbres, y fijadas,</l>
+          <l>consideraste tales dos estrellas?</l>
+        </lg>
+        <lg>
+          <l>Sol puro, Aura,  Luna, llamas de oro,</l>
+          <l>oísteis vos mis penas nunca usadas?</l>
+          <l>visteis Luz más ingrata a mis querellas?</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO  XI</head>
+        <lg>
+          <l>Suspiro, y pruebo con la voz doliente,</l>
+          <l>que en su dolor expire la alma  mía;</l>
+          <l>crece el suspiro en vano, y mi agonía,</l>
+          <l>y el mal renueva siempre su accidente.</l>
+        </lg>
+        <lg>
+          <l>Estas peñas, do solo muero ausente,</l>
+          <l>rompe mi suspirar  en noche y día;</l>
+          <l>y no hiere (oh dolor de mi porfía)</l>
+          <l>a quien estos suspiros  no consiente.</l>
+        </lg>
+        <lg>
+          <l>Suspirando  no muero, y no deshago</l>
+          <l>parte  de mi pasión,  mas vuelvo al llanto;</l>
+          <l>y cesando las lágrimas, suspiro.</l>
+        </lg>
+        <lg>
+          <l>Esfuerza Amor el suspirar,  que hago,</l>
+          <l>y como el cisne muere en dulce canto,</l>
+          <l>así acabo la vida en el suspiro.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO  XII</head>
+        <lg>
+          <l>Yo voy por esta solitaria  tierra,</l>
+          <l>de antiguos pensamientos  molestado,</l>
+          <l>huyendo el resplandor  del Sol dorado,</l>
+          <l>que de sus puros  rayos me destierra.</l>
+        </lg>
+        <lg>
+          <l>El paso a la esperanza se me cierra;</l>
+          <l>de una ardua cumbre a un cerro voy enriscado,</l>
+          <l>con los ojos volviendo al apartado</l>
+          <l>lugar, solo principio de mi guerra.</l>
+        </lg>
+        <lg>
+          <l>Tanto bien representa  la memoria,</l>
+          <l>y tanto  mal encuentra  la presencia;</l>
+          <l>que me desmaya el corazón vencido.</l>
+        </lg>
+        <lg>
+          <l>Oh crueles despojos de mi gloria,</l>
+          <l>desconfianza, olvido, celo, ausencia,</l>
+          <l>por qué cansáis a un mísero rendido?</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>ELEGIA  II</head>
+        <lg>
+          <l>Cual fiero ardor,  cual encendida llama,</l>
+          <l>que duramente  me consume el pecho,</l>
+          <l>por estas venas mías se derrama</l>
+        </lg>
+        <lg>
+          <l>Abrasado  ya estoy, ya estoy deshecho,</l>
+          <l>cese, Amor, el rigor de mi tormento;</l>
+          <l>basten los males, que en  mi alma has hecho.</l>
+        </lg>
+        <lg>
+          <l>Este dolor, que nuevo siempre siento;</l>
+          <l>esta llaga mortal, contino  abierta;</l>
+          <l>este grave y perpetuo sentimiento;</l>
+        </lg>
+        <lg>
+          <l>Esta corta esperanza y siempre incierta;</l>
+          <l>este vano deseo peligroso;</l>
+          <l>fin de mis penas, esta muerte cierta;</l>
+        </lg>
+        <lg>
+          <l>Tal me tienen confuso y temeroso,</l>
+          <l>y sin valor perdido, y quebrantado;</l>
+          <l>que ni aun huir de mis pasiones oso.</l>
+        </lg>
+        <lg>
+          <l>No es amor, es furor  jamás cansado;</l>
+          <l>rabia es, que despedaza mis entrañas,</l>
+          <l>este eterno  dolor de mi cuidado.</l>
+        </lg>
+        <lg>
+          <l>Que gran victoria, Amor, y que hazañas,</l>
+          <l>atravesar  un corazón rendido,</l>
+          <l>un corazón, que dulcemente  engañas.</l>
+        </lg>
+        <lg>
+          <l>Ya que me tienes preso, y tan herido,</l>
+          <l>que en  mi pecho no hallas lugar sano,</l>
+          <l>no me acabes, cruel, en duro olvido.</l>
+        </lg>
+        <lg>
+          <l>Mi fe, y mi pensamiento  soberano.</l>
+          <l>de mi grande osadía la nobleza</l>
+          <l>no sufren, que me dejes de la mano.</l>
+        </lg>
+        <lg>
+          <l>Nací  para  inflamarme en la pureza</l>
+          <l>de aquellas  vivas luces, que al sagrado</l>
+          <l>cielo ilustran  con rayos de belleza.</l>
+        </lg>
+        <lg>
+          <l>Y de sus flechas  todo traspasado,</l>
+          <l>por gloria estimo  mi quejosa  pena;</l>
+          <l>mi dolor  por descanso  regalado.</l>
+        </lg>
+        <lg>
+          <l>Tal  es la dulce  luz, que  me condena</l>
+          <l>al tormento, y tal es por suerte  mía</l>
+          <l>de mi Enemiga la beldad serena.</l>
+        </lg>
+        <lg>
+          <l>Mas, aunque sin igual fue mi osadía,</l>
+          <l>y el  mal, que sufro,  por  tu fuego  juro,</l>
+          <l>que contrastar no puedo a mi porfía.</l>
+        </lg>
+        <lg>
+          <l>Y cuanto  en el mi corazón apuro</l>
+          <l>y   afino, tanto más crece  el deseo,</l>
+          <l>y un temor, con que  nunca  me aseguro.</l>
+        </lg>
+        <lg>
+          <l>Quién  me daría,  Amor,  que el  bien, que  veo,</l>
+          <l>gozase solo, y libre de recelo,</l>
+          <l>en aquella verdad, con que lo creo;</l>
+        </lg>
+        <lg>
+          <l>Que nunca  mi ofensor, medroso celo,</l>
+          <l>que tan grave me aflige y desbarata,</l>
+          <l>podría derribarme por el suelo.</l>
+        </lg>
+        <lg>
+          <l>Ay cuánto  tu crudeza  me maltrata!</l>
+          <l>ay cuanto  puede en mí tu diestra  airada,</l>
+          <l>que contino me aviva, y siempre  mata!</l>
+        </lg>
+        <lg>
+          <l>Bella Señora, si mi voz cansada</l>
+          <l>alcanza tanto  bien, que no os ofende,</l>
+          <l>oídla blandamente sosegada.</l>
+        </lg>
+        <lg>
+          <l>Luz de eterna belleza, en quien me enciende,</l>
+          <l>y gasta Amor, y en un lloroso río</l>
+          <l>vuelto, contra  sus llamas me defiende;</l>
+        </lg>
+        <lg>
+          <l>Si os puede enternecer el dolor mío,</l>
+          <l>comiencen  a ablandaros mis enojos;</l>
+          <l>no deis ya más lugar a más desvío.</l>
+        </lg>
+        <lg>
+          <l>No me neguéis esos divinos ojos,</l>
+          <l>que todo en vos me han ya trasfigurado,</l>
+          <l>llevándose consigo mis despojos.</l>
+        </lg>
+        <lg>
+          <l>Si ausente estoy de vos, muero cuitado,</l>
+          <l>y vivo alegre, solo cuando os miro.</l>
+          <l>mas ay cuán poco duro en este estado!</l>
+        </lg>
+        <lg>
+          <l>Que cuando a verme en vos presente aspiro,</l>
+          <l>mi enemiga fortuna no consiente,</l>
+          <l>que falte causa al mal, por quien suspiro;</l>
+          <l>y así estoy ante vos solo y  ausente.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO  XIII</head>
+        <lg>
+          <l>Dulces halagos, tierno sentimiento,</l>
+          <l>regalos blandos y amoroso engaño,</l>
+          <l>que a un rudo pecho, y del Amor extraño</l>
+          <l>fuisteis grave ocasión de su tormento;</l>
+        </lg>
+        <lg>
+          <l>Que dura fuerza y grande movimiento</l>
+          <l>os deshizo,  y mostró el cubierto  daño?</l>
+          <l>porque no me consuela el desengaño?</l>
+          <l>ya que me ofende ver mi perdimiento?</l>
+        </lg>
+        <lg>
+          <l>No me distes herida tan liviana,</l>
+          <l>que a lo íntimo de la alma no tocase;</l>
+          <l>quedando  en ella eternamente abierta.</l>
+        </lg>
+        <lg>
+          <l>Faltasteis; porque  nunca yo alcanzase</l>
+          <l>del bien, que tuve, en esperanza vana,</l>
+          <l>segura una hora de alegría cierta.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO  XIIII</head>
+        <lg>
+          <l>Do vas? do vas cruel?  do vas? refrena,</l>
+          <l>refrena el presuroso  paso, en tanto</l>
+          <l>que de mi dolor grave el largo llanto</l>
+          <l>a abrir comienza esta  honda vena.</l>
+        </lg>
+        <lg>
+          <l>Oye la voz de mil suspiros  llena,</l>
+          <l>y de mi mal sufrido el triste  canto;</l>
+          <l>que no podrás ser fiera y dura tanto;</l>
+          <l>que no te mueva esta mi acerba pena.</l>
+        </lg>
+        <lg>
+          <l>Vuelve tu luz a mí, vuelve tus ojos,</l>
+          <l>antes que quede oscuro en ciega niebla;</l>
+          <l>decía en sueño, o en ilusión perdido.</l>
+        </lg>
+        <lg>
+          <l>Volví, halleme solo y entre abrojos,</l>
+          <l>y en vez de luz cercado de tiniebla,</l>
+          <l>y en lágrimas ardientes convertido.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO  XV</head>
+        <lg>
+          <l>En vano error de dulce engaño espero,</l>
+          <l>y en la esperanza de mi bien porfío;</l>
+          <l>y aunque veo perderme , el desvarío</l>
+          <l>me lleva del Amor, a donde  muero.</l>
+        </lg>
+        <lg>
+          <l>Ojos, de mi deseo fin postrero,</l>
+          <l>sola ocasión del alto furor  mío,</l>
+          <l>tended la luz, romped aqueste  frío</l>
+          <l>temor, que me derriba  en dolor fiero.</l>
+        </lg>
+        <lg>
+          <l>Porque  mi pena es tal, que tanta  gloria</l>
+          <l>en mí no cabe, y desespero,  cuando</l>
+          <l>veo, que el  mal no debo merecello;</l>
+        </lg>
+        <lg>
+          <l>Pues venzo mi pasión con la memoria,</l>
+          <l>y con la honra de saber, penando,</l>
+          <l>que nunca a Troya ardió fuego tan bello.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO  XVI</head>
+        <lg>
+          <l>Qué espíritu encendido Amor envía</l>
+          <l>en este  frío corazón  esquivo,</l>
+          <l>que con la alba  en calor el pecho avivo.</l>
+          <l>y ardo  al aparecer del nuevo  día.</l>
+        </lg>
+        <lg>
+          <l>Yo me inflamo,  si a Febo se desvía</l>
+          <l>la sombra; y cuando  de aquel  puesto  altivo</l>
+          <l>declina  el Sol,  me quemo  en fuego vivo,</l>
+          <l>y abraso,  cuando  al mar tuerce la vía.</l>
+        </lg>
+        <lg>
+          <l>Centella soy, si el lubricán parece;</l>
+          <l>llama, cuando se ven las luces bellas,</l>
+          <l>y el blanco  rostro  a Delia se colora.</l>
+        </lg>
+        <lg>
+          <l>Fuego soy, cuando  el orbe se adormece;</l>
+          <l>incendio al esconder de las estrellas,</l>
+          <l>y ceniza al volver  de nueva  Aurora.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO XVII</head>
+        <lg>
+          <l>Despoja  la hermosa y verde  frente</l>
+          <l>de los árboles altos  el turbado</l>
+          <l>otoño,  y dando paso  al viento  helado,</l>
+          <l>queda  lugar  a la aura de Occidente.</l>
+        </lg>
+        <lg>
+          <l>Las plantas, que ofendió, con el presente</l>
+          <l>espíritu de Céfiro  templado</l>
+          <l>cobran  honra  y color;  y esparce  el prado</l>
+          <l>olor  de bellas flores  dulcemente.</l>
+        </lg>
+        <lg>
+          <l>Mas oh triste, que  nunca  mi esperanza.</l>
+          <l>después que  la abatió desnuda el hielo,</l>
+          <l>torna  avivar  para su bien  perdido.</l>
+        </lg>
+        <lg>
+          <l>Cruda  suerte de amor, dura  mudanza,</l>
+          <l>firme  a mi mal, que el  variar  del cielo</l>
+          <l>tiene contra su fuerza suspendido!</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO XVIII</head>
+        <lg>
+          <l>Flaca  esperanza en todas mis porfías,</l>
+          <l>vano  deseo  en desigual  tormento,</l>
+          <l>y, inútil  fruto  del dolor,  que siento,</l>
+          <l>lágrimas sin descanso, y ansias  mías;</l>
+        </lg>
+        <lg>
+          <l>Una hora alegre  en tantos tristes días</l>
+          <l>sufrid, que  tenga  un triste descontento;</l>
+          <l>y que  pueda  sentir tal vez contento</l>
+          <l>la gloria  de fingidas alegrías.</l>
+        </lg>
+        <lg>
+          <l>No es  justo no, que siempre quebrantado</l>
+          <l>me oprima el mal;  y me deshaga  el pecho</l>
+          <l>nueva  pena de antiguo desvarío.</l>
+        </lg>
+        <lg>
+          <l>Mas oh que  temo  tanto el dulce  estado,</l>
+          <l>que (como  al bien no esté enseñado y hecho)</l>
+          <l>abrazo ufano  el grave  dolor  mío.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO  XIX</head>
+        <lg>
+          <l>Yo vi unos bellos ojos, que hirieron</l>
+          <l>con dulce flecha un corazón cuitado;</l>
+          <l>y que, para encender nuevo cuidado,</l>
+          <l>su fuerza toda contra  mí pusieron.</l>
+        </lg>
+        <lg>
+          <l>Yo  vi, que muchas veces prometieron</l>
+          <l>remedio al mal, que sufro no cansado;</l>
+          <l>y que, cuando esperé vello acabado,</l>
+          <l>poco mis esperanzas me valieron.</l>
+        </lg>
+        <lg>
+          <l>Yo veo, que se esconden  ya, mis ojos,</l>
+          <l>y crece mi dolor, y llevo ausente</l>
+          <l>en el rendido pecho el golpe fiero.</l>
+        </lg>
+        <lg>
+          <l>Yo veo ya perderse los despojos,</l>
+          <l>y la membranza de mi bien presente;</l>
+          <l>y en ciego engaño de esperanza muero.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO  XX</head>
+        <lg>
+          <l>Si puede celebrar mi rudo canto</l>
+          <l>la luz de vuestro ingenio y la nobleza,</l>
+          <l>tendrá perpetua gloria con grandeza</l>
+          <l>de fama en el dorado y rico manto.</l>
+        </lg>
+        <lg>
+          <l>Pero si de mi mal no me levanto,</l>
+          <l>y Amor me ocupa todo en la belleza</l>
+          <l>sola y grave ocasión de mi tristeza,</l>
+          <l>por quien suspiro, y me deshago en llanto;</l>
+        </lg>
+        <lg>
+          <l>Será, en cuanto sostenga la alma mía</l>
+          <l>el duro peso, sin temor de olvido</l>
+          <l>siempre vuestro valor de mi estimado.</l>
+        </lg>
+        <lg>
+          <l>Porque el sosiego y trato y cortesía</l>
+          <l>a vos todo me tienen ofrecido,</l>
+          <l>oh ilustre honor del nombre Maldonado.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>CANCION  I</head>
+        <lg>
+          <l>Voz de dolor, y canto de gemido,</l>
+          <l>y espíritu de miedo, envuelto en ira,</l>
+          <l>hagan principio acerbo a la memoria</l>
+          <l>de aquel día fatal aborrecido,</l>
+          <l>que Lusitania mísera suspira,</l>
+          <l>desnuda de valor, falta de gloria.</l>
+          <l>y la llorosa historia</l>
+          <l>asombre con horror funesto y triste,</l>
+          <l>dende el Áfrico Atlante  y seno ardiente,</l>
+          <l>hasta do el mar de otro  color se viste;</l>
+          <l>y do el límite rojo de Oriente,</l>
+          <l>y todas sus vencidas gentes fieras</l>
+          <l>ven tremolar  de Cristo las banderas.</l>
+        </lg>
+        <lg>
+          <l>Ay de los que pasaron,  confiados</l>
+          <l>en sus caballos, y en la muchedumbre</l>
+          <l>de sus carros, en ti Libia desierta;</l>
+          <l>y, en su vigor y fuerzas engañados,</l>
+          <l>no alzaron su esperanza a aquella cumbre</l>
+          <l>de eterna luz;  mas con soberbia cierta</l>
+          <l>se ofrecieron la incierta</l>
+          <l>victoria, y sin volver a Dios sus ojos,</l>
+          <l>con yerto cuello y corazón ufano</l>
+          <l>solo atendieron siempre a los despojos;</l>
+          <l>y el santo de Israel abrió su mano,</l>
+          <l>y los dejó;  y cayó en despeñadero</l>
+          <l>el carro, y el caballo y caballero.</l>
+        </lg>
+        <lg>
+          <l>Vino el día cruel, el día lleno</l>
+          <l>de indignación, de ira  y furor, que puso</l>
+          <l>en soledad,  y en un profundo  llanto</l>
+          <l>de gente, y de placer el reino ajeno.</l>
+          <l>el cielo no alumbró, quedó confuso</l>
+          <l>el nuevo Sol, présago de mal tanto.</l>
+          <l>y con terrible espanto</l>
+          <l>el Señor visitó sobre sus males,</l>
+          <l>para humillar los fuertes arrogantes;</l>
+          <l>y levantó los bárbaras no iguales,</l>
+          <l>que con osados pechos y constantes</l>
+          <l>no busquen oro;  mas con crudo hierro</l>
+          <l>venguen la ofensa y cometido hierro.</l>
+        </lg>
+        <lg>
+          <l>Los impíos y robustos,  indignados</l>
+          <l>las ardientes espadas desnudaron</l>
+          <l>sobre  la claridad y hermosura</l>
+          <l>de tu gloria y valor;  y no cansados</l>
+          <l>en tu muerte,  tu honor todo afearon,</l>
+          <l>mezquina Lusitania  sin ventura.</l>
+          <l>y con frente segura</l>
+          <l>rompieron  sin temor con fiero estrago</l>
+          <l>tus armadas  escuadras  y braveza.</l>
+          <l>la arena  se tornó sangriento  lago,</l>
+          <l>la llanura  con muertos  aspereza.</l>
+          <l>cayó en unos vigor, cayó denuedo,</l>
+          <l>mas en otros  desmayo y torpe  miedo.</l>
+        </lg>
+        <lg>
+          <l>Son estos por ventura  los famosos,</l>
+          <l>los fuertes y belígeros varones,</l>
+          <l>que conturbaron con furor la tierra?</l>
+          <l>que sacudieron reinos poderosos?</l>
+          <l>que domaron  las hórridas  naciones?</l>
+          <l>que, pusieron  desierto  en cruda  guerra,</l>
+          <l>cuanto  enfrena y encierra</l>
+          <l>el mar Indo; y feroces destruyeron</l>
+          <l>grandes  ciudades?  do la valentía?</l>
+          <l>como así se acabaron, y perdieron</l>
+          <l>tanto  heroico valor en solo un día;</l>
+          <l>y lejos de su patria  derribados,</l>
+          <l>no fueron  justamente  sepultados?</l>
+        </lg>
+        <lg>
+          <l>Tales fueron aquestos,  cual hermoso</l>
+          <l>cedro  del alto Líbano, vestido</l>
+          <l>de ramos, hojas, con excelsa alteza;</l>
+          <l>las aguas lo criaron  poderoso,</l>
+          <l>sobre empinados  árboles subido,</l>
+          <l>y se multiplicaron en grandeza</l>
+          <l>sus ramos con belleza;</l>
+          <l>y, extendiendo su sombra, se anidaron</l>
+          <l>las aves, que sustenta el grande cielo;</l>
+          <l>y en sus hojas las fieras engendraron,</l>
+          <l>e hizo a mucha gente umbroso velo.</l>
+          <l>no igualó en celsitud  y hermosura</l>
+          <l>jamás árbol alguno a su figura.</l>
+        </lg>
+        <lg>
+          <l>Pero elevóse con su verde cima,</l>
+          <l>y sublimó  la presunción  su pecho,</l>
+          <l>desvanecido  todo y confiado;</l>
+          <l>haciendo  de su alteza solo estima.</l>
+          <l>por eso Dios lo derribó deshecho,</l>
+          <l>a los impíos y ajenos entregado,</l>
+          <l>por la raíz cortado.</l>
+          <l>que opreso de los montes arrojados,</l>
+          <l>sin ramos y sin hojas, y desnudo,</l>
+          <l>huyeron  de él los hombres espantados;</l>
+          <l>que su sombra  tuvieron  por escudo.</l>
+          <l>en su ruina y ramos, cuantas fueron,</l>
+          <l>las aves y las fieras se pusieron.</l>
+        </lg>
+        <lg>
+          <l>Tú, infanda Libia, en cuya seca arena</l>
+          <l>murió el vencido reino Lusitano,</l>
+          <l>y se acabó su generosa gloria;</l>
+          <l>no estés alegre y de ufanía  llena;</l>
+          <l>porque tu temerosa  y flaca mano</l>
+          <l>hubo sin esperanza tal victoria,</l>
+          <l>indigna de memoria;</l>
+          <l>que si el justo dolor mueve a venganza</l>
+          <l>alguna vez el Español  coraje,</l>
+          <l>despedazada con aguda  lanza,</l>
+          <l>compensarás muriendo  el hecho ultraje;</l>
+          <l>y  Luco amedrentado, al mar inmenso</l>
+          <l>pagará de Africana  sangre el censo.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO  XXI</head>
+        <lg>
+          <l>Como en la cumbre  excelsa de Mimante,</l>
+          <l>do en eterna  prisión arde, y procura</l>
+          <l>alzar la frente  airada,  y guerra oscura</l>
+          <l>mover de nuevo al cielo el gran gigante;</l>
+        </lg>
+        <lg>
+          <l>Se nota de las nubes, que delante</l>
+          <l>vuelan y encima, en hórrida  figura</l>
+          <l>la calidad  de tempestad futura,</l>
+          <l>que amenaza con áspero semblante;</l>
+        </lg>
+        <lg>
+          <l>Así de mis suspiros y  tristeza,</l>
+          <l>del grave llanto y grande sentimiento</l>
+          <l>se muestra el mal, que encierra el duro pecho.</l>
+        </lg>
+        <lg>
+          <l>Por eso no os ofenda mi flaqueza,</l>
+          <l>bella Estrella  de Amor; que mi tormento</l>
+          <l>no cabe bien en vaso tan estrecho.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO  XXII</head>
+        <lg>
+          <l>Céfiro  renovó en mi tierno pecho</l>
+          <l>floridas  ramas de esperanza cierta,</l>
+          <l>a mansa pluvia, a sol templado  abierta,</l>
+          <l>y todo se mostraba  en mi provecho.</l>
+        </lg>
+        <lg>
+          <l>Cuando  de hielo un crudo soplo hecho,</l>
+          <l>de aquella  parte de calor desierta,</l>
+          <l>abate en tierra  mi esperanza muerta,</l>
+          <l>y el trabajo en un punto fue deshecho.</l>
+        </lg>
+        <lg>
+          <l>Quedó en el mismo puesto el hielo frío,</l>
+          <l>que con el fuego en mi dolor contiende;</l>
+          <l>y vence alguna vez, otra es vencido.</l>
+        </lg>
+        <lg>
+          <l>de allí siempre temí en el pecho mío</l>
+          <l>la nieve, que aunque el fuego me defiende,</l>
+          <l>medroso estoy del daño recibido.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO  XXIII</head>
+        <lg>
+          <l>En la oscura tiniebla del olvido,</l>
+          <l>y fría sombra, do tu luz no alcanza,</l>
+          <l>Amor, me tiene puesto sin mudanza</l>
+          <l>este fiero desdén aborrecido.</l>
+        </lg>
+        <lg>
+          <l>Porque de su crudeza perseguido,</l>
+          <l>hecho mísero ejemplo de venganza,</l>
+          <l>del todo desampare la esperanza</l>
+          <l>de volver al favor y al bien perdido.</l>
+        </lg>
+        <lg>
+          <l>Tú, que sabes mi fe, y oyes mi llanto,</l>
+          <l>rompe las nieblas con tu ardiente fuego;</l>
+          <l>y torna me  a la dulce suerte  mía.</l>
+        </lg>
+        <lg>
+          <l>Mas oh si oyese yo tal vez el canto</l>
+          <l>de mi Enemiga, que saldría luego</l>
+          <l>a la pura región de la alegría.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO  XXIIII</head>
+        <lg>
+          <l>Oye tú solo, eterno y sacro río</l>
+          <l>el grave y mustio son de mi lamento;</l>
+          <l>y mezclado  en tu grande crecimiento</l>
+          <l>lleva al padre Nereo el llanto  mío.</l>
+        </lg>
+        <lg>
+          <l>Los suspiros ardientes, que a ti envío,</l>
+          <l>antes que los derrame  leve viento,</l>
+          <l>acoge en tu sonante  movimiento;</l>
+          <l>porque se esconda  en ti mi desvarío.</l>
+        </lg>
+        <lg>
+          <l>No sean más testigos de mi pena</l>
+          <l>los árboles, las peñas, que solían</l>
+          <l>responder,  y quejarse  a mi gemido.</l>
+        </lg>
+        <lg>
+          <l>Y en estas ondas, y corriente llena,</l>
+          <l>a quien vencer mis lágrimas porfían,</l>
+          <l>viva siempre mi mal, y amor crecido.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO  XXV</head>
+        <lg>
+          <l>Salen mil pensamientos al encuentro,</l>
+          <l>cuando  estoy más ajeno, y pueden  tanto,</l>
+          <l>que a pena de mis males me levanto,</l>
+          <l>y ya me hallo en el peligro dentro.</l>
+        </lg>
+        <lg>
+          <l>Sin recelo mi afrenta sigo, y entro</l>
+          <l>osando (oh ciego error) para más llanto.</l>
+          <l>y aunque me esfuerzo, al fin no puedo, cuanto</l>
+          <l>debo en tantas  mudanzas, con que encuentro.</l>
+        </lg>
+        <lg>
+          <l>No es la tristeza, ni el dolor, quien hace</l>
+          <l>la guerra, que padezco, de mi daño;</l>
+          <l>que el mal no espanta a quien lo tiene en uso.</l>
+        </lg>
+        <lg>
+          <l>El bien, que temo y dudo, me deshace;</l>
+          <l>que yo sé bien por el ausente engaño</l>
+          <l>juzgar de este presente el fin confuso.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO  XXVI</head>
+        <lg>
+          <l>Subo, con tan gran peso quebrantado,</l>
+          <l>por esta alta, empinada, aguda sierra;</l>
+          <l>que aún no llego a la cumbre, cuando yerra</l>
+          <l>el pie, y trabuco al fondo despeñado.</l>
+        </lg>
+        <lg>
+          <l>Del golpe y de la carga maltratado,</l>
+          <l>me alzo a pena, y a mi antigua guerra</l>
+          <l>vuelvo. mas que me vale? que la tierra</l>
+          <l>misma me falta al curso acostumbrado.</l>
+        </lg>
+        <lg>
+          <l>Pero aunque en el peligro desfallezco,</l>
+          <l>no desamparo  el paso;  que antes torno</l>
+          <l>mil veces a cansarme  en este engaño.</l>
+        </lg>
+        <lg>
+          <l>Crece el temor, y en la porfía crezco;</l>
+          <l>y sin cesar, cual rueda vuelve en torno;</l>
+          <l>así revuelvo a despeñarme al daño.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO  XXVII</head>
+        <lg>
+          <l>El color bello en el humor de Tiro</l>
+          <l>ardió, y la nieve vuestra  en llama pura,</l>
+          <l>cuando,  Estrella,  volvisteis con dulzura</l>
+          <l>los ojos, por quien mísero suspiro.</l>
+        </lg>
+        <lg>
+          <l>Vivo color de lúcido zafiro,</l>
+          <l>dorado  cielo, eterna  hermosura,</l>
+          <l>pues merecí alcanzar esta ventura,</l>
+          <l>acoged blandamente mi suspiro.</l>
+        </lg>
+        <lg>
+          <l>Con el mi alma, en el celeste fuego</l>
+          <l>vuestro  abrasada,  viene, y se trasforma</l>
+          <l>en la belleza vuestra  soberana.</l>
+        </lg>
+        <lg>
+          <l>Y en tanto  gozo, en su mayor sosiego</l>
+          <l>su bien, en cuantas almas halla, informa;</l>
+          <l>que en el  comunicar  más gloria gana.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO  XXVIII</head>
+        <lg>
+          <l>Suave Filomela, que tu llanto</l>
+          <l>descubres al sereno y limpio cielo,</l>
+          <l>si lamentaras tú mi desconsuelo,</l>
+          <l>o si tuviera yo tu dulce canto;</l>
+        </lg>
+        <lg>
+          <l>Yo prometiera a mis trabajos tanto,</l>
+          <l>que esperara al dolor algún consuelo;</l>
+          <l>y se movieran  de amoroso  celo</l>
+          <l>los bellos ojos, cuya lumbre canto.</l>
+        </lg>
+        <lg>
+          <l>Mas tú con la voz dulce y armonía</l>
+          <l>cantas tu afrenta, y bárbaros despojos,</l>
+          <l>yo lloro mayor daño en son quejoso.</l>
+        </lg>
+        <lg>
+          <l>O haga el cielo, que en la pena mía</l>
+          <l>tu voz suene,  o yo cante mis enojos,</l>
+          <l>vuelto en ti, Ruiseñor  blando y lloroso.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO  XXIX</head>
+        <lg>
+          <l>Huyo apriesa medroso  el horror  frío,</l>
+          <l>y la aspereza y aterido invierno,</l>
+          <l>y la aura espero de Favonio tierno</l>
+          <l>contra su fuerza y contra el seco estío.</l>
+        </lg>
+        <lg>
+          <l>Mas, Herrera,  en el grave estado  mío</l>
+          <l>me ofende el prevenir,  y al fin discierno</l>
+          <l>Céfiro breve, y Aquilón  eterno,</l>
+          <l>y siempre en un error  por mal porfía.</l>
+        </lg>
+        <lg>
+          <l>Al cabo habrá de ser, que el destemplado</l>
+          <l>estío acabe en fuego, o en tanta  nieve</l>
+          <l>rígido invierno el pecho endurecido.</l>
+        </lg>
+        <lg>
+          <l>Vos, que en sosiego, si de amor cansado</l>
+          <l>estáis, o si pasión presente os mueve,</l>
+          <l>tened dolor de verme tan perdido.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO XXX</head>
+        <lg>
+          <l>Canso la vida en esperar un día</l>
+          <l>de fingido placer. huyen los años,</l>
+          <l>y nacen de ellos mil sabrosos daños,</l>
+          <l>que esfuerzan el error de mi porfía.</l>
+        </lg>
+        <lg>
+          <l>Los pasos, por do voy a mi alegría,</l>
+          <l>tan desusados son, y tan extraños,</l>
+          <l>que al fin van a acabarse en mis engaños,</l>
+          <l>y de ellos vuelvo a comenzar la vía.</l>
+        </lg>
+        <lg>
+          <l>Descubro en el principio otra esperanza,</l>
+          <l>si no mayor, igual a la pasada,</l>
+          <l>y en el mismo deseo persevero.</l>
+        </lg>
+        <lg>
+          <l>Mas luego torno a la común mudanza</l>
+          <l>de la suerte en mi daño conjurada,</l>
+          <l>y esperando contino desespero.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>ELEGIA III</head>
+        <lg>
+          <l>No bañes en el  mar sagrado  y cano,</l>
+          <l>callada  Noche, tu corona oscura,</l>
+          <l>antes de oír  este amador  ufano.</l>
+        </lg>
+        <lg>
+          <l>Y tú  alza de la húmeda hondura</l>
+          <l>las verdes hebras de la bella frente,</l>
+          <l>de Náyades lozana hermosura.</l>
+        </lg>
+        <lg>
+          <l>Aquí, do el grande Betis ve presente</l>
+          <l>la armada vencedora, que el  Egeo</l>
+          <l>manchó con sangre de la Turca gente,</l>
+        </lg>
+        <lg>
+          <l>Quiero decir la gloria, en que me veo;</l>
+          <l>pero no cause envidia este bien mío</l>
+          <l>a quien aún no merece mi deseo.</l>
+        </lg>
+        <lg>
+          <l>Sosiega el curso, tú, profundo río,</l>
+          <l>oye mi gloria, pues también oíste</l>
+          <l>mis quejas en tu puro asiento frío.</l>
+        </lg>
+        <lg>
+          <l>Tú amaste, y como yo también supiste</l>
+          <l>del mal dolerte, y celebrar la gloria</l>
+          <l>de los pequeños bienes que tuviste.</l>
+        </lg>
+        <lg>
+          <l>Breve será la venturosa  historia</l>
+          <l>de mi favor;  que breve es la alegría,</l>
+          <l>que tiene algún lugar en mi memoria.</l>
+        </lg>
+        <lg>
+          <l>Cuando del claro cielo se desvía</l>
+          <l>del Sol ardiente  el alto carro apena,</l>
+          <l>y casi igual espacio muestra el día;</l>
+        </lg>
+        <lg>
+          <l>Con blanda voz, que entre  las perlas suena,</l>
+          <l>teñido el rostro de color de rosa,</l>
+          <l>de honesto  miedo y de amor tierno llena,</l>
+        </lg>
+        <lg>
+          <l>Me dijo así la bella desdeñosa,</l>
+          <l>que un tiempo me negaba la esperanza,</l>
+          <l>sorda a mi llanto y ansia congojosa;</l>
+        </lg>
+        <lg>
+          <l>Si por firmeza y dulce amar se alcanza</l>
+          <l>premio de Amor,  yo tener  bien debo</l>
+          <l>de los males, que sufro, mas holganza.</l>
+        </lg>
+        <lg>
+          <l>Mil veces, por no ser ingrata,  pruebo</l>
+          <l>vencer tu amor, pero al fin no puedo;</l>
+          <l>que es  mi pecho a sentillo  rudo y nuevo.</l>
+        </lg>
+        <lg>
+          <l>Si en sufrir más me vences, yo te excedo</l>
+          <l>en pura fe y afectos de terneza;</l>
+          <l>vive de hoy más ya confiado y ledo.</l>
+        </lg>
+        <lg>
+          <l>No sé, si oí, si fui de su belleza</l>
+          <l>arrebatado, si perdí  el sentido;</l>
+          <l>sé, que allí se perdió  mi fortaleza.</l>
+        </lg>
+        <lg>
+          <l>Turbado dije al fin; por no haber sido</l>
+          <l>este tan grande bien de mí esperado,</l>
+          <l>pienso, que debe ser (si es bien) fingido.</l>
+        </lg>
+        <lg>
+          <l>Señora,  bien sabéis, que mi cuidado</l>
+          <l>todo se ocupa en vos;  que yo no siento,</l>
+          <l>ni pienso, sino en verme más penado.</l>
+        </lg>
+        <lg>
+          <l>Mayor es que el  humano mi tormento,</l>
+          <l>y al mayor mal igual esfuerzo  tengo,</l>
+          <l>igual con el trabajo  el sentimiento.</l>
+        </lg>
+        <lg>
+          <l>Las penas, que por sola vos sostengo,</l>
+          <l>me dan valor, y mi firmeza crece,</l>
+          <l>cuanto más en mis males me entretengo.</l>
+        </lg>
+        <lg>
+          <l>No quiero concederos, que merece</l>
+          <l>mi afán tal bien, que vos sintáis el daño;</l>
+          <l>mas ama, quien más sufre y más padece.</l>
+        </lg>
+        <lg>
+          <l>No es mi pecho tan rudo, o tan extraño,</l>
+          <l>que no conozca en el dolor primero,</l>
+          <l>si, en esto que dijistes, cabe engaño.</l>
+        </lg>
+        <lg>
+          <l>Un corazón de impenetrable acero</l>
+          <l>tengo para sufrir, y está más fuerte,</l>
+          <l>cuanto más el asalto es bravo y fiero,</l>
+        </lg>
+        <lg>
+          <l>Diome el cielo en destino aquesta suerte,</l>
+          <l>y yo la procuré,  y hallé el camino,</l>
+          <l>para poder honrarme  con mi muerte.</l>
+        </lg>
+        <lg>
+          <l>Lo demás, que entre nos pasó, no es digno,</l>
+          <l>Noche, de oír el Austro presuroso,</l>
+          <l>ni el viento de tus lechos más vecino.</l>
+        </lg>
+        <lg>
+          <l>Mete en el ancho  piélago espumoso</l>
+          <l>tus negras trenzas y húmedo semblante;</l>
+          <l>que en  tanto que tu yaces en reposo,</l>
+          <l>podrá  Amor darme gloria semejante.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO  XXXI</head>
+        <lg>
+          <l>El tiempo, que se alarga  al mal extraño,</l>
+          <l>y me muestra mis pasos bien contados;</l>
+          <l>si término  pusiese a mis cuidados,</l>
+          <l>sería a mi esperanza desengaño.</l>
+        </lg>
+        <lg>
+          <l>que el oro, que me tiene en nuevo engaño,</l>
+          <l>los ojos dulcemente  regalados,</l>
+          <l>sin valor a mis años mal gastados</l>
+          <l>el remedio serían de su daño.</l>
+        </lg>
+        <lg>
+          <l>Pero si en él se aumenta el dolor mío,</l>
+          <l>si el oro es y las luces inmortales,</l>
+          <l>y es eterno el valor y altivo intento;</l>
+        </lg>
+        <lg>
+          <l>Será de amor perpetuo  el desvarío;</l>
+          <l>y en las penas, que a todos son mortales,</l>
+          <l>renacerá  contino  mi tormento.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO  XXXII</head>
+        <lg>
+          <l>Oh cara perdición, oh dulce engaño;</l>
+          <l>suave mal, sabroso descontento;</l>
+          <l>amado error  del tierno pensamiento;</l>
+          <l>luz, que nunca descubre el desengaño;</l>
+        </lg>
+        <lg>
+          <l>Puerta,  por la cual entra el bien y el daño;</l>
+          <l>descanso y pena grave del tormento;</l>
+          <l>vida del mal;  alma del sufrimiento;</l>
+          <l>de confusión  revuelta  cerco extraño;</l>
+        </lg>
+        <lg>
+          <l>Vario mar de tormenta y de bonanza;</l>
+          <l>segura playa y peligroso puerto;</l>
+          <l>sereno, instable,  oscuro y claro cielo;</l>
+        </lg>
+        <lg>
+          <l>Por qué  como me diste confianza</l>
+          <l>de osar  perderme,  ya que estoy  desierto</l>
+          <l>de bien, no pones a mi mal consuelo?</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO  XXXIII</head>
+        <lg>
+          <l>Ardientes hebras, do se ilustra el oro,</l>
+          <l>de celestial ambrosía  rociado,</l>
+          <l>tanto  mi gloria sois y mi cuidado,</l>
+          <l>cuanto sois del Amor mayor tesoro.</l>
+        </lg>
+        <lg>
+          <l>Luces, que al estrellado  y alto coro</l>
+          <l>prestáis el bello resplandor  sagrado,</l>
+          <l>cuanto  es Amor por vos más estimado,</l>
+          <l>tanto humilmente  os honro más y adoro.</l>
+        </lg>
+        <lg>
+          <l>Purpúreas  rosas, perlas de Oriente,</l>
+          <l>marfil terso, y angélica armonía,</l>
+          <l>cuanto os contemplo,  tanto en vos me inflamo;</l>
+        </lg>
+        <lg>
+          <l>Y cuanta pena la alma por vos siente,</l>
+          <l>tanto  es mayor valor y gloria mía;</l>
+          <l>y tanto os temo, cuanto  más os amo.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO  XXXIIII</head>
+        <lg>
+          <l>Venció las fuerzas el Amor tirano,</l>
+          <l>cortó los niervos con aguda espada</l>
+          <l>de aquella  dulce libertad  amada,</l>
+          <l>que sin vigor suspiro siempre en vano.</l>
+        </lg>
+        <lg>
+          <l>El me vuelve y me trae por la mano</l>
+          <l>a do mi error y perdición la agrada.</l>
+          <l>mas ya la vida, de su mal cansada,</l>
+          <l>osa tornarse al curso usado y llano.</l>
+        </lg>
+        <lg>
+          <l>Pero es flaca osadía, y con la muerte</l>
+          <l>luchando,  abrazo alegre el dulce engaño,</l>
+          <l>y me aventuro  en el deseo y pierdo.</l>
+        </lg>
+        <lg>
+          <l>Que yo no puedo ser al fin tan fuerte,</l>
+          <l>que contraste gran tiempo a tanto daño;</l>
+          <l>ni en tal error me vale ya ser cuerdo.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>CANCION   II</head>
+        <lg>
+          <l>Si alguna vez mi pena</l>
+          <l>cantaste tiernamente, Lira mía,</l>
+          <l>y en la desierta  arena</l>
+          <l>de este  campo  extendido</l>
+          <l>dende la oscura noche al claro día</l>
+          <l>rompiste  mi gemido;</l>
+          <l>ahora olvida el llanto,</l>
+          <l>y vuelve al alto y desusado canto.</l>
+        </lg>
+        <lg>
+          <l>No celebro  los hechos</l>
+          <l>del duro Marte, y sin temor  osados</l>
+          <l>los  valerosos  pechos,</l>
+          <l>la siempre insigne gloria,</l>
+          <l>de aquellos Españoles  no domados;</l>
+          <l>que para la memoria,</l>
+          <l>que canto,  me da aliento</l>
+          <l>Febo a la voz, y vida al pensamiento.</l>
+        </lg>
+        <lg>
+          <l>Escriba otro  la guerra,</l>
+          <l>y en Turca sangre el ancho mar cuajado,</l>
+          <l>y en la abrasada tierra</l>
+          <l>el conflicto  terrible,</l>
+          <l>y el Lusitano  orgullo quebrantado</l>
+          <l>con  estrago  increíble;</l>
+          <l>que no menor corona</l>
+          <l>teje a mi frente  el coro de Helicona.</l>
+        </lg>
+        <lg>
+          <l>A la grandeza vuestra</l>
+          <l>no ofenda el rudo son de osada lira;</l>
+          <l>que en lo poco que muestra, glorioso Fernando,</l>
+          <l>aunque  desnuda  de destreza  espira,</l>
+          <l>el curso  refrenando</l>
+          <l>el sacro  Hesperio  río</l>
+          <l>mil veces se detuvo  al canto  mío.</l>
+        </lg>
+        <lg>
+          <l>El linaje y grandeza,</l>
+          <l>y ser de tantos  reyes descendiente,</l>
+          <l>la  pura  gentileza</l>
+          <l>y el ingenio dichoso,</l>
+          <l>que entre todos os hacen excelente,</l>
+          <l>y el pecho generoso</l>
+          <l>y la virtud florida</l>
+          <l>de vos prometen  una heroica vida.</l>
+        </lg>
+        <lg>
+          <l>No basta  no el imperio,</l>
+          <l>ni traer las cervices humilladas</l>
+          <l>presas  en  cautiverio</l>
+          <l>con  vencedora mano;</l>
+          <l>ni que de las banderas ensalzadas</l>
+          <l>el Cita  y Africano</l>
+          <l>con  medroso  semblante,</l>
+          <l>y el  Indo y Persa sin valor se espante.</l>
+        </lg>
+        <lg>
+          <l>Que quien  al miedo  obliga</l>
+          <l>y rinde  el corazón, y desfallece</l>
+          <l>de la virtud amiga;</l>
+          <l>y va por el camino,</l>
+          <l>do la profana  multitud  perece,</l>
+          <l>sujeto  al yugo indigno</l>
+          <l>pierde  la gloria  y nombre,</l>
+          <l>pues siendo  más, se hace menos hombre.</l>
+        </lg>
+        <lg>
+          <l>Los Héroes  famosos</l>
+          <l>los niervos al deleite derribaron,</l>
+          <l>que  ni en los engañosos</l>
+          <l>gustos, ni en lisonjeras</l>
+          <l>voces de las Sirenas peligraron;</l>
+          <l>antes las ondas fieras</l>
+          <l>atravesando fueron,</l>
+          <l>por do ningunos escapar pudieron.</l>
+        </lg>
+        <lg>
+          <l>Seguid,  Señor,  la llama</l>
+          <l>de la virtud,  que en vos sus fuerzas prueba;</l>
+          <l>que si bien os inflama</l>
+          <l>de su amor en el fuego,</l>
+          <l>viendo su bella luz, con fuerza nueva,</l>
+          <l>sin  admitir  sosiego,</l>
+          <l>buscaréis  en el suelo</l>
+          <l>la que consigo os alzará en el cielo.</l>
+        </lg>
+        <lg>
+          <l>No os desvanezca  el pecho</l>
+          <l>la soberbia  ignorante  y engañada,</l>
+          <l>ni lo mostréis  estrecho;</l>
+          <l>que  para  aventajaros</l>
+          <l>entre  las sombras  de esta edad culpada,</l>
+          <l>debéis  siempre  esforzaros.</l>
+          <l>que solo es vuestro  aquello,</l>
+          <l>que por virtud  pudisteis  merecello.</l>
+        </lg>
+        <lg>
+          <l>Aquel, que libre  tiene</l>
+          <l>de engaño el corazón, y solo estima</l>
+          <l>lo que a virtud  conviene;</l>
+          <l>y sobre  cuanto  precia</l>
+          <l>el vulgo incierto,  su intención  sublima,</l>
+          <l>y el miedo menosprecia,</l>
+          <l>y sabe mejorarse,</l>
+          <l>solo señor merece y rey llamarse.</l>
+        </lg>
+        <lg>
+          <l>Que no son diferentes</l>
+          <l>en la terrena  masa los mortales;</l>
+          <l>pero en ser excelentes</l>
+          <l>en virtud  y hazañas,</l>
+          <l>se hacen  unos de otros desiguales.</l>
+          <l>estas  glorias  extrañas,</l>
+          <l>en los que resplandecen,</l>
+          <l>si ellos no las esfuerzan, se entorpecen.</l>
+        </lg>
+        <lg>
+          <l>Por el camino  cierto</l>
+          <l>de las divinas Musas vais seguro;</l>
+          <l>do el cielo os muestra  abierto</l>
+          <l>el bien, a otros secreto,</l>
+          <l>con guía tal, que en el peligro oscuro</l>
+          <l>de perturbado afecto</l>
+          <l>venciendo el duro asalto,</l>
+          <l>subiréis de la gloria en lo más alto.</l>
+        </lg>
+        <lg>
+          <l>Y porque las tinieblas,</l>
+          <l>fatal estorbo a la grandeza  humana,</l>
+          <l>no escondan en sus nieblas</l>
+          <l>el valor admirable,</l>
+          <l>haré, que en vuestra gloria soberana</l>
+          <l>siempre  Talía  hable;</l>
+          <l>y que la bella Flora,</l>
+          <l>y los reinos la canten de la Aurora.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO  XXXV</head>
+        <lg>
+          <l>Por un camino solo, al Sol abierto,</l>
+          <l>de espinas y de abrojos  mal sembrado,</l>
+          <l>el tardo paso muevo, y voy cansado</l>
+          <l>a do cierra la vuelta el mar incierto.</l>
+        </lg>
+        <lg>
+          <l>Silencio triste  habita este desierto;</l>
+          <l>y el mal, que ay, conviene ser callado.</l>
+          <l>cuando  pienso acaballo, acrecentado</l>
+          <l>veo el camino, y mi trabajo  cierto.</l>
+        </lg>
+        <lg>
+          <l>A un lado levantan  su grandeza</l>
+          <l>los riscos  juntos, con el cielo iguales,</l>
+          <l>al otro cae un gran despeñadero.</l>
+        </lg>
+        <lg>
+          <l>No sé, de quien me valga en mi estrecheza,</l>
+          <l>que me libre de Amor,  y  de estos  males;</l>
+          <l>pues remedio sin vos, mi Luz, no espero.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO  XXXVI</head>
+        <lg>
+          <l>Llevarme puede bien la suerte  mía</l>
+          <l>al destemplado cerco y fuego ardiente</l>
+          <l>de la abrasada Libia, o do se siente</l>
+          <l>casi perpetua  sombra y noche fría;</l>
+        </lg>
+        <lg>
+          <l>que en la niebla tendré  lumbre del día,</l>
+          <l>templanza  en el calor, aunque esté ausente</l>
+          <l>de vos, mi bien, y Amor siempre inclemente</l>
+          <l>me niegue la esperanza de alegría.</l>
+        </lg>
+        <lg>
+          <l>Y no podrá mi áspero tormento,</l>
+          <l>y el inmenso dolor, que temo tanto,</l>
+          <l>turbarme un solo punto de mi gloria;</l>
+        </lg>
+        <lg>
+          <l>que en  medio  de mi grave sentimiento,</l>
+          <l>de mi hielo y mi llama alegre canto</l>
+          <l>de mi dichoso mal la rica historia.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO XXXVII</head>
+        <lg>
+          <l>Mi bien, que  tardo  fue a llegar, en vuelo</l>
+          <l>pasó, cual rota niebla por el viento;</l>
+          <l>y fue siempre terrible mi tormento,</l>
+          <l>después  que  me cercó el temor  y el hielo.</l>
+        </lg>
+        <lg>
+          <l>Alzaba mi esperanza al alto  cielo;</l>
+          <l>pero en el comenzado movimiento</l>
+          <l>cayó muerta; y sin fuerza  y sin aliento</l>
+          <l>llorando  estoy desierto  en este suelo.</l>
+        </lg>
+        <lg>
+          <l>Do, solo satisfecho de mi llanto</l>
+          <l>huyo  todas las muestras de alegría,</l>
+          <l>ausente, aborrecido y olvidado.</l>
+        </lg>
+        <lg>
+          <l>Membranzas tristes  viven en mi canto;</l>
+          <l>y, puesto en la presente  pena mía,</l>
+          <l>descanso, cuando estoy  más lastimado.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO  XXXVIII</head>
+        <lg>
+          <l>Serena Luz, en quien presente  espira</l>
+          <l>divino amor, que enciende y   junto enfrena</l>
+          <l>el noble pecho, que en mortal cadena</l>
+          <l>al alto Olimpo levantarse aspira;</l>
+        </lg>
+        <lg>
+          <l>Ricos cercos dorados,  do se mira</l>
+          <l>tesoro celestial  de eterna  vena;</l>
+          <l>armonía  de angélica  Sirena,</l>
+          <l>que entre las perlas y el coral  respira;</l>
+        </lg>
+        <lg>
+          <l>Cual nueva maravilla, cual ejemplo</l>
+          <l>de la inmortal  grandeza nos descubre</l>
+          <l>aquesa sombra  del hermoso velo?</l>
+        </lg>
+        <lg>
+          <l>Que yo en esa belleza, que contemplo,</l>
+          <l>(aunque a  mi flaca vista ofende y cubre)</l>
+          <l>la inmensa busco, y voy siguiendo al cielo.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO  XXXIX</head>
+        <lg>
+          <l>Pura,  bella, suave  Estrella  mía,</l>
+          <l>que sin, que os  dañe oscuridad  profana,</l>
+          <l>vestís de luz serena  la mañana,</l>
+          <l>y  la tierra  encendéis desnuda y fría;</l>
+        </lg>
+        <lg>
+          <l>Pues vos, por quien suspiros  mil envía</l>
+          <l>mi alma, cual castísima  Diana,</l>
+          <l>movéis la empresa  vuestra  soberana</l>
+          <l>contra  Venus y Amor con osadía;</l>
+        </lg>
+        <lg>
+          <l>Yo seré, como aquel, que su belleza</l>
+          <l>con hierro amancilló; y el casto hecho</l>
+          <l>lo mostró con más gloria y hermosura.</l>
+        </lg>
+        <lg>
+          <l>Pero tendré  de Ladmo en la aspereza,</l>
+          <l>si Luna sois, del cazador  el pecho,</l>
+          <l>y no de él, que honró Arcadia,  la figura.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO  XL</head>
+        <lg>
+          <l>Viví gran tiempo  en confusión  perdido,</l>
+          <l>y todo de mí mismo enajenado,</l>
+          <l>desesperé de bien;  que en tal estado</l>
+          <l>perdí la mejor luz de mi sentido.</l>
+        </lg>
+        <lg>
+          <l>Mas cuando de mí tuve más olvido,</l>
+          <l>rompió los duros lazos al cuidado</l>
+          <l>de Amor  el enemigo más honrado;</l>
+          <l>y ante mis pies lo derribó vencido.</l>
+        </lg>
+        <lg>
+          <l>Ahora, que procuro  mi provecho,</l>
+          <l>puedo decir, que vivo;  pues soy mío,</l>
+          <l>libre, ajeno de Amor  y de sus daños.</l>
+        </lg>
+        <lg>
+          <l>Pueda el desdén, Antonio,  en vuestro pecho</l>
+          <l>acabar  semejante  desvarío;</l>
+          <l>antes que prevalezcan sus engaños.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO  XLI</head>
+        <lg>
+          <l>Estoy pensando  en mi dolor presente,</l>
+          <l>y procuro  remedio al mal instante;</l>
+          <l>pero soy en mi bien tan inconstante,</l>
+          <l>que a cualquier ocasión vuelvo la frente.</l>
+        </lg>
+        <lg>
+          <l>Cuando  me aparto,  y pienso estar ausente,</l>
+          <l>de mi peligro estoy menos distante.</l>
+          <l>siempre voy con mis yerros adelante,</l>
+          <l>sin que de tantos  daños escarmiente.</l>
+        </lg>
+        <lg>
+          <l>Noble vergüenza del valor perdido,</l>
+          <l>porque no abrasas  este frío pecho,</l>
+          <l>y deshaces mi ciego desvarío?</l>
+        </lg>
+        <lg>
+          <l>Si tú me sacas de este error de olvido;</l>
+          <l>podré decir en honra de este  hecho,</l>
+          <l>que solo debo a ti poder ser mío.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>ELEGIA  IIII</head>
+        <lg>
+          <l>A la pequeña luz del breve día,</l>
+          <l>y al grande cerco de la sombra  oscura</l>
+          <l>veo llegar la corta vida mía.</l>
+        </lg>
+        <lg>
+          <l>La flor de mis primeros años pura</l>
+          <l>siento, Medina, ya gastarse , y siento</l>
+          <l>otro deseo, que mi bien procura.</l>
+        </lg>
+        <lg>
+          <l>Voluntad  diferente  y pensamiento</l>
+          <l>reina dentro  en mi pecho, que deshace</l>
+          <l>el no seguro y flaco fundamento.</l>
+        </lg>
+        <lg>
+          <l>Lo que más me agradó, no satisface</l>
+          <l>al ofendido gusto;  y solo admito,</l>
+          <l>lo que sola razón intenta  y hace.</l>
+        </lg>
+        <lg>
+          <l>Del ancho mar el término infinito,</l>
+          <l>la inmensa tierra, que su curso enfrena,</l>
+          <l>al bien que estimo,  son lugar finito.</l>
+        </lg>
+        <lg>
+          <l>Lo que la vana gloria alcanza apena,</l>
+          <l>por quien se cansa la ambición  profana,</l>
+          <l>y en mil graves peligros se condena;</l>
+        </lg>
+        <lg>
+          <l>La virtud  menosprecia  soberana,</l>
+          <l>y contenta de sí, no para en cosa</l>
+          <l>de las que admira la grandeza humana.</l>
+        </lg>
+        <lg>
+          <l>Yo lejos por la senda  trabajosa</l>
+          <l>sigo entre las tinieblas a su lumbre,</l>
+          <l>abrasado  en su llama gloriosa.</l>
+        </lg>
+        <lg>
+          <l>Y si no rompe, antes que a la cumbre</l>
+          <l>suba el hilo mortal,  hallarme espero</l>
+          <l>libre de esta confusa  muchedumbre.</l>
+        </lg>
+        <lg>
+          <l>Porque  ya veo apresurar ligero,</l>
+          <l>y volar, como rayo acelerado,</l>
+          <l>del tiempo el desengaño verdadero.</l>
+        </lg>
+        <lg>
+          <l>Huyen, como saeta, que el armado</l>
+          <l>arco arroja, los días no parando,</l>
+          <l>envidiosos del no firme estado.</l>
+        </lg>
+        <lg>
+          <l>Va el tiempo siempre avaro derribando</l>
+          <l>nuestra  esperanza, y llevase consigo</l>
+          <l>las cosas todas del terreno  bando.</l>
+        </lg>
+        <lg>
+          <l>Esta caduca vida, por quien sigo</l>
+          <l>lo que en su gusto conformar  no debe,</l>
+          <l>y soy de mí por ella mi enemigo;</l>
+        </lg>
+        <lg>
+          <l>Sombra es desnuda,  humo, polvo, nieve,</l>
+          <l>que el Sol ardiente  gasta con el viento</l>
+          <l>en un espacio muy liviano y breve.</l>
+        </lg>
+        <lg>
+          <l>Es estrecha  prisión, do el pensamiento</l>
+          <l>repara, y ve en la niebla una luz clara</l>
+          <l>de la razón, que oprime al sentimiento.</l>
+        </lg>
+        <lg>
+          <l>Y, como quien mi libertad prepara,</l>
+          <l>siento, que de mi sueño entorpecido</l>
+          <l>me llama, y de esta suerte  se declara;</l>
+        </lg>
+        <lg>
+          <l>Oh mísero, oh anegado en el olvido,</l>
+          <l>oh en Cimeria  tiniebla sepultado,</l>
+          <l>recuerda  de ese sueño adormecido.</l>
+        </lg>
+        <lg>
+          <l>Estás en ciego error  enajenado,</l>
+          <l>que contigo se cría y envejece;</l>
+          <l>y no das fin a tu mortal cuidado?</l>
+        </lg>
+        <lg>
+          <l>Por ventura,  mezquino,  te parece</l>
+          <l>que el Sol no toca el medio de su alteza,</l>
+          <l>y la cercana  noche te oscurece.</l>
+        </lg>
+        <lg>
+          <l>En tanto  que está  verde esta corteza</l>
+          <l>frágil, y no la cubre torpe hielo,</l>
+          <l>y blanca nieve llena de graveza;</l>
+        </lg>
+        <lg>
+          <l>Vuelve por ti, refrena el presto vuelo;</l>
+          <l>y coge al tiempo la mal suelta  rienda;</l>
+          <l>no te condene  de ignorancia el velo.</l>
+        </lg>
+        <lg>
+          <l>Porque  si vas por esta abierta  senda,</l>
+          <l>serás uno en la errada y ciega gente,</l>
+          <l>do nunca el fuego de virtud  te encienda.</l>
+        </lg>
+        <lg>
+          <l>Cuanto  Febo de Aurora al Occidente,</l>
+          <l>y ciñe dende el  Austro  hasta Arturo,</l>
+          <l>perece sin virtud  indignamente.</l>
+        </lg>
+        <lg>
+          <l>Aquel dichoso espíritu,  seguro</l>
+          <l>de estos asaltos  vivirá contino,</l>
+          <l>que fuere en obras y en palabras puro.</l>
+        </lg>
+        <lg>
+          <l>Fuerza es de la virtud, y no es destino,</l>
+          <l>romper el hielo y desatar el frío</l>
+          <l>con vivo fuego de favor divino.</l>
+        </lg>
+        <lg>
+          <l>Desampara  tu osado desvarío,</l>
+          <l>no des más ocasión a tanto engaño;</l>
+          <l>que la edad huye, cual corriente río.</l>
+        </lg>
+        <lg>
+          <l>Serán de tu fatiga premio extraño</l>
+          <l>dolor confuso,  vergonzosa afrenta,</l>
+          <l>tristes  despojos de tu eterno  daño.</l>
+        </lg>
+        <lg>
+          <l>Si esto no te congoja y descontenta,</l>
+          <l>que puede dar congoja y descontento,</l>
+          <l>a quien del suelo levantar  se intenta?</l>
+        </lg>
+        <lg>
+          <l>Tú te acabas  en mísero tormento,</l>
+          <l>pensando  vanamente  ser dichoso,</l>
+          <l>y contigo  tu incierto  fundamento.</l>
+        </lg>
+        <lg>
+          <l>Arranca  de tu pecho desdeñoso</l>
+          <l>la impía raíz, que cría tu esperanza</l>
+          <l>falsa en loco deseo y engañoso.</l>
+        </lg>
+        <lg>
+          <l>Y no es otra  tu gloria y confianza,</l>
+          <l>sino perder y aborrecer (cuitado)</l>
+          <l>a ti por quien descansa  en la mudanza.</l>
+        </lg>
+        <lg>
+          <l>Este sano consejo  y acertado</l>
+          <l>la venda de los ojos me descubre,</l>
+          <l>y me hace mirar con más cuidado.</l>
+        </lg>
+        <lg>
+          <l>Viéndome en el error, y que se encubre</l>
+          <l>la luz, que me guiaba, en el desierto,</l>
+          <l>un frío miedo el corazón me cubre.</l>
+        </lg>
+        <lg>
+          <l>Mas yo no puedo de mi engaño cierto</l>
+          <l>librarme;  porque el  fuego espira ardiente,</l>
+          <l>que al mal me tiene vivo, y al bien muerto.</l>
+        </lg>
+        <lg>
+          <l>Y cuando espero con la luz presente</l>
+          <l>sacalla del incendio, con dulzura</l>
+          <l>extraña la alma presa se resiente.</l>
+        </lg>
+        <lg>
+          <l>Al resplandor de la belleza pura</l>
+          <l>corre encendida con tan alta gloria,</l>
+          <l>que ni otro bien, ni otro placer procura.</l>
+        </lg>
+        <lg>
+          <l>Porque Amor me refiere a la memoria</l>
+          <l>de mi dulce pasión el triste día,</l>
+          <l>que le dio nueva causa a su victoria.</l>
+        </lg>
+        <lg>
+          <l>Yo ya de mil peligros recogía</l>
+          <l>el corazón cansado con reposo,</l>
+          <l>y conmigo indignado así decía;</l>
+        </lg>
+        <lg>
+          <l>Después de este trabajo  congojoso</l>
+          <l>razón será, que en agradable estado</l>
+          <l>viva algún tiempo alegre y no medroso.</l>
+        </lg>
+        <lg>
+          <l>Que fuerza del Amor, que brazo airado</l>
+          <l>penetrará  mi pecho endurecido</l>
+          <l>con un hielo perpetuo  y obstinado?</l>
+        </lg>
+        <lg>
+          <l>No sufra el cielo, que ya más perdido</l>
+          <l>pueda yo ser en tanto desvarío;</l>
+          <l>baste el tiempo en engaños despendido.</l>
+        </lg>
+        <lg>
+          <l>El grave yugo y duro peso frío,</l>
+          <l>que oprime  a la alma, y entorpece el vuelo</l>
+          <l>al generoso pensamiento  mío.</l>
+        </lg>
+        <lg>
+          <l>Descienda roto y sacudido al suelo;</l>
+          <l>que la cerviz ya siento  deslazada,</l>
+          <l>ya niego el feudo a Amor,  ya me rebelo.</l>
+        </lg>
+        <lg>
+          <l>Será el prado, y la selva de mi amada,</l>
+          <l>y cantaré,  como canté, la guerra</l>
+          <l>de la gente de Flegra conjurada.</l>
+        </lg>
+        <lg>
+          <l>Y levantando la alma  de la tierra,</l>
+          <l>subiré a las regiones celestiales;</l>
+          <l>do todo el bien y quietud  se cierra.</l>
+        </lg>
+        <lg>
+          <l>La vanidad de míseros mortales</l>
+          <l>miraré, despreciando su grandeza,</l>
+          <l>causa de siempre  miserables  males.</l>
+        </lg>
+        <lg>
+          <l>En estos pensamientos y nobleza</l>
+          <l>pasar contento y ledo yo pensaba</l>
+          <l>de esta edad corta y breve la estrecheza;</l>
+        </lg>
+        <lg>
+          <l>Que aun ya de la cruel tormenta  y brava</l>
+          <l>no estaba enjuto  mi húmedo vestido</l>
+          <l>ni apena el pie en la tierra yo afirmaba.</l>
+        </lg>
+        <lg>
+          <l>Cuando Amor, que me trae  perseguido,</l>
+          <l>en tempestad  más áspera pretende</l>
+          <l>que yo peligre en confusión  perdido;</l>
+        </lg>
+        <lg>
+          <l>Con tal belleza el corazón me ofende,</l>
+          <l>que no puede huir su nueva pena,</l>
+          <l>ni del mal, que padece, se defiende.</l>
+        </lg>
+        <lg>
+          <l>Un furor  bello, que con luz serena</l>
+          <l>me representa  una inmortal  figura,</l>
+          <l>en perpetuo  tormento me condena.</l>
+        </lg>
+        <lg>
+          <l>De la suave faz la nieve pura,</l>
+          <l>la limpia, alegre, y  mesurada  frente,</l>
+          <l>do mostrársela púrpura procura,</l>
+        </lg>
+        <lg>
+          <l>Y apena  osa, y al fin osadamente</l>
+          <l>quiere  mostrarse;   fueron  en mi daño</l>
+          <l>causa  de este pestífero accidente.</l>
+        </lg>
+        <lg>
+          <l>Cual yo quedase,  hecho de mi extraño,</l>
+          <l>sábelo Amor, que en la miseria mía</l>
+          <l>me da ocasión  para  mayor  engaño.</l>
+        </lg>
+        <lg>
+          <l>Suspiro y lloro cuanto es largo el día,</l>
+          <l>y nunca  cesan  el suspiro y llanto</l>
+          <l>cuanto es larga la noche  oscura  y fría.</l>
+        </lg>
+        <lg>
+          <l>La dulce  voz de aquel su dulce canto</l>
+          <l>mi alma tiene toda suspendida;</l>
+          <l>mas no es canto la voz, es fuerte encanto,</l>
+        </lg>
+        <lg>
+          <l>Que  tras su viva fuerza  y encendida</l>
+          <l>me lleva compelido sin provecho,</l>
+          <l>para perder en tal dolor la vida.</l>
+        </lg>
+        <lg>
+          <l>Duro  jaspe cercó su tierno  pecho,</l>
+          <l>do Amor  despunta con  trabajo vano</l>
+          <l>las flechas todas del carcaj deshecho.</l>
+        </lg>
+        <lg>
+          <l>El rostro, do escribió  Amor  de su  mano,</l>
+          <l>dichoso quien  por mi pena y suspira,</l>
+          <l>si cabe tanto bien en pecho  humano;</l>
+        </lg>
+        <lg>
+          <l>De este  miedo y peligro  me retira,</l>
+          <l>y hace,  que levante el pensamiento</l>
+          <l>a la grandeza, que en  su lumbre mira.</l>
+        </lg>
+        <lg>
+          <l>A todos  pone espanto mi tormento,</l>
+          <l>y a quien  no espantará el dolor,  que paso?</l>
+          <l>y, lo menos  descubro, en lo que siento.</l>
+        </lg>
+        <lg>
+          <l>Yo voy siguiendo de uno en otro  paso</l>
+          <l>a mi bella  Enemiga  presurosa,</l>
+          <l>y la pienso  alcanzar con tardo paso.</l>
+        </lg>
+        <lg>
+          <l>Cuando la Aurora pura y luminosa</l>
+          <l>muestra  la blanca mano al nuevo día,</l>
+          <l>veo la de mi Estrella más hermosa.</l>
+        </lg>
+        <lg>
+          <l>Mas cuanto  mi fortuna  me desvía</l>
+          <l>de su grandeza, tanto  más osado</l>
+          <l>por ella sigo la esperanza  mía.</l>
+        </lg>
+        <lg>
+          <l>Tus viras en mi pecho traspasado</l>
+          <l>ya no caben, Amor, porque está  lleno</l>
+          <l>de tantas,  como en él has arrojado.</l>
+        </lg>
+        <lg>
+          <l>En la luz bella y resplandor  sereno</l>
+          <l>estabas de sus ojos escondido,</l>
+          <l>y me penetró de ellos el veneno.</l>
+        </lg>
+        <lg>
+          <l>de allí arrojaste  en ímpetu  encendido</l>
+          <l>flechas de mi Enemiga, y tu victoria</l>
+          <l>de ellos nació, y fui de ellos yo herido.</l>
+        </lg>
+        <lg>
+          <l>Amor, tu bien les debes esta gloria;</l>
+          <l>que, si no fuera por la fuerza de ellos,</l>
+          <l>en mí ya se perdía tu memoria.</l>
+        </lg>
+        <lg>
+          <l>Tal es la nieve de los ojos bellos,</l>
+          <l>tal es el fuego de la luz serena;</l>
+          <l>que hielo y ardo a un mismo punto en ellos.</l>
+        </lg>
+        <lg>
+          <l>Del frío Euxino a la encendida arena,</l>
+          <l>que el Sol requema en África abrasada,</l>
+          <l>no se ve, cual la mía, otra igual pena.</l>
+        </lg>
+        <lg>
+          <l>Pero podrá dichosa ser llamada</l>
+          <l>por quien me causa esta pasión interna,</l>
+          <l>con envidia de todos admirada.</l>
+        </lg>
+        <lg>
+          <l>Así fuese yo el cielo, que gobierna</l>
+          <l>en cerco las figuras enclavadas,</l>
+          <l>para siempre mirar su luz eterna;</l>
+        </lg>
+        <lg>
+          <l>Así sus  luces puras  y sagradas</l>
+          <l>volviese  siempre  a mis vencidos  ojos,</l>
+          <l>y me abrasase  en llamas  regaladas;</l>
+        </lg>
+        <lg>
+          <l>Como  todas  mis ansias,  mis enojos</l>
+          <l>serían  bien y gloria, y mi tormento</l>
+          <l>descanso en el ardor  de mis despojos.</l>
+        </lg>
+        <lg>
+          <l>Mal podré  yo decir mi sentimiento,</l>
+          <l>si el dolor  no me deja de la mano;</l>
+          <l>si vence su rigor al sufrimiento.</l>
+        </lg>
+        <lg>
+          <l>Grande esperanza en un deseo  vano</l>
+          <l>es la molesta causa  de mi pena,</l>
+          <l>y un ciego error  de dulce  Amor  tirano.</l>
+        </lg>
+        <lg>
+          <l>No me espanto, que esté  mi Estrella ajena</l>
+          <l>de amor, pues he el amor  todo ocupado,</l>
+          <l>y del solo mi ánima  está  llena;</l>
+        </lg>
+        <lg>
+          <l>que en  él todo se ha toda  trasformado;</l>
+          <l>y así amo solo, y ella sola amada</l>
+          <l>es, no amando un amor  tan  extremado.</l>
+        </lg>
+        <lg>
+          <l>Tal vez suele poner  la faz rosada</l>
+          <l>de aquel  color,  que suele al tierno día</l>
+          <l>mostrar la fresca  Aurora rociada;</l>
+        </lg>
+        <lg>
+          <l>Y le digo, Señora  dulce  mía,</l>
+          <l>si pura fe, debida  a vuestra alteza,</l>
+          <l>merece algún  perdón de su osadía;</l>
+        </lg>
+        <lg>
+          <l>Vuestro excelso  valor, y gran belleza</l>
+          <l>no se ofendan en ver, que oso y espero</l>
+          <l>premio,  que se compare a su grandeza.</l>
+        </lg>
+        <lg>
+          <l>Tanto por vos padezco,  tanto  os quiero,</l>
+          <l>y tanto  os di, que puedo  ya atrevido</l>
+          <l>decir, que por vos vivo, y por vos muero.</l>
+        </lg>
+        <lg>
+          <l>Así digo;  y en esto embebecido</l>
+          <l>con dulce engaño desamparo  el puerto,</l>
+          <l>y me abandono  por el mar tendido.</l>
+        </lg>
+        <lg>
+          <l>Sopla el fiero Aquilón, de bien desierto,</l>
+          <l>las ondas alza y vuelve un torbellino,</l>
+          <l>y el cielo en negra sombra está cubierto.</l>
+        </lg>
+        <lg>
+          <l>No puedo, ay oh dolor, ay oh mezquino,</l>
+          <l>remediar el peligro, que recela</l>
+          <l>el corazón en su dolor indigno.</l>
+        </lg>
+        <lg>
+          <l>Bien fuera tiempo de coger la vela</l>
+          <l>con presta mano, y revolver a tierra</l>
+          <l>la  proa, que cortando el ponto vuela.</l>
+        </lg>
+        <lg>
+          <l>Mas yo, para morir en esta guerra,</l>
+          <l>nací inclinado; y sigo el furor mío,</l>
+          <l>por donde  del sosiego me destierra.</l>
+        </lg>
+        <lg>
+          <l>Vos, que de este amoroso  desvarío</l>
+          <l>vivís libre, si puedo ser culpado,</l>
+          <l>por volver a este mal con tanto  brío,</l>
+          <l>sabed, que debo más a mi cuidado.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO  XLII</head>
+        <lg>
+          <l>Aura  mansa,  y templada de Occidente,</l>
+          <l>que con el tierno  soplo y blando  frío</l>
+          <l>halagas  el ardor del pecho  mío,</l>
+          <l>qué espíritu te mueve  vehemente?</l>
+        </lg>
+        <lg>
+          <l>Ni Euro espira,  ni Austro suena  ardiente</l>
+          <l>en el furor  más grave  del estío ;</l>
+          <l>y tú abrasas el verde  prado y río,</l>
+          <l>cual al suelo  Africano el Sol caliente.</l>
+        </lg>
+        <lg>
+          <l>Mas ay, tú te encendiste en mi Luz bella,</l>
+          <l>y, enemiga  del bien de mi ventura,</l>
+          <l>abrasaste las ondas y las flores.</l>
+        </lg>
+        <lg>
+          <l>Cesa  Aura,  no me enciendas más, que en  ella</l>
+          <l>ardo  siempre, y me abraso en llama pura.</l>
+          <l>ah no añadas más fuego a mis ardores.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO  XLIII</head>
+        <lg>
+          <l>Oh como  vuela  en alto  mi deseo,</l>
+          <l>sin que de su osadía  el  mal fin tema!</l>
+          <l>que  ya las puntas de sus alas quema,</l>
+          <l>donde ningún  remedio al triste  veo.</l>
+        </lg>
+        <lg>
+          <l>Que  mal podrá  alabarse del trofeo,</l>
+          <l>si estando ufano  en la región suprema</l>
+          <l>del fuego ardiente, en esta  banda  extrema</l>
+          <l>cae por su siniestro devaneo.</l>
+        </lg>
+        <lg>
+          <l>Debía en mi fortuna ser  ejemplo</l>
+          <l>Dédalo,  no aquel  joven atrevido,</l>
+          <l>que dio al cerúleo piélago su nombre.</l>
+        </lg>
+        <lg>
+          <l>Mas ya tarde  mis lástimas contemplo.</l>
+          <l>pero si muero,  porque osé, perdido,</l>
+          <l>jamás a igual empresa osó algún  hombre.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO XLIIII</head>
+        <lg>
+          <l>En esta  soledad, que el  Sol ardiente</l>
+          <l>no ofende  con sus  rayos, estoy  puesto,</l>
+          <l>a todo  el mal de ingrato Amor  dispuesto,</l>
+          <l>triste, y sin mi Luz bella, y siempre ausente.</l>
+        </lg>
+        <lg>
+          <l>Tal  vez me finjo y creo  estar  presente</l>
+          <l>en el  dichoso, alegre  y fresco puesto,</l>
+          <l>y en la gloria  me pierdo; que el  molesto</l>
+          <l>dolor  de la alma aparta este  accidente.</l>
+        </lg>
+        <lg>
+          <l>Nunca silencio y soledad oscura</l>
+          <l>pueden  dar  a quien  ama  tal contento,</l>
+          <l>si no se cambiase la alegría.</l>
+        </lg>
+        <lg>
+          <l>Poco  en memoria el bien de amor me dura,</l>
+          <l>que aun en este ocioso apartamiento</l>
+          <l>no se afirma en segura fantasía.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO  XLV</head>
+        <lg>
+          <l>Clara,  suave  luz, alegre y   bella,</l>
+          <l>que los zafiros  y color  del cielo</l>
+          <l>teñís  de la esmeralda con el velo,</l>
+          <l>que  resplandece en una y otra  estrella;</l>
+        </lg>
+        <lg>
+          <l>Divino  resplandor, pura  centella,</l>
+          <l>por quien  libre  mi alma,  en alto  vuelo</l>
+          <l>las alas rojas  bate,  y huye  el suelo</l>
+          <l>ardiendo vuestro dulce  fuego en ella;</l>
+        </lg>
+        <lg>
+          <l>Si yo no solo abraso el pecho  mío,</l>
+          <l>mas la tierra  y el cielo, y en mi llama</l>
+          <l>doy principio inmortal de fuego eterno;</l>
+        </lg>
+        <lg>
+          <l>Por qué el rigor de vuestro antiguo frío</l>
+          <l>no podré  ya encender? por qué no inflama</l>
+          <l>mi estío  ardiente a vuestro helado  invierno?</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO  XLVI</head>
+        <lg>
+          <l>Cubre en oscuro cerco y sombra  fría</l>
+          <l>del cielo puro el resplandor  sereno</l>
+          <l>la húmeda  noche, y yo, de dolor lleno,</l>
+          <l>lloro mi bien perdido, y mi alegría.</l>
+        </lg>
+        <lg>
+          <l>Ningún alivio en la miseria mía</l>
+          <l>hallo, de ningún mal estoy ajeno;</l>
+          <l>cuanto  en la confusión  nublosa  peno,</l>
+          <l>padezco en la rosada luz del día.</l>
+        </lg>
+        <lg>
+          <l>En otro nuevo Cáucaso enclavado,</l>
+          <l>mi cuidado  mortal y mi deseo</l>
+          <l>el corazón  me comen  renovado;</l>
+        </lg>
+        <lg>
+          <l>Do no pudiera el sucesor  de Alceo</l>
+          <l>librarme del tormento no cansado,</l>
+          <l>que excede  al del antiguo  Prometeo.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO  XLVII</head>
+        <lg>
+          <l>Quien osa desnudar  la bella frente</l>
+          <l>del puro resplandor y luz del cielo?</l>
+          <l>quien niega el ornamento y gloria al suelo</l>
+          <l>de las crespas lazadas de oro ardiente?</l>
+        </lg>
+        <lg>
+          <l>El impío Febo este dolor consiente</l>
+          <l>con sacrílega envidia y mortal celo,</l>
+          <l>después que ve cubrir de oscuro  velo</l>
+          <l>la llama de sus hebras  reluciente.</l>
+        </lg>
+        <lg>
+          <l>Con dura mano lleva los despojos,</l>
+          <l>y quiere mejorar cuanto perdía,</l>
+          <l>y altivo de sus trenzas se corona;</l>
+        </lg>
+        <lg>
+          <l>Porque ya vean los mortales ojos</l>
+          <l>siempre con viva luz un claro día</l>
+          <l>en sus sagrados cercos y corona.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>CANCION   III</head>
+        <lg>
+          <l>Cuando con  resonante</l>
+          <l>rayo, y furor del brazo poderoso</l>
+          <l>a Encélado arrogante</l>
+          <l>Júpiter glorioso</l>
+          <l>en Etna  despeñó victorioso;</l>
+        </lg>
+        <lg>
+          <l>Y la vencida  Tierra,</l>
+          <l>a su imperio  sujeta  y condenada,</l>
+          <l>desamparó la guerra</l>
+          <l>por la sangrienta espada</l>
+          <l>de Marte,  con mil muertes no domada;</l>
+        </lg>
+        <lg>
+          <l>En la celeste  cumbre</l>
+          <l>es fama,  que con  dulce  voz presente</l>
+          <l>Febo, autor  de la lumbre,</l>
+          <l>cantó suavemente</l>
+          <l>revuelto en oro  la encrespada frente.</l>
+        </lg>
+        <lg>
+          <l>La sonora armonía</l>
+          <l>suspende atento al inmortal senado;</l>
+          <l>y el cielo, que  movía</l>
+          <l>su curso  arrebatado,</l>
+          <l>se reparaba al canto consagrado.</l>
+        </lg>
+        <lg>
+          <l>Halagaba  el sonido</l>
+          <l>al alto y bravo mar y airado viento</l>
+          <l>su furor  encogido,</l>
+          <l>y con divino  aliento</l>
+          <l>las Musas consonaban a su intento.</l>
+        </lg>
+        <lg>
+          <l>Cantaba la victoria</l>
+          <l>del cielo, y el horror y la aspereza,</l>
+          <l>que les dio  mayor  gloria,</l>
+          <l>temiendo la crudeza</l>
+          <l>de la Titania estirpe y su bruteza.</l>
+        </lg>
+        <lg>
+          <l>Cantaba el rayo fiero,</l>
+          <l>y de Minerva la vibrada  lanza,</l>
+          <l>del rey del mar ligero</l>
+          <l>la terrible pujanza,</l>
+          <l>y del Hercúleo brazo la venganza.</l>
+        </lg>
+        <lg>
+          <l>Más  del sangriento Marte</l>
+          <l>las fuerzas  alabó y desnuda espada,</l>
+          <l>y la  braveza y arte</l>
+          <l>de aquella diestra armada,</l>
+          <l>cuya  furia  fue en Flegra  lamentada.</l>
+        </lg>
+        <lg>
+          <l>A ti, decía,  escudo,</l>
+          <l>a ti valor  del cielo poderoso,</l>
+          <l>poner  temor  no pudo</l>
+          <l>el escuadrón dudoso</l>
+          <l>con enroscadas sierpes espantoso.</l>
+        </lg>
+        <lg>
+          <l>Tú solo a Oromedonte</l>
+          <l>diste bravo  y feroz horrible  muerte</l>
+          <l>junto al doblado monte,</l>
+          <l>y con  dichosa  suerte</l>
+          <l>a Peloro abatió tu diestra fuerte.</l>
+        </lg>
+        <lg>
+          <l>Oh hijo esclarecido</l>
+          <l>de Juno,  oh duro  y no cansado pecho,</l>
+          <l>por quien Mimas vencido,</l>
+          <l>y en peligroso estrecho</l>
+          <l>el pavoroso Runco fue deshecho.</l>
+        </lg>
+        <lg>
+          <l>Tu ceñido de acero,</l>
+          <l>tu estrago de los hombres rabioso,</l>
+          <l>con sangre  hórrido y fiero,</l>
+          <l>y todo impetuoso,</l>
+          <l>el grande muro  rompes  presuroso.</l>
+        </lg>
+        <lg>
+          <l>Tú encendiste en aliento</l>
+          <l>y amor  de guerra y generosa gloria</l>
+          <l>al sacro  ayuntamiento,</l>
+          <l>dándole la victoria,</l>
+          <l>que  hará  siempre eterna su  memoria.</l>
+        </lg>
+        <lg>
+          <l>A ti Júpiter  debe,</l>
+          <l>libre ya de peligro,  que el  profano</l>
+          <l>linaje, que se atreve alzar armada mano,</l>
+          <l>sujeto sienta  ser su orgullo vano.</l>
+        </lg>
+        <lg>
+          <l>Mas aunque resplandezca</l>
+          <l>esta  victoria  tuya  esclarecida</l>
+          <l>con fama, que merezca</l>
+          <l>tener eterna vida,</l>
+          <l>sin que de oscuridad  esté ofendida;</l>
+        </lg>
+        <lg>
+          <l>Vendrá tiempo, en que sea</l>
+          <l>tu nombre, tu valor puesto en olvido;</l>
+          <l>y la tierra posea</l>
+          <l>valor tan escogido,</l>
+          <l>que ante  él el tuyo quede oscurecido.</l>
+        </lg>
+        <lg>
+          <l>Y el fértil Occidente,</l>
+          <l>en cuyo inmenso piélago se baña</l>
+          <l>mi veloz carro ardiente,</l>
+          <l>con claro honor de España</l>
+          <l>te mostrará la luz de esta hazaña.</l>
+        </lg>
+        <lg>
+          <l>Que el cielo le concede</l>
+          <l>de César sacro el ramo glorioso,</l>
+          <l>que su valor herede;</l>
+          <l>para que al espantoso</l>
+          <l>Turco quebrante  el brío corajoso,</l>
+          <l>veráse el impío bando</l>
+          <l>en la fragosa, inaccesible cumbre,</l>
+          <l>que sube amenazando</l>
+          <l>a la celeste lumbre,</l>
+          <l>confiado en su osada muchedumbre.</l>
+        </lg>
+        <lg>
+          <l>Y allí de miedo ajeno</l>
+          <l>corre, cual suelta cabra, y se abalanza</l>
+          <l>con el fogoso trueno</l>
+          <l>de su cubierta  estancia,</l>
+          <l>y sigue de sus odios la venganza.</l>
+        </lg>
+        <lg>
+          <l>Mas luego que aparece</l>
+          <l>el joven de Austria en la enriscada sierra,</l>
+          <l>el temor  entorpece</l>
+          <l>a la enemiga tierra,</l>
+          <l>y con ella acabó toda la guerra.</l>
+        </lg>
+        <lg>
+          <l>Cual tempestad  ondosa</l>
+          <l>con horrísono  estruendo se levanta</l>
+          <l>y la nave medrosa</l>
+          <l>de aquella furia  tanta,</l>
+          <l>entre peñascos ásperos quebranta.</l>
+        </lg>
+        <lg>
+          <l>Oh cual del cerco estrecho</l>
+          <l>el flamígero  rayo se desata</l>
+          <l>con largo surco hecho,</l>
+          <l>y  rompe y desbarata,</l>
+          <l>cuanto  al encuentro su ímpetu  arrebata.</l>
+        </lg>
+        <lg>
+          <l>La Fama alzará luego,</l>
+          <l>y con doradas  alas la Victoria</l>
+          <l>sobre el orbe del fuego,</l>
+          <l>resonando su gloria</l>
+          <l>con puro resplandor  de su memoria.</l>
+        </lg>
+        <lg>
+          <l>Y llevarán  su nombre</l>
+          <l>de los últimos  soplos de Occidente</l>
+          <l>con inmortal  renombre</l>
+          <l>al purpúreo  Oriente,</l>
+          <l>y a do hiela y abrasa el cielo ardiente.</l>
+        </lg>
+        <lg>
+          <l>Si Peloro tuviera</l>
+          <l>de su excelso valor alguna parte,</l>
+          <l>el solo te venciera,</l>
+          <l>aunque  tuvieras, Marte,</l>
+          <l>doblado  esfuerzo y osadía y arte.</l>
+        </lg>
+        <lg>
+          <l>Si este valiera al cielo</l>
+          <l>contra el profano ejército arrogante,</l>
+          <l>no tuvieras recelo,</l>
+          <l>tú Júpiter  tonante,</l>
+          <l>ni arrojaras  el rayo resonante.</l>
+        </lg>
+        <lg>
+          <l>Traed pues ya volando</l>
+          <l>oh cielos este tiempo espacioso,</l>
+          <l>que fuerza dilatando</l>
+          <l>el curso glorioso;</l>
+          <l>haced, que se adelante presuroso.</l>
+        </lg>
+        <lg>
+          <l>Así la lira suena,</l>
+          <l>y Jove el canto afirma, y se estremece</l>
+          <l>sacudido, y  resuena</l>
+          <l>el cielo, y resplandece,</l>
+          <l>y Mavorte medroso se oscurece.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO  XLVIII</head>
+        <lg>
+          <l>Rompió la  proa en dura roca abierta</l>
+          <l>mi frágil nave, que con viento lleno</l>
+          <l>veloz cortaba el piélago sereno,</l>
+          <l>y apena escapo de la muerte cierta.</l>
+        </lg>
+        <lg>
+          <l>Afirme el pie yo en tierra, que la incierta</l>
+          <l>onda del mar no me tendrá  en su seno;</l>
+          <l>ni de mí me podrá  traer ajeno</l>
+          <l>vana esperanza,  de salud  desierta.</l>
+        </lg>
+        <lg>
+          <l>Si la sombra  del daño  padecido</l>
+          <l>puede mover, Filipo, vuestro  pecho,</l>
+          <l>huid surcar del ponto la llanura;</l>
+        </lg>
+        <lg>
+          <l>Y creed, que en el  golfo de Cupido</l>
+          <l>ninguno  navegó, que al fin deshecho,</l>
+          <l>no se perdiese falto de ventura.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO  XLIX</head>
+        <lg>
+          <l>Esperé un tiempo, y fue esperanza vana,</l>
+          <l>librar de esta  congoja el pensamiento,</l>
+          <l>subiendo  de Castalia  al alto asiento,</l>
+          <l>do no puede alcanzar Musa profana;</l>
+        </lg>
+        <lg>
+          <l>Para  cantar la honra soberana</l>
+          <l>(ved cuán grande es, Girón, mi atrevimiento)</l>
+          <l>de quien con inmortal  merecimiento</l>
+          <l>contrasta el hado, y su furor allana.</l>
+        </lg>
+        <lg>
+          <l>Qué bien sé, que es  mayor  la insigne  gloria</l>
+          <l>de quien  Melas bañó, y el  Mincio frío,</l>
+          <l>que de quien  lloró en Tebro  sus enojos.</l>
+        </lg>
+        <lg>
+          <l>Mas que haré, si toda  mi memoria</l>
+          <l>ocupa  Amor, tirano señor  mío?</l>
+          <l>qué?  si me fuerzan  de mi Luz los ojos.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO L</head>
+        <lg>
+          <l>Pierdo, tu culpa  Amor,  pierdo  engañado,</l>
+          <l>siguiendo tu esperanza prometida,</l>
+          <l>el más florido tiempo  de mi vida,</l>
+          <l>sin nombre, en ciego olvido sepultado.</l>
+        </lg>
+        <lg>
+          <l>Ya no más, baste haber siempre ocupado</l>
+          <l>el pensamiento y la razón perdida</l>
+          <l>en tu gloria,  mi infamia  aborrecida;</l>
+          <l>que  quien  muda  la edad,  trueca  el cuidado.</l>
+        </lg>
+        <lg>
+          <l>Yo he visto a los pies puesto un duro hierro,</l>
+          <l>y torcello la mano  del cautivo,</l>
+          <l>y desatarse de aquel  nudo fuerte.</l>
+        </lg>
+        <lg>
+          <l>Mas oh que ni el desdén, ni mi destierro</l>
+          <l>pueden borrar  del corazón esquivo,</l>
+          <l>lo que nunca podrá gastar la muerte.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO  LI</head>
+        <lg>
+          <l>No espero en mi dolor lo que deseo,</l>
+          <l>que tanto bien no cabe en mi mal fiero;</l>
+          <l>mas deseo ya solo, lo que espero;</l>
+          <l>que es acabar en este devaneo.</l>
+        </lg>
+        <lg>
+          <l>Tan cansado  me tiene este deseo,</l>
+          <l>que del mísero efecto desespero,</l>
+          <l>y engañado en mi intento persevero;</l>
+          <l>y al cabo el vano error,  que sigo, veo.</l>
+        </lg>
+        <lg>
+          <l>Pero que vale ver el mal presente,</l>
+          <l>si porfío y contrasto no espantado</l>
+          <l>a los bravos asaltos  de amor  crudo?</l>
+        </lg>
+        <lg>
+          <l>No temo, y oso todo libremente;</l>
+          <l>porque es  al corazón desesperado</l>
+          <l>la obstinación  impenetrable escudo.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO   LII</head>
+        <lg>
+          <l>Aquí, do estoy ausente y escondido,</l>
+          <l>lloro mi mal, pero es el dolor tanto,</l>
+          <l>que en  mis ojos desmaya el triste  llanto,</l>
+          <l>y fallece en silencio mi gemido.</l>
+        </lg>
+        <lg>
+          <l>Por  esta  oscura soledad perdido</l>
+          <l>huyo,  y voy alejándome, mas cuanto</l>
+          <l>me aparto, el mal me sigue,  y pone  espanto;</l>
+          <l>y no me vence en tanto afán sufrido.</l>
+        </lg>
+        <lg>
+          <l>Duro  pecho, porfía  no cansada,</l>
+          <l>rebelde  condición, que osa y contrasta</l>
+          <l>a tan grande mudanza y desventura;</l>
+        </lg>
+        <lg>
+          <l>Llevadme por la senda  acostumbrada</l>
+          <l>de mi error al peligro,  que ya basta</l>
+          <l>ver el fin, sin  tentar nueva  ventura.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO LIII</head>
+        <lg>
+          <l>De este tan grave peso, que cansado</l>
+          <l>sufro,  Fernando, y sin valor  contrasto,</l>
+          <l>procuro alzar el cuello; mas no basto,</l>
+          <l>que al  fin doy con la carga  desmayado.</l>
+        </lg>
+        <lg>
+          <l>De mil flaquezas mías afrentado,</l>
+          <l>me enciendo en ira, y la paciencia gasto;</l>
+          <l>pero  nunca  león  hambriento al pasto</l>
+          <l>va, como  yo al error de mi cuidado.</l>
+        </lg>
+        <lg>
+          <l>Mas  aunque oprima en mí mi mejor  parte,</l>
+          <l>ved si estoy  ya de Amor aborrecido,</l>
+          <l>oso al fin, y me opongo a mi deseo.</l>
+        </lg>
+        <lg>
+          <l>Y en estos trances  de dudoso  Marte</l>
+          <l>será de mí, si soy varón,  vencido</l>
+          <l>otro,  mayor que el Africano  Anteo.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO  LIIII</head>
+        <lg>
+          <l>Lloré, y canté de Amor  la saña ardiente;</l>
+          <l>y lloro, y canto ya la ardiente saña</l>
+          <l>de esta cruel, por quien mi pena extraña</l>
+          <l>ningún descanso al corazón consiente.</l>
+        </lg>
+        <lg>
+          <l>Esperé, y temí el bien tal vez ausente;</l>
+          <l>y espero, y temo el mal que me acompaña;</l>
+          <l>y en un error,  que en soledad me engaña,</l>
+          <l>me pierdo sin provecho  vanamente.</l>
+        </lg>
+        <lg>
+          <l>Veo la noche, antes que huya el día,</l>
+          <l>y  la sombra  crecer, contrario agüero,</l>
+          <l>mas que me vale conocer mi suerte?</l>
+        </lg>
+        <lg>
+          <l>La dura obstinación  de mi porfía</l>
+          <l>no cansa, ni se rinde al dolor fiero;</l>
+          <l>mas siempre  va al encuentro de mi muerte.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>ELEGIA   V</head>
+        <lg>
+          <l>Bien puedo, injusto Amor, pues ya no tengo</l>
+          <l>fuerza, con que levante mi esperanza,</l>
+          <l>quejarme de las penas, que sostengo.</l>
+        </lg>
+        <lg>
+          <l>No temo ya, ni siento la mudanza,</l>
+          <l>que en la sombra de un bien me dio mil daños,</l>
+          <l>nacidos  de una vana confianza.</l>
+        </lg>
+        <lg>
+          <l>Larga experiencia en estos cortos años</l>
+          <l>de tantos males trueca a mi deseo</l>
+          <l>el curso,  enderezado a sus engaños.</l>
+        </lg>
+        <lg>
+          <l>Pienso  mil veces, y ninguna  creo,</l>
+          <l>que he de llegar a tiempo, en que descanse</l>
+          <l>del grave afán, en que morir me veo.</l>
+        </lg>
+        <lg>
+          <l>Mas porque tu furor tal vez se amanse,</l>
+          <l>no tienes condición, que se conduela</l>
+          <l>de ver, que yo de padecer no canse.</l>
+        </lg>
+        <lg>
+          <l>Tendí al prospero Céfiro la vela</l>
+          <l>de mi ligera nave en mar abierto,</l>
+          <l>donde el peligro en vano se recela.</l>
+        </lg>
+        <lg>
+          <l>El cielo, el viento, el golfo siempre incierto</l>
+          <l>cambiaron tantas veces mi ventura,</l>
+          <l>que nunca tuve un breve estado cierto.</l>
+        </lg>
+        <lg>
+          <l>Anduve ciego, viendo la luz pura,</l>
+          <l>y, para no esperar algún sosiego,</l>
+          <l>abrí los ojos en la sombra oscura.</l>
+        </lg>
+        <lg>
+          <l>La fría nieve me abrasó en tu fuego;</l>
+          <l>la llama, que busqué, me hizo hielo;</l>
+          <l>el desdén me valió, no el tierno  ruego.</l>
+        </lg>
+        <lg>
+          <l>Subí, sin procurallo, hasta el cielo;</l>
+          <l>que se perdió en tal hecho mi osadía.</l>
+          <l>cuando me aventuré,  me vi en el suelo.</l>
+        </lg>
+        <lg>
+          <l>No estoy ya en tiempo, donde a la alegría</l>
+          <l>dé algún lugar,  ni puedo a mi cuidado</l>
+          <l>sacar del vano error de su porfía.</l>
+        </lg>
+        <lg>
+          <l>Do está la gloria de mi bien pasado,</l>
+          <l>que, como en sueño, vi tal vez delante?</l>
+          <l>a do el favor a un punto arrebatado?</l>
+        </lg>
+        <lg>
+          <l>Mísera  vida de un  mezquino  amante,</l>
+          <l>siempre en cualquier sazón necesitada</l>
+          <l>del bien que huye, y pierde en un instante.</l>
+        </lg>
+        <lg>
+          <l>Mal puedo hallar fin a la intrincada</l>
+          <l>senda, por donde solo voy medroso,</l>
+          <l>si no la tuerzo, o rompo en la jornada.</l>
+        </lg>
+        <lg>
+          <l>Tan alcanzado estoy y  menesteroso,</l>
+          <l>que desespero  de salud, y pienso,</l>
+          <l>que vale osar en hecho tan dudoso.</l>
+        </lg>
+        <lg>
+          <l>Mas oh cuán mal en este error  dispenso</l>
+          <l>las cosas, que contienen  mi remedio!</l>
+          <l>con cuanto  engaño voy al mal suspenso!</l>
+        </lg>
+        <lg>
+          <l>Tiénesme puesto, Amor,  un duro  asedio;</l>
+          <l>yo no sé, si me rindo, o me defiendo;</l>
+          <l>ni sé hallar a tanto  daño un medio.</l>
+        </lg>
+        <lg>
+          <l>Nuevo fuego no es este, en que me enciendo;</l>
+          <l>pero es nuevo el dolor, que me deshace,</l>
+          <l>tan ciega la ocasión, que no la entiendo.</l>
+        </lg>
+        <lg>
+          <l>La soledad  abrazo, y no me aplace</l>
+          <l>el trato  de la gente, en el olvido</l>
+          <l>el cuidado  mil cosas muda, y hace.</l>
+        </lg>
+        <lg>
+          <l>En árboles y peñas esculpido</l>
+          <l>el nombre  de la causa de mi pena</l>
+          <l>honro  con mis suspiros y gemido.</l>
+        </lg>
+        <lg>
+          <l>Tal vez pruebo, rompiendo  en triste vena</l>
+          <l>primero  el llanto, con la voz quejosa</l>
+          <l>decir mi mal, mas el temor me enfrena.</l>
+        </lg>
+        <lg>
+          <l>Pienso, y siempre me engaño en cualquier cosa;</l>
+          <l>que encuentra con el  vago pensamiento</l>
+          <l>la atrevida esperanza  y temerosa.</l>
+        </lg>
+        <lg>
+          <l>Dísteme fuerza, Amor, dísteme aliento,</l>
+          <l>para  emprender una tan gran  hazaña;</l>
+          <l>y me olvidaste en el seguido intento.</l>
+        </lg>
+        <lg>
+          <l>No tiene  el alto  mar,  cuando se ensaña</l>
+          <l>igual furor, ni el ímpetu fragoso</l>
+          <l>del rayo tanto estraga, y tanto daña;</l>
+        </lg>
+        <lg>
+          <l>Cuanto en un tierno pecho y amoroso</l>
+          <l>se embravece tu furia; cuando siente</l>
+          <l>firme valor  y corazón  brioso.</l>
+        </lg>
+        <lg>
+          <l>Que  me valió  hallarme diferente</l>
+          <l>en tu gloria,  que huye,  y conocerme</l>
+          <l>superior entre tu presa  gente?</l>
+        </lg>
+        <lg>
+          <l>Ni tú podías  más ya sostenerme,</l>
+          <l>ni yo en tan grande bien  pude,  mezquino,</l>
+          <l>aunque más me esforzaba, contenerme.</l>
+        </lg>
+        <lg>
+          <l>Yo siempre fui de tanta gloria  indigno,</l>
+          <l>y  también de este  fiero  mal, que paso;</l>
+          <l>ni tú, ni yo acertamos el camino.</l>
+        </lg>
+        <lg>
+          <l>Una ocasión  y otra  a un mismo  paso</l>
+          <l>se me presentan, que perdí, y conmigo</l>
+          <l>me culpo,  y avergüenzo en este  paso.</l>
+        </lg>
+        <lg>
+          <l>Tú solo puedes ser,  Amor, testigo</l>
+          <l>de aquellos días dulces  de mi gloria,</l>
+          <l>y cuán  ufano  me hallé contigo.</l>
+        </lg>
+        <lg>
+          <l>No te refiero  yo mi alegre historia</l>
+          <l>con presunción, antes la traigo  a cuenta</l>
+          <l>para  más confusión de mi memoria.</l>
+        </lg>
+        <lg>
+          <l>No es tanto  el grave mal, que me atormenta,</l>
+          <l>que no merezca más, pues viendo abierto</l>
+          <l>el cielo al bien, me hallo en esta afrenta.</l>
+        </lg>
+        <lg>
+          <l>Austro  cruel, que en breve espacio has muerto</l>
+          <l>la bella flor, en cuyo olor vivía,</l>
+          <l>y me dejaste  de salud desierto;</l>
+        </lg>
+        <lg>
+          <l>Siempre te hiera nieve, y sombra fría</l>
+          <l>te cerque, y a tu soplo falte el vuelo,</l>
+          <l>impío ofensor de la ventura  mía.</l>
+        </lg>
+        <lg>
+          <l>Yo, me vi en tiempo, libre de recelo,</l>
+          <l>que aun  el bien me dañaba, ahora veo,</l>
+          <l>que el más mísero soy, que tiene el suelo.</l>
+        </lg>
+        <lg>
+          <l>Desespero, y no mengua mi deseo;</l>
+          <l>y en igual peso están villano miedo,</l>
+          <l>osadía, cordura  y devaneo.</l>
+        </lg>
+        <lg>
+          <l>Estos cuidados,  que olvidar no puedo,</l>
+          <l>me desafían a sangrienta guerra,</l>
+          <l>porque esperan vencerme o tarde, o cedo.</l>
+        </lg>
+        <lg>
+          <l>El hijo de Agenor  la dura tierra</l>
+          <l>labra, y le ofende el fruto  belicoso,</l>
+          <l>que en  armadas  escuadras  desencierra;</l>
+        </lg>
+        <lg>
+          <l>A mí de mi trabajo sin reposo</l>
+          <l>nace de cuitas una hueste entera,</l>
+          <l>que me trae afligido y temeroso.</l>
+        </lg>
+        <lg>
+          <l>Del lago Argivo la serpiente  fiera</l>
+          <l>no se multiplicó con tal espanto,</l>
+          <l>como en crecer  mi daño persevera.</l>
+        </lg>
+        <lg>
+          <l>Para mayor caída me levanto</l>
+          <l>del mal tal vez, y luego desfallezco,</l>
+          <l>y me acuso  de haber  osado tanto.</l>
+        </lg>
+        <lg>
+          <l>El tormento, que sufro,  no encarezco;</l>
+          <l>que pasar mal no es hecho de alabanza,</l>
+          <l>más descanso en decir como padezco.</l>
+        </lg>
+        <lg>
+          <l>Horas, que tuve un tiempo de holganza,</l>
+          <l>cuando pensaba, que era  agradecida</l>
+          <l>mi pena, tomad ya de mi venganza.</l>
+        </lg>
+        <lg>
+          <l>Yo soy, yo el que pensé en tan dulce vida</l>
+          <l>no mudar algún punto de mi suerte,</l>
+          <l>yo soy, yo el que la tengo ya perdida.</l>
+        </lg>
+        <lg>
+          <l>El corazón en fuego se convierte,</l>
+          <l>en lágrimas los ojos, y ninguno</l>
+          <l>puede tanto, que venza por más fuerte.</l>
+        </lg>
+        <lg>
+          <l>A ti me vuelvo, amigo no oportuno,</l>
+          <l>antes cruel contrario,  antes tirano,</l>
+          <l>robador de mis glorias importuno.</l>
+        </lg>
+        <lg>
+          <l>Tú me traes a una y otra mano</l>
+          <l>sujeto al freno, y  voy a mi despecho</l>
+          <l>por el fragoso y el camino llano.</l>
+        </lg>
+        <lg>
+          <l>Condición tuya es rendir el pecho</l>
+          <l>feroz;  oso decir, que ya te olvidas</l>
+          <l>de ella, con quien me pone en tanto estrecho.</l>
+        </lg>
+        <lg>
+          <l>Tu arco y flechas donde están temidas?</l>
+          <l>do está la ardiente  hacha abrasadora</l>
+          <l>de tantas almas, a tu ley rendidas?</l>
+        </lg>
+        <lg>
+          <l>Eres tú aquel, que al padre de la Aurora,</l>
+          <l>vencedor de la fiera temerosa,</l>
+          <l>quebró el orgullo, y sojuzgó a deshora?</l>
+        </lg>
+        <lg>
+          <l>Aquella diestra y fuerza poderosa,</l>
+          <l>que derriba los pechos arrogantes,</l>
+          <l>do está ocupada, o dónde está ociosa?</l>
+        </lg>
+        <lg>
+          <l>Puedes vencer los ásperos gigantes,</l>
+          <l>los grandes reyes abatir,  trocando</l>
+          <l>a un punto sus intentos  inconstantes;</l>
+        </lg>
+        <lg>
+          <l>Y no te ofendes ver ahora, cuando</l>
+          <l>más tu valor mostrabas, que perdiste</l>
+          <l>las honras, que ganaste triunfando?</l>
+        </lg>
+        <lg>
+          <l>Mísero Amor, tan poco (di) pudiste,</l>
+          <l>que un  tierno pecho, a tanta  furia opuesto,</l>
+          <l>sin temor  te desprecia, y  te resiste?</l>
+        </lg>
+        <lg>
+          <l>Ya conozco el engaño manifiesto,</l>
+          <l>en que viví;  ninguna fuerza tienes,</l>
+          <l>jamás a quien te huye eres molesto.</l>
+        </lg>
+        <lg>
+          <l>Solo en mi triste corazón  te vienes</l>
+          <l>a mostrar  tu poder. no más, oh crudo,</l>
+          <l>que ni quiero tus males, ni tus bienes.</l>
+        </lg>
+        <lg>
+          <l>Ves este pecho de valor desnudo,</l>
+          <l>abierto,  traspasado,  a tantas flechas</l>
+          <l>hará de tu desdén un fuerte  escudo.</l>
+        </lg>
+        <lg>
+          <l>Aunque  pesadas vengan y derechas,</l>
+          <l>puede tanto  el agravio de mi ofensa,</l>
+          <l>que sin efecto volverán  deshechas.</l>
+        </lg>
+        <lg>
+          <l>No sé, cuitado,  si hacer defensa</l>
+          <l>será más daño;  que tu dura fuerza</l>
+          <l>la siento  cada hora más intensa.</l>
+        </lg>
+        <lg>
+          <l>Quien puede haber tan bravo, quien que tuerza</l>
+          <l>un ímpetu  tan grande, y que deshaga</l>
+          <l>tu furor, cuando  más furor lo esfuerza?</l>
+        </lg>
+        <lg>
+          <l>Tan dulce es el dolor de esta mi llaga;</l>
+          <l>que en sentirme quejoso soy ingrato,</l>
+          <l>porque en  mi pena el mal es mucha paga.</l>
+        </lg>
+        <lg>
+          <l>Atrevido  deseo sin recato,</l>
+          <l>memoria, que del bien ya tuve, ufana,</l>
+          <l>mueven mi lengua al triste  mal, que trato,</l>
+        </lg>
+        <lg>
+          <l>Engaño es este de esperanza  vana,</l>
+          <l>que piensa en sus mudanzas mejorarse,</l>
+          <l>instable siempre, y sin  valor liviana.</l>
+        </lg>
+        <lg>
+          <l>No pueden las raíces arrancarse,</l>
+          <l>que en lo hondo del pecho están trabadas,</l>
+          <l>donde  pueden del tiempo asegurarse.</l>
+        </lg>
+        <lg>
+          <l>No esperen pues tus penas nunca usadas,</l>
+          <l>ni espere, Amor, la voluntad  de aquella,</l>
+          <l>que las tiene en mi daño concertadas,</l>
+        </lg>
+        <lg>
+          <l>Hacer,  que de ellas yo me aparte,  y de ella</l>
+          <l>me olvide  un punto; porque el  vivo fuego,</l>
+          <l>que nace de su luz serena y bella,</l>
+          <l>cual siempre, me traerá  vencido y ciego.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO  LV</head>
+        <lg>
+          <l>Yerto y doblado monte, y tu luciente</l>
+          <l>río, de mi zampoña conocido,</l>
+          <l>cuando  de los pastores  el gemido</l>
+          <l>canté, y mi mal con cítara  doliente;</l>
+        </lg>
+        <lg>
+          <l>Si nunca en vuestra  cima y pura fuente</l>
+          <l>de oír se deja mi dolor crecido;</l>
+          <l>y si, por el camino, que han seguido</l>
+          <l>otros,  su afán llorando, voy presente;</l>
+        </lg>
+        <lg>
+          <l>Dos bellos ojos, y un semblante  honesto</l>
+          <l>son causa, que cantar  bien deseara</l>
+          <l>el principio y  los fines de las cosas.</l>
+        </lg>
+        <lg>
+          <l>El tiempo a todo pone en ser perfecto,</l>
+          <l>espero pues (si me es la edad no avara)</l>
+          <l>mostrar,  cuan varias son, y cuan hermosas.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO  LVI</head>
+        <lg>
+          <l>Temiendo  tu valor, tu ardiente  espada,</l>
+          <l>sublime Carlo, el bárbaro Africano,</l>
+          <l>y el bravo horror  del ímpetu Otomano</l>
+          <l>la altiva  frente humilla quebrantada.</l>
+        </lg>
+        <lg>
+          <l>Italia en propia sangre sepultada,</l>
+          <l>el invencible, el áspero Germano,</l>
+          <l>y el osado Francés con fuerte mano</l>
+          <l>al yugo la cerviz trae inclinada.</l>
+        </lg>
+        <lg>
+          <l>Alce España los arcos en memoria,</l>
+          <l>y  en colosos a una y otra parte</l>
+          <l>despojos y coronas de victoria;</l>
+        </lg>
+        <lg>
+          <l>Que ya en la tierra y  mar no queda parte,</l>
+          <l>que no sea trofeo de tu gloria,</l>
+          <l>ni le resta mas honra al fiero Marte.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO  LVII</head>
+        <lg>
+          <l>Cual rociada Aurora en blanco velo</l>
+          <l>muestra la nueva luz al claro día;</l>
+          <l>cual sagrado lucero, del Sol guía,</l>
+          <l>sus rayos abre y tiende al limpio cielo;</l>
+        </lg>
+        <lg>
+          <l>Cual va Venus a honrar el fértil suelo</l>
+          <l>de Cipro, y va en hermosa compañía</l>
+          <l>con ella Amor, las Gracias y Alegría,</l>
+          <l>que Céfiro las lleva en blando vuelo;</l>
+        </lg>
+        <lg>
+          <l>Tal, oh más pura, esclareciente y bella</l>
+          <l>al día y cielo y suelo dando gloria</l>
+          <l>salisteis, aquistando  mil despojos.</l>
+        </lg>
+        <lg>
+          <l>Tendió a aquel punto Amor  su red, y en ella</l>
+          <l>sus alas quemó preso;  y la victoria</l>
+          <l>entregó de mi alma a vuestros  ojos.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO LVIII</head>
+        <lg>
+          <l>Alegre, fértil, vario, fresco prado,</l>
+          <l>tu  monte, y bosque de árboles  hermoso,</l>
+          <l>el uno y otro siempre venturoso,</l>
+          <l>que de las bellas plantas fue tocado;</l>
+        </lg>
+        <lg>
+          <l>Betis, con puras ondas ensalzado,</l>
+          <l>y con ricas olivas abundoso,</l>
+          <l>cuanto  eres más felice y glorioso,</l>
+          <l>pues eres de mi Aglaya visitado.</l>
+        </lg>
+        <lg>
+          <l>Siempre tendréis  perpetua  primavera,</l>
+          <l>y del Elisio campo tiernas flores,</l>
+          <l>si os viere el resplandor  de la Luz mía.</l>
+        </lg>
+        <lg>
+          <l>Ni estéril hielo, o soplo crudo os hiera;</l>
+          <l>antes  Venus, las Gracias, los Amores</l>
+          <l>os miren, y en vos reine la Alegría.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO  LIX</head>
+        <lg>
+          <l>Vos, celebrando  al son de noble lira</l>
+          <l>(insigne Soto) vuestra  dulce pena,</l>
+          <l>del Dauro la ribera tenéis llena,</l>
+          <l>y el verde bosque, que de vos se admira;</l>
+        </lg>
+        <lg>
+          <l>Yo aquí, do Amor en mi dolor conspira,</l>
+          <l>solo en esta desierta, ardiente  arena</l>
+          <l>rompo mis ojos en profunda vena,</l>
+          <l>y el grande Betis con mi mal suspira.</l>
+        </lg>
+        <lg>
+          <l>Dichoso  vos, que en  luz de inmortal  fuego</l>
+          <l>de vuestra Fénix renováis la gloria,</l>
+          <l>que no podrá cubrir  niebla de olvido.</l>
+        </lg>
+        <lg>
+          <l>Yo mísero, sin bien, herido y ciego</l>
+          <l>avivo de mis males la memoria,</l>
+          <l>desesperado,  y nunca arrepentido.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>CANCION IIII</head>
+        <lg>
+          <l>Esparce   en estas flores</l>
+          <l>pura  nieve y rocío</l>
+          <l>blanca y serena  luz de nueva  Aurora,</l>
+          <l>y con  varios  colores</l>
+          <l>se vista  el bosque frío</l>
+          <l>de los esmaltes de la rica Flora;</l>
+          <l>pues la excelsa  Heliodora</l>
+          <l>ya muestra su belleza,</l>
+          <l>a do con alta  frente</l>
+          <l>da Betis su corriente,</l>
+          <l>llevando al mar tendida su grandeza;</l>
+          <l>y vos, lumbres del cielo,</l>
+          <l>mirad felices nuestro  Hesperio suelo.</l>
+        </lg>
+        <lg>
+          <l>Rojo  Sol, que el  dorado</l>
+          <l>cerco  de tu corona</l>
+          <l>sacas del hondo piélago, mirando</l>
+          <l>el Ganges derramado,</l>
+          <l>el Darien, la Sona,</l>
+          <l>y  del divino  Nilo el fértil  bando;</l>
+          <l>si tu llegares, cuando</l>
+          <l>esta  serena Estrella</l>
+          <l>alza al rosado  cielo,</l>
+          <l>dando alegría al suelo,</l>
+          <l>los ojos, do está Venus casta  y bella,</l>
+          <l>de aquellos rayos  ciego,</l>
+          <l>arderás, en tus llamas  hecho  fuego.</l>
+        </lg>
+        <lg>
+          <l>Luna,  que  resplandeces</l>
+          <l>sola,  fría,  argentada</l>
+          <l>en el callado  velo tenebroso;</l>
+          <l>y tu luz enriqueces</l>
+          <l>en la hacha inflamada</l>
+          <l>del Sol con  resplandor maravilloso;</l>
+          <l>si el Lucero hermoso,</l>
+          <l>do el puro  Amor se alienta,</l>
+          <l>mirares, encendida</l>
+          <l>en  llama  esclarecida,</l>
+          <l>que a limpias almas en vigor sustenta,</l>
+          <l>correrás por la cumbre</l>
+          <l>con grande y siempre eterna  y clara lumbre.</l>
+        </lg>
+        <lg>
+          <l>Junta a inmensa belleza ya está la cortesía,</l>
+          <l>y suma honestidad  y humilde trato</l>
+          <l>con valor y grandeza,</l>
+          <l>en el dichoso  día</l>
+          <l>que el cielo largo la volvió más grato.</l>
+          <l>vivo y puro retrato</l>
+          <l>de inmortal hermosura,</l>
+          <l>rayo  de amor  sagrado</l>
+          <l>que  a su consorte  amado</l>
+          <l>consigo  junto en fuego eterno apura;</l>
+          <l>y si  parte le ofende,</l>
+          <l>es que el velo mortal su bien comprende.</l>
+        </lg>
+        <lg>
+          <l>El sacro rey de ríos,</l>
+          <l>que nuestros campos baña,</l>
+          <l>al bello aparecer  de este Lucero</l>
+          <l>cubrió  los vados fríos</l>
+          <l>al pie de la montaña,</l>
+          <l>do vio resplandecer  su Sol primero,</l>
+          <l>del oro, que el Ibero</l>
+          <l>en las cavernas  hondas</l>
+          <l>procura,  y con las flores</l>
+          <l>compuso en mil colores,</l>
+          <l>y  con perlas el curso de las ondas;</l>
+          <l>y esclareciendo  el cielo,</l>
+          <l>esparció olor suave en torno el suelo.</l>
+        </lg>
+        <lg>
+          <l>Las gracias amorosas</l>
+          <l>con las Ninfas un coro</l>
+          <l>tejieron en el claro, undoso seno;</l>
+          <l>y de purpúreas  rosas</l>
+          <l>envueltas  en el oro</l>
+          <l>con ámbar oloroso y flores lleno,</l>
+          <l>dulce  despojo  ameno</l>
+          <l>del revestido  prado,</l>
+          <l>las guirnaldas  mezclaron,</l>
+          <l>y alegres  coronaron</l>
+          <l>el cabello sutil, crespo y dorado,</l>
+          <l>que, cual de las estrellas,</l>
+          <l>por el aire volaron  sus centellas.</l>
+        </lg>
+        <lg>
+          <l>El alto monte  verde,</l>
+          <l>que de Palas es gloria,</l>
+          <l>sintiendo  en sí los pies de su señora,</l>
+          <l>su tristeza  ya pierde,</l>
+          <l>y le da la victoria</l>
+          <l>aquel, do Prometeo gime y llora;</l>
+          <l>y donde la sonora</l>
+          <l>lira de Tracia  expira;</l>
+          <l>el sagrado  Helicona</l>
+          <l>con florida  corona,</l>
+          <l>y do Atlante  del peso no respira;</l>
+          <l>pues su cumbre sostiene</l>
+          <l>la belleza, que el cielo en tierra  tiene.</l>
+        </lg>
+        <lg>
+          <l>Yo entretejer quisiera</l>
+          <l>su  nombre  esclarecido</l>
+          <l>entre la blanca Luna y Sol dorado;</l>
+          <l>y su gloria pusiera</l>
+          <l>en el peplo extendido,</l>
+          <l>que en otra edad Atenas  vio estimado;</l>
+          <l>cuando  el tiempo llegado</l>
+          <l>Minerva  es celebrada.</l>
+          <l>dichoso el año y día;</l>
+          <l>y es quien ve el año y día.</l>
+          <l>allí herido está con asta airada</l>
+          <l>el áspero  Tifeo,</l>
+          <l>que muerto pierde  todo su deseo.</l>
+        </lg>
+        <lg>
+          <l>Mas pues que la rudeza</l>
+          <l>de este mi débil canto,</l>
+          <l>causado  de un  deseo simple y vano,</l>
+          <l>no puede a su belleza</l>
+          <l>dalle la gloria, cuanto</l>
+          <l>merece el valor suyo soberano,</l>
+          <l>y mi intento es en vano;</l>
+          <l>Cisnes, que la corriente</l>
+          <l>de Betis vais cortando,</l>
+          <l>el canto  vuestro alzando,</l>
+          <l>su nombre y gloria  resonad presente;</l>
+          <l>y oigan Céfiro y Flora</l>
+          <l>su inmensa hermosura  con la Aurora.</l>
+        </lg>
+        <lg>
+          <l>Di humilde a esta luz pura;</l>
+          <l>sufra  vuestra  belleza</l>
+          <l>mi rústica  simpleza.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO  LX</head>
+        <lg>
+          <l>Esconde  tardo Bágrada en tu seno</l>
+          <l>la fiera armada  de tu osada gente,</l>
+          <l>y, arrancando los cuernos  de la frente,</l>
+          <l>pierde el orgullo, ya de esfuerzo  ajeno;</l>
+        </lg>
+        <lg>
+          <l>que a todo el ancho ponto pone freno,</l>
+          <l>vengando con la aguda espada ardiente</l>
+          <l>los insultos,  que sufre el Occidente,</l>
+          <l>el domador  del Cita y Agareno.</l>
+        </lg>
+        <lg>
+          <l>Verás la tierra  presa, el mar sangriento,</l>
+          <l>y al nombre de Bazán temblar medroso</l>
+          <l>el corazón  más bravo y arrogante;</l>
+        </lg>
+        <lg>
+          <l>Y atado  en hierro  el cuello descontento,</l>
+          <l>rendirse al brazo suyo poderoso</l>
+          <l>cuanto  abrazan  el Nilo y grande Atlante.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO  LXI</head>
+        <lg>
+          <l>Cual de oro  era el cabello ensortijado,</l>
+          <l>y en mil varias lazadas dividido;</l>
+          <l>y cuanto  en más figuras esparcido,</l>
+          <l>tanto  de más centellas  ilustrado.</l>
+        </lg>
+        <lg>
+          <l>Tal de lucientes  hebras coronado,</l>
+          <l>Febo aparece en llamas encendido;</l>
+          <l>tal discurre  en el cielo esclarecido</l>
+          <l>un ardiente cometa arrebatado.</l>
+        </lg>
+        <lg>
+          <l>Debajo el puro, propio y sutil velo</l>
+          <l>Amor, gracia, y valor, y la belleza</l>
+          <l>templada  en nieve y púrpura  se vía.</l>
+        </lg>
+        <lg>
+          <l>Pensara, que se abrió  esta vez el cielo,</l>
+          <l>y mostró su poder y su  riqueza,</l>
+          <l>si no fuera la Luz de la alma mía.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO  LXII</head>
+        <lg>
+          <l>Hacer  no puede ausencia,  que presente</l>
+          <l>no os vea yo, mi Estrella,  en cualquier hora;</l>
+          <l>que cuando  sale la purpúrea  Aurora,</l>
+          <l>en su rosada falda estáis luciente.</l>
+        </lg>
+        <lg>
+          <l>Y cuando el Sol alumbra  el Oriente,</l>
+          <l>en su dorada  imagen os colora;</l>
+          <l>y en sus rayos parecen a deshora</l>
+          <l>rutilar los cabellos y la frente.</l>
+        </lg>
+        <lg>
+          <l>Cuando ilustra  el bellísimo lucero</l>
+          <l>el orbe, entre  los brazos puros veo</l>
+          <l>de Venus encenderse esa belleza.</l>
+        </lg>
+        <lg>
+          <l>Allí os hablo, allí suspiro y muero.</l>
+          <l>mas vos, siempre enemiga a mi deseo,</l>
+          <l>os mostráis  sin dolor a mi tristeza.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>ELEGIA  VI</head>
+        <lg>
+          <l>De aquel error,  en que viví engañado,</l>
+          <l>salgo a la pura luz, y me levanto</l>
+          <l>tal vez del peso, que sufrí cansado.</l>
+        </lg>
+        <lg>
+          <l>Pudo mi desconcierto crecer tanto,</l>
+          <l>que anduve de mi mismo aborrecido,</l>
+          <l>sujeto siempre a la miseria y llanto.</l>
+        </lg>
+        <lg>
+          <l>Ya vuelvo en mí, y contemplo,  cuan perdido</l>
+          <l>rendí el lozano corazón sin miedo</l>
+          <l>a los dañados gustos del sentido.</l>
+        </lg>
+        <lg>
+          <l>Mas sé, que , aunque  me esfuerzo,  apena puedo</l>
+          <l>abrazar la razón;  porque el  engaño</l>
+          <l>no se me aparta de la vista un dedo.</l>
+        </lg>
+        <lg>
+          <l>Y no me vale, aunque en  mi bien me engaño,</l>
+          <l>pensar quien soy, ni deducir  del cielo</l>
+          <l>la clara origen contra  un dulce daño.</l>
+        </lg>
+        <lg>
+          <l>Cuán mal se limpian del corpóreo velo</l>
+          <l>las manchas, y cuán tarde se desata</l>
+          <l>de su pasión quien anda en este suelo!</l>
+        </lg>
+        <lg>
+          <l>Mil buenos pensamientos  desbarata</l>
+          <l>la ocasión a deleites ofrecida,</l>
+          <l>cuando  menos el hombre se recata.</l>
+        </lg>
+        <lg>
+          <l>Mas estos son peñascos de la vida,</l>
+          <l>do se rompe la nave en mar ondoso,</l>
+          <l>si no va con destreza  bien regida.</l>
+        </lg>
+        <lg>
+          <l>Quien es tan temerario  y desdeñoso,</l>
+          <l>que se entregue a la muerte en esperanza</l>
+          <l>del caso siempre incierto y peligroso?</l>
+        </lg>
+        <lg>
+          <l>Quien quisiera hartarse en la venganza</l>
+          <l>de mis males, hallara a su deseo</l>
+          <l>colmada  la medida sin mudanza;</l>
+        </lg>
+        <lg>
+          <l>Si, conociendo  yo mi devaneo,</l>
+          <l>no diera al vano gusto de la mano,</l>
+          <l>y alzara de la tierra al fiero Anteo.</l>
+        </lg>
+        <lg>
+          <l>Grande  trabajo es, aunque  no es vano,</l>
+          <l>querer mudar  una costumbre larga;</l>
+          <l>grande es, pero es el premio soberano.</l>
+        </lg>
+        <lg>
+          <l>Traje en los hombros esta grave carga</l>
+          <l>sin reposar, como otro nuevo Atlante,</l>
+          <l>en quien del cielo el peso todo carga.</l>
+        </lg>
+        <lg>
+          <l>No soy después del daño tan constante,</l>
+          <l>que no tiemble en pensar lo que sufría,</l>
+          <l>y de mi obstinación que no me espante.</l>
+        </lg>
+        <lg>
+          <l>Ahora voy por una llana vía</l>
+          <l>a la seguridad  del bien, que sigo,</l>
+          <l>do no acertar será desdicha  mía.</l>
+        </lg>
+        <lg>
+          <l>Considero  apartado yo conmigo</l>
+          <l>del rojo Sol la inmensa  ligereza,</l>
+          <l>y en cuanto  infunde su calor amigo;</l>
+        </lg>
+        <lg>
+          <l>La tibia instable  Luna, la grandeza</l>
+          <l>del ancho mar, su vario movimiento;</l>
+          <l>el sitio de la tierra y su firmeza.</l>
+        </lg>
+        <lg>
+          <l>Juzgo, cuanto  es el gusto y el contento</l>
+          <l>de gozar la belleza diferente,</l>
+          <l>que en sí contiene este terrestre asiento;</l>
+        </lg>
+        <lg>
+          <l>Y cuan dulce es vivir alegremente</l>
+          <l>espacios largos de una  edad dichosa,</l>
+          <l>y contemplar tan alto bien presente;</l>
+        </lg>
+        <lg>
+          <l>Do en esta vista y luz maravillosa</l>
+          <l>el ánimo encendido  ensalce el vuelo</l>
+          <l>a la profunda  claridad  hermosa;</l>
+        </lg>
+        <lg>
+          <l>Y allí se afine  de aquel  torpe velo,</l>
+          <l>que en  sí lo trajo  opreso; y  no le impida</l>
+          <l>la gruesa  niebla y el error  del suelo.</l>
+        </lg>
+        <lg>
+          <l>Cuánta  miseria es perder la vida</l>
+          <l>en la purpúrea flor de la edad pura,</l>
+          <l>sin gozar de la luz del Sol crecida!</l>
+        </lg>
+        <lg>
+          <l>Cuán vana eres humana hermosura!</l>
+          <l>cuán presto se consume y se deshace</l>
+          <l>la gracia y el donaire  y compostura!</l>
+        </lg>
+        <lg>
+          <l>La bella virgen, cuya vista aplace,</l>
+          <l>y regala al sentido,  en tiempo breve</l>
+          <l>al mismo, que agradó, no satisface.</l>
+        </lg>
+        <lg>
+          <l>No así tan presto aparta  el viento leve,</l>
+          <l>y disipa las nieblas, y el ardiente</l>
+          <l>Sol desata  el rigor de helada  nieve;</l>
+        </lg>
+        <lg>
+          <l>Como a la tierna edad la flor luciente</l>
+          <l>huye, y los años vuelan, y perece</l>
+          <l>el valor y  belleza  juntamente.</l>
+        </lg>
+        <lg>
+          <l>Cuán breve, y cuán caduca  resplandece</l>
+          <l>nuestra  gloria!  cuán súbito,  en el punto</l>
+          <l>que deleita  a los ojos, desparece!</l>
+        </lg>
+        <lg>
+          <l>Mas oh si ser pudiese, que este  punto</l>
+          <l>de breve vida alegres en sosiego</l>
+          <l>gozásemos  sin miedo y dolor  junto.</l>
+        </lg>
+        <lg>
+          <l>Cual, de ambición  y de avaricia ciego,</l>
+          <l>surca el piélago inmenso peregrino,</l>
+          <l>y ve del Sol más tarde el claro fuego.</l>
+        </lg>
+        <lg>
+          <l>Cual, ardiendo  en furor de Marte  indigno,</l>
+          <l>arma el osado pecho en duro  hierro</l>
+          <l>contra  el estrecho  deudo y el vecino.</l>
+        </lg>
+        <lg>
+          <l>Cual,  de si mismo  puesto en un destierro,</l>
+          <l>niega su voluntad por otra  ajena,</l>
+          <l>y sigue inferior el mayor hierro.</l>
+        </lg>
+        <lg>
+          <l>Lisonjeros halagos,  dulce  pena,</l>
+          <l>buscado mal del desvarío humano</l>
+          <l>traen  de gusto  la esperanza llena.</l>
+        </lg>
+        <lg>
+          <l>Ningún monte, o desierto,  ningún llano,</l>
+          <l>a do pueda  llegar  gente  atrevida,</l>
+          <l>nos tendrá libres  del error profano.</l>
+        </lg>
+        <lg>
+          <l>Ira,  miedo,  codicia  aborrecida</l>
+          <l>nos cercan, y huir no es de provecho,</l>
+          <l>que las llevamos siempre en la huida.</l>
+        </lg>
+        <lg>
+          <l>Incierto  y congojoso tiene el pecho,</l>
+          <l>quien  espera, no goza ni sosiega,</l>
+          <l>si sus  vanos  contentos no ha deshecho.</l>
+        </lg>
+        <lg>
+          <l>Quien sabe en que se goza, y nunca entrega</l>
+          <l>su buena  dicha  en el poder  ajeno,</l>
+          <l>de la virtud a la alta  cumbre llega.</l>
+        </lg>
+        <lg>
+          <l>Estos deleites, tras quien  fui sin freno,</l>
+          <l>que al  fin tan  caro  cuestan, me trajeron</l>
+          <l>siempre de confusión y temor lleno.</l>
+        </lg>
+        <lg>
+          <l>Ni fueron firmes,  ni fieles fueron,</l>
+          <l>dañáronme huyendo; y si hubo alguno,</l>
+          <l>que no, huyó con cuantos me huyeron.</l>
+        </lg>
+        <lg>
+          <l>Seguro  gozo puede ser  ninguno,</l>
+          <l>ninguno puede  ser  perpetuo, en cuanto</l>
+          <l>la tierra  cría,  y cerca  el gran  Neptuno.</l>
+        </lg>
+        <lg>
+          <l>Sola Virtud, tú sola  puedes tanto,</l>
+          <l>que el  gozo dar perpetuo, y bien seguro</l>
+          <l>puedes, si en amor  tuyo me levanto.</l>
+        </lg>
+        <lg>
+          <l>Lugar puede hallarse tan oscuro,</l>
+          <l>do se esconda algún tiempo  el error  cierto,</l>
+          <l>mas sale a fuerza al cabo al aire puro.</l>
+        </lg>
+        <lg>
+          <l>La vergüenza del propio  desconcierto,</l>
+          <l>el miedo, vengador de nuestras  penas,</l>
+          <l>nos muestran  nuestra  falta en descubierto.</l>
+        </lg>
+        <lg>
+          <l>El delito y las culpas son ajenas</l>
+          <l>de nuestra condición,  pero nacimos</l>
+          <l>con mil flaquezas de miseria llenas;</l>
+        </lg>
+        <lg>
+          <l>Y tan mal nuestros  bienes conocimos,</l>
+          <l>y dimos tanta  mano al torpe gusto,</l>
+          <l>que solos sus regalos admitimos.</l>
+        </lg>
+        <lg>
+          <l>Do está el deseo ya del honor  justo?</l>
+          <l>do el amor verdadero  de la gloria?</l>
+          <l>do contra  el vicio el corazón robusto?</l>
+        </lg>
+        <lg>
+          <l>Gran hazaña es gozar de la victoria</l>
+          <l>del bravo  contendor,  y  los despojos</l>
+          <l>guardar  para blasón de la memoria;</l>
+        </lg>
+        <lg>
+          <l>Pero es mucho mayor ante los ojos,</l>
+          <l>que miran bien, por la no usada senda</l>
+          <l>caminando entre  peñas y entre abrojos</l>
+        </lg>
+        <lg>
+          <l>Sobrepujar  en áspera contienda</l>
+          <l>sus contrarios, y verse en la ardua cumbre,</l>
+          <l>do no alcance el nublado,  ni la ofenda.</l>
+        </lg>
+        <lg>
+          <l>Mas quién podrá subir sin viva lumbre?</l>
+          <l>quién sin favor que aliente su flaqueza,</l>
+          <l>y  la alce de esta grave pesadumbre?</l>
+        </lg>
+        <lg>
+          <l>Si yo pudiese  bien en tu belleza</l>
+          <l>fijar mis ojos, Musa soberana,</l>
+          <l>y contemplar cercano  tu grandeza;</l>
+        </lg>
+        <lg>
+          <l>Del ciego error y multitud  profana,</l>
+          <l>que se entorpece en la tiniebla oscura,</l>
+          <l>no seguiría la opinión liviana.</l>
+        </lg>
+        <lg>
+          <l>Antes con voluntad libre y segura,</l>
+          <l>abrasado en tu amor, ocuparía</l>
+          <l>la vida en admirar tu hermosura.</l>
+        </lg>
+        <lg>
+          <l>Y aquí, do el Betis desigual varía</l>
+          <l>el curso, y vuelve y trueca la creciente,</l>
+          <l>un apartado puesto escogería.</l>
+        </lg>
+        <lg>
+          <l>Do la ambición de tanta errada gente,</l>
+          <l>los deseos injustos,  la esperanza,</l>
+          <l>dulce engaño del ánimo doliente;</l>
+        </lg>
+        <lg>
+          <l>En este estado, libre de mudanza,</l>
+          <l>no podrían turbarme del sosiego,</l>
+          <l>que en la discreta soledad se alcanza.</l>
+        </lg>
+        <lg>
+          <l>Rompa los senos otro del mar ciego</l>
+          <l>con prestas alas de su osada nave,</l>
+          <l>do no se aventuró Romano, o Griego;</l>
+        </lg>
+        <lg>
+          <l>Llegue, do el sacro Océano se trabe</l>
+          <l>con el piélago Austral, y no cansado</l>
+          <l>cerque el golfo, que el hielo torna grave;</l>
+        </lg>
+        <lg>
+          <l>Que bien puede alabarse confiado</l>
+          <l>de haber visto, tratado  y conocido,</l>
+          <l>y mil varios peligros allanado;</l>
+        </lg>
+        <lg>
+          <l>Pero no habrá gozado, ni entendido</l>
+          <l>los bienes, que el silencio en el desierto</l>
+          <l>da a un corazón modesto y bien regido,</l>
+          <l>fuera de todo humano desconcierto.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>EGLOGA  VENATORIA</head>
+        <lg>
+          <l>De aljaba  y arco tu Diana armada,</l>
+          <l>que por el monte  umbroso y extendido</l>
+          <l>fatigas a las fieras presurosa,</l>
+          <l>huye del alto Ladmo desdichada,</l>
+          <l>donde  tu cazador duerme  escondido;</l>
+          <l>que ya otra cazadora  más hermosa</l>
+          <l>persigue  impetuosa</l>
+          <l>al  jabalí espumoso y enojado;</l>
+          <l>que ya otra más hermosa  cazadora</l>
+          <l>al ciervo sigue ahora.</l>
+          <l>si Endimión la viere, tu cuidado,</l>
+          <l>venciendo  de la fiera la braveza,</l>
+          <l>te dejará  por ella con tristeza.</l>
+        </lg>
+        <lg>
+          <l>A Endimión no dejes  tu Diana,</l>
+          <l>queda con él, no siga al amor mío.</l>
+          <l>tu amor, Endimión esté contigo.</l>
+          <l>en la callada noche, en la mañana,</l>
+          <l>al Sol ardiente, al importuno frío</l>
+          <l>mi dulce cazadora  esté conmigo.</l>
+          <l>este bosque es testigo,</l>
+          <l>cuantas veces la llamo y busco en vano.</l>
+          <l>la Aurora  me oye sola sin su  amante,</l>
+          <l>y se ofrece  delante,</l>
+          <l>cuando espera  las fieras  en lo llano.</l>
+          <l>suspira ella su amor,  yo lloro el mío,</l>
+          <l>si al monte  mira,  yo a mi valle y río.</l>
+        </lg>
+        <lg>
+          <l>Hermosa cazadora, que has llevado</l>
+          <l>del frío bosque mi herido  pecho</l>
+          <l>con el cabello  de oro suelto al viento,</l>
+          <l>y de flores  y rosas coronado;</l>
+          <l>eres Napea  de este  valle estrecho,</l>
+          <l>que alcanza con ligero  movimiento</l>
+          <l>al  jabalí sediento,</l>
+          <l>y del ciervo  la planta  voladora?</l>
+          <l>que tu paso,  y tu voz, y tu  belleza</l>
+          <l>más que mortal  grandeza</l>
+          <l>descubre a tu Menalio, que te adora.</l>
+          <l>tal va Cintia  con traje  soberano,</l>
+          <l>y enciende en fuego al amador Silvano.</l>
+        </lg>
+        <lg>
+          <l>Qué dios,  oh Clearista, te ha ofrecido</l>
+          <l>a mis ojos, corriendo yo una fiera</l>
+          <l>sin cuidado de Amor; y vista luego</l>
+          <l>te me llevó, dejándome perdido,</l>
+          <l>porque en llama  inmortal ardiendo muera?</l>
+          <l>de tus luces  probó  el tirano ciego</l>
+          <l>con mi daño  su fuego.</l>
+          <l>mas tú habites el bosque oscuro y prado,</l>
+          <l>o la tendida selva de este río,</l>
+          <l>jamás del pecho  mío</l>
+          <l>se apartará el Amor, que me ha abrasado,</l>
+          <l>el bosque y prado del amor  testigo,</l>
+          <l>a amarte  aprenderá también  conmigo.</l>
+          <l>O la ligera garza levantando</l>
+          <l>mire al halcón veloz y atrevido,</l>
+          <l>o espere al jabalí cerdoso  y fiero,</l>
+          <l>o la aura  entre  los árboles gozando;</l>
+          <l>con silencio y voz muda en lo escondido</l>
+          <l>del pecho solo lloraré  primero</l>
+          <l>el dolor, en que muero.</l>
+          <l>sin ti el feroz caballo, el rayo ardiente</l>
+          <l>del imitado  trueno, y la sabrosa</l>
+          <l>caza, me es  enojosa,</l>
+          <l>pues tú me dejas mísero y doliente.</l>
+          <l>todo me agradará, y será mi gloria,</l>
+          <l>si vuelves, y de mi tienes memoria.</l>
+        </lg>
+        <lg>
+          <l>Por qué  huyes, y quieres que sin lumbre</l>
+          <l>en estas breñas  muera con tormento,</l>
+          <l>y no miras tu amante,  que te llama?</l>
+          <l>baja de esa fragosa y alta cumbre;</l>
+          <l>que, según el ruido grave siento,</l>
+          <l>por entre  una y otra espesa rama,</l>
+          <l>que las hojas  derrama,</l>
+          <l>un feroz  jabalí se ha recogido.</l>
+          <l>con el arco en la blanca y tierna  mano</l>
+          <l>baja, que antes, que al llano</l>
+          <l>llegues, atravesado, y extendido</l>
+          <l>de mi venablo, y muerto, la espumosa</l>
+          <l>cabeza,  llevarás  victoriosa.</l>
+        </lg>
+        <lg>
+          <l>No fíes, Clearista,  en tu belleza,</l>
+          <l>que vendrá  el día, en que las hebras de oro</l>
+          <l>mude  la edad  ligera  en blanca  plata.</l>
+          <l>antes muera,  que  vea tu tristeza.</l>
+          <l>mas para  que suspiro triste, y lloro</l>
+          <l>por quien  a mis querellas  es ingrata?</l>
+          <l>si tu  dureza mata</l>
+          <l>a quien  te sigue, aquel,  que  te aborrece,</l>
+          <l>qué  pena habrá,  que iguale con su culpa?</l>
+          <l>pero  quién  no me culpa,</l>
+          <l>pues sigo solo el mal, que se me ofrece?</l>
+          <l>suspenso en el amor  y en el deseo,</l>
+          <l>al fin doy en un ciego devaneo.</l>
+        </lg>
+        <lg>
+          <l>Mas vos Amores, rojos  dulcemente,</l>
+          <l>dejad  las ondas  claras de Citera,</l>
+          <l>y a mi Ninfa  herid  con vuestra llama;</l>
+          <l>que su hermosa flor  perder no siente</l>
+          <l>sin fruto inútil  en la edad  primera.</l>
+          <l>y tú Latonia, pues Amor  te inflama,</l>
+          <l>cuando el monte te llama</l>
+          <l>por el dormido amante, y ya el tormento</l>
+          <l>conoces del Amor; si he venerado</l>
+          <l>tus aras,  y colgado</l>
+          <l>del  jabalí terrible y violento</l>
+          <l>la alta  frente, y del ciervo  la ramosa,</l>
+          <l>muéstrate a mis dolores piadosa.</l>
+        </lg>
+        <lg>
+          <l>Si contigo viviera, Ninfa  mía,</l>
+          <l>en esta  selva,  tu sutil  cabello</l>
+          <l>adornara de rosas,  y cogiera</l>
+          <l>las frutas varias  en el nuevo  día;</l>
+          <l>las blancas plumas  del gallardo cuello</l>
+          <l>de la garza  ofreciendo, y te trajera</l>
+          <l>de la silvestre fiera</l>
+          <l>los despojos, contigo recostado,</l>
+          <l>y en la sombra cantando  tu belleza;</l>
+          <l>y en la verde corteza</l>
+          <l>de la frondosa encina mi cuidado</l>
+          <l>extendiendo,  conmigo lo leyeras,</l>
+          <l>y sobre mí las flores esparcieras.</l>
+        </lg>
+        <lg>
+          <l>Ah cuantas veces entre aqueste  juego</l>
+          <l>a tu cuello los brazos rodeara!</l>
+          <l>y en tus ojos mis ojos encendiendo,</l>
+          <l>cuando más descuidada de mi fuego,</l>
+          <l>a tu boca el espíritu hurtara,</l>
+          <l>mi espíritu en el tuyo convirtiendo,</l>
+          <l>dulcemente  muriendo.</l>
+          <l>esto preciara más, que ver el vuelo</l>
+          <l>del halcón, más que dar de un golpe muerte</l>
+          <l>al jabalí más fuerte,</l>
+          <l>o alcanzar por el ancho y largo suelo</l>
+          <l>junto a la agua herido y sin aliento</l>
+          <l>el ciervo, que atrás deja el presto viento.</l>
+        </lg>
+        <lg>
+          <l>No dudes, ven conmigo, Ninfa mía.</l>
+          <l>yo no soy feo, aunque mi altiva frente</l>
+          <l>no se muestra a la tuya semejante.</l>
+          <l>mas tengo amor, y fuerza y osadía,</l>
+          <l>y tengo parecer de hombre valiente;</l>
+          <l>que al cazador conviene este semblante</l>
+          <l>robusto y arrogante.</l>
+          <l>iremos a la fuente, al dulce frío,</l>
+          <l>y en blando sueño puestos al ruido</l>
+          <l>del murmurio esparcido</l>
+          <l>de la agua, tú en mis brazos, amor mío,</l>
+          <l>y yo en los tuyos blancos y hermosos,</l>
+          <l>a los Faunos haría envidiosos.</l>
+        </lg>
+        <lg>
+          <l>Mas si te agrada, y oh si te agradase,</l>
+          <l>ven conmigo a esta sombra, do resuena</l>
+          <l>la aura en los ciclamoros  revestidos</l>
+          <l>de hiedra;  do se vio jamás que entrase</l>
+          <l>alzado el Sol con luz ardiente  y llena.</l>
+          <l>aquí hay álamos  verdes y crecidos,</l>
+          <l>y los pobos floridos,</l>
+          <l>y el fresco prado riega la alta fuente</l>
+          <l>con murmurio  suave y sosegado.</l>
+          <l>aquí el tiempo  templado</l>
+          <l>te convida a huir el Sol caliente.</l>
+          <l>ven Clearista,  ven ya Ninfa mía,</l>
+          <l>este prado te llama y  fuente fría.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO  LXIII</head>
+        <lg>
+          <l>Error fue vano disponer el pecho,</l>
+          <l>enseñado al dolor de Amor  esquivo,</l>
+          <l>a nueva libertad; que al fin cautivo</l>
+          <l>vuelvo, no sé si diga, a mi despecho.</l>
+        </lg>
+        <lg>
+          <l>Pudo traerme el crudo a tal estrecho,</l>
+          <l>que abrió  en la fuerza de un semblante  altivo</l>
+          <l>la vena, que de nuevo en fuego vivo</l>
+          <l>encendió al corazón, ya un hielo hecho.</l>
+        </lg>
+        <lg>
+          <l>Mas qué mucho?  no vemos inflamarse</l>
+          <l>un pedernal  herido, y  encontrado</l>
+          <l>un hierro en otro despedir centellas?</l>
+        </lg>
+        <lg>
+          <l>Como puede mi pecho no abrasarse</l>
+          <l>al golpe del Amor, si está tocado</l>
+          <l>siempre en el fuego de mis dos estrellas?</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO  LXIIII</head>
+        <lg>
+          <l>Ya que el sujeto reino Lusitano</l>
+          <l>inclina al yugo la cerviz paciente;</l>
+          <l>y todo el grande esfuerzo de Occidente</l>
+          <l>tenéis, sacro Señor, en vuestra  mano;</l>
+        </lg>
+        <lg>
+          <l>Volved contra  el suelo hórrido Africano</l>
+          <l>el firme pecho y vuestra  osada gente;</l>
+          <l>que su poder, su corazón valiente,</l>
+          <l>que tanto  fue, será ante el vuestro  en vano.</l>
+        </lg>
+        <lg>
+          <l>Cristo os da la pujanza de este imperio,</l>
+          <l>para que la fe nuestra  se adelante,</l>
+          <l>por do su santo  nombre es ofendido.</l>
+        </lg>
+        <lg>
+          <l>Quién contra vos, quién contra  el reino Hesperio</l>
+          <l>bastará alzar la frente,  que al  instante</l>
+          <l>no se derribe a vuestros  pies rendido?</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO  LXV</head>
+        <lg>
+          <l>Ya el rigor importuno  y grave hielo</l>
+          <l>desnuda los esmaltes y belleza</l>
+          <l>de la pintada tierra, y con tristeza</l>
+          <l>se ofende en niebla oscura el claro cielo.</l>
+        </lg>
+        <lg>
+          <l>Mas, Pacheco, este mismo hórrido suelo</l>
+          <l>reverdece, y pomposo su riqueza</l>
+          <l>muestra; y del blanco mármol la dureza</l>
+          <l>desata de Favonio el tibio vuelo.</l>
+        </lg>
+        <lg>
+          <l>Pero el dulce color y hermosura</l>
+          <l>de nuestra  humana vida, cuando huye,</l>
+          <l>no torna; oh mortal suerte, oh breve gloria!</l>
+        </lg>
+        <lg>
+          <l>Mas sola la virtud  nos asegura;</l>
+          <l>que el tiempo avaro, aunque esta flor destruye,</l>
+          <l>contra ella nunca osó intentar  victoria.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO  LXVI</head>
+        <lg>
+          <l>Esta rota y cansada pesadumbre,</l>
+          <l>osada  muestra de soberbios pechos;</l>
+          <l>estos quebrados  arcos y deshechos,</l>
+          <l>y abierto cerco de espantosa  cumbre;</l>
+        </lg>
+        <lg>
+          <l>Descubren a la ruda muchedumbre</l>
+          <l>su error ciego, y sus términos  estrechos;</l>
+          <l>y solo yo en mis grandes males hechos</l>
+          <l>nunca sé abrir los ojos a la lumbre.</l>
+        </lg>
+        <lg>
+          <l>Pienso, que mi esperanza ha fabricado</l>
+          <l>edificio más firme;  y aunque veo</l>
+          <l>que se derriba,  sigo al fin mi engaño.</l>
+        </lg>
+        <lg>
+          <l>De qué sirve el juicio a un obstinado,</l>
+          <l>que la razón oprime en el deseo?</l>
+          <l>de ver su error, y  padecer  más daño.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO  LXVII</head>
+        <lg>
+          <l>Oh breve don de un agradable  engaño,</l>
+          <l>dulce mal del contento aborrecido,</l>
+          <l>cuán presto  pierdes el color florido,</l>
+          <l>y muestras  los despojos de tu daño!</l>
+        </lg>
+        <lg>
+          <l>El oro vuelto en plata un blanco paño</l>
+          <l>cubre, y el color vivo y encendido</l>
+          <l>de los ojos, sin fuerza ya y perdido,</l>
+          <l>de tu vencido orgullo es desengaño.</l>
+        </lg>
+        <lg>
+          <l>Acabas, y tu dura  tiranía;</l>
+          <l>y al fin si acabas,  mueres con victoria</l>
+          <l>de nuestro  error  en devaneo tanto.</l>
+        </lg>
+        <lg>
+          <l>Mas quien por ti se olvida,  y desvaría</l>
+          <l>del camino,  perece sin memoria</l>
+          <l>con mayor culpa en un perpetuo llanto.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>CANCION   V</head>
+        <lg>
+          <l>Inclinen a tu nombre, oh luz de España,</l>
+          <l>ardiente  rayo del divino Marte,</l>
+          <l>Camilo, y el belígero Africano,</l>
+          <l>y el vencedor de Francia y de Alemania</l>
+          <l>la frente armada de valor y de arte;</l>
+          <l>pues tú con grave seso y fuerte  mano</l>
+          <l>por el pueblo Cristiano</l>
+          <l>contra  el ímpetu  bárbaro  sañudo</l>
+          <l>pusiste osado el generoso pecho.</l>
+          <l>cayó el furor ante tus pies desnudo,</l>
+          <l>y el impío orgullo Vándalo deshecho,</l>
+          <l>con la fulmínea espada traspasado,</l>
+          <l>rindió la acerba  vida al fiero hado.</l>
+        </lg>
+        <lg>
+          <l>De ti temblaron  todas las riberas,</l>
+          <l>todas las ondas, cuantas  juntamente</l>
+          <l>las columnas del grande Briareo</l>
+          <l>miran: y al tremolar  de tus banderas</l>
+          <l>torció el Nilo medroso la corriente,</l>
+          <l>y el monte Libio, a quien mostró Perseo</l>
+          <l>el rostro Meduseo,</l>
+          <l>las cimas altas humilló rendido</l>
+          <l>con más pavor, que cuando los gigantes,</l>
+          <l>y el áspero Tifeo fue vencido.</l>
+          <l>prostráronse los bravos y arrogantes,</l>
+          <l>temiendo  con espanto y con flaqueza</l>
+          <l>el vigor de tu excelsa fortaleza.</l>
+        </lg>
+        <lg>
+          <l>Pero en tantos  triunfos y victorias,</l>
+          <l>la que más te sublima y esclarece,</l>
+          <l>de Cristo oh excelso capitán, Fernando,</l>
+          <l>y remata la cumbre de tus glorias,</l>
+          <l>con que a la eternidad tu nombre ofrece;</l>
+          <l>es, que peligros mil sobrepujando,</l>
+          <l>volviste al sacro bando,</l>
+          <l>y a la Cristiana  religión trajiste</l>
+          <l>esta insigne ciudad y generosa;</l>
+          <l>que en cuanto  Febo Apolo de luz viste,</l>
+          <l>y ciñe la grande orla espaciosa</l>
+          <l>del mar cerúleo,  no se ve otra alguna</l>
+          <l>de más nobleza y de mayor fortuna.</l>
+        </lg>
+        <lg>
+          <l>Cubrió el sagrado  Betis de florida</l>
+          <l>púrpura y blandas esmeraldas  llena</l>
+          <l>y tiernas  perlas la ribera ondosa,</l>
+          <l>y al cielo alzó la barba  revestida</l>
+          <l>de verde  musgo;  y removió en la arena</l>
+          <l>el movible cristal  de la sombrosa</l>
+          <l>gruta, y la faz honrosa,</l>
+          <l>de juncos, cañas y coral ornada,</l>
+          <l>tendió los cuernos  húmedos, creciendo</l>
+          <l>la abundosa corriente  dilatada,</l>
+          <l>su imperio en el Océano extendiendo;</l>
+          <l>que al cerco de la tierra en vario lustre</l>
+          <l>de soberbia  corona  hace ilustre.</l>
+        </lg>
+        <lg>
+          <l>Tú después que tu espíritu  divino,</l>
+          <l>de los mortales  nudos desatado,</l>
+          <l>subió ligero a la celeste alteza,</l>
+          <l>con  justo culto, aunque en lugar, no digno</l>
+          <l>a tu inmenso valor, fuiste encerrado;</l>
+          <l>hasta que ahora  la real grandeza</l>
+          <l>con heroica largueza</l>
+          <l>en este sacro templo y alta cumbre</l>
+          <l>trasfiere  tus despojos venerados.</l>
+          <l>do toda esta devota  muchedumbre,</l>
+          <l>y sublimes  varones, humillados</l>
+          <l>honran  tu santo  nombre  glorioso,</l>
+          <l>tu religión, tu esfuerzo belicoso.</l>
+        </lg>
+        <lg>
+          <l>Salve oh defensa nuestra,  tú que tanto</l>
+          <l>domaste  las cervices Agarenas,</l>
+          <l>y la fe verdadera  acrecentaste.</l>
+          <l>tú cubriste  a Ismael de miedo y llanto</l>
+          <l>y en su sangre ahogaste  las arenas,</l>
+          <l>que en  las campañas  Béticas hollaste.</l>
+          <l>tú solo nos mostraste</l>
+          <l>entre  el rigor de Marte  violento,</l>
+          <l>entre  el peso y molestias del gobierno</l>
+          <l>juntas en bien trabado ligamento</l>
+          <l>justicia, piedad, valor eterno ;</l>
+          <l>y como  puede,  despreciando el suelo,</l>
+          <l>un príncipe  guerrero alzarse al cielo.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO  LXVIII</head>
+        <lg>
+          <l>Yo bien pensaba,  cuando el desdén  justo</l>
+          <l>refrió en duro  hielo el fuego ardiente</l>
+          <l>del corazón, y con osada  frente</l>
+          <l>se opuso contra Amor  fiero y robusto;</l>
+        </lg>
+        <lg>
+          <l>Que no bastara a derribarme el gusto,</l>
+          <l>ni a torcerme el intento otro  accidente;</l>
+          <l>que ya me conocía  diferente,</l>
+          <l>y libre  de un  tirano  tan injusto.</l>
+        </lg>
+        <lg>
+          <l>Mas al primer  sonido  del asalto</l>
+          <l>desamparo la fuerza, y el escudo</l>
+          <l>rindo  y armas  temblando antes  del hecho.</l>
+        </lg>
+        <lg>
+          <l>Bien sé que , en lo que debo a la honra,  falto;</l>
+          <l>mas el temor,  que  de ella está  desnudo,</l>
+          <l>y  otra  fuerza  mayor  vencen  mi pecho.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO  LXIX</head>
+        <lg>
+          <l>Pongan en tu sepulcro,  oh flor de España,</l>
+          <l>la virtud  militar y  la victoria</l>
+          <l>grandes ciudades  presas en memoria,</l>
+          <l>y todo el noble mar, que a  Grecia baña.</l>
+        </lg>
+        <lg>
+          <l>Tú solo, tú con singular  hazaña</l>
+          <l>ganaste  vencedor  tan alta gloria,</l>
+          <l>que las voces se cansan de la historia,</l>
+          <l>que tus ínclitos  hechos acompaña.</l>
+        </lg>
+        <lg>
+          <l>El furor  de Otomano quebrantado</l>
+          <l>será  justo despojo, que esculpido</l>
+          <l>en lengua de la fama alce tu nombre</l>
+        </lg>
+        <lg>
+          <l>Con tal blasón;  valor nunca domado,</l>
+          <l>ingenio y arte  hacen, que vencido</l>
+          <l>no pueda ser del tiempo un mortal  hombre.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO  LXX</head>
+        <lg>
+          <l>Solo y medroso, del peligro cierto,</l>
+          <l>que en  la guerra de Amor temido había,</l>
+          <l>con fortuna  mejor tarde huía</l>
+          <l>en tanta  tempestad  seguro al puerto.</l>
+        </lg>
+        <lg>
+          <l>Mas en el paso del camino incierto,</l>
+          <l>cuando  con más descuido  proseguía,</l>
+          <l>Amor, que en vuestros  ojos me atendía;</l>
+          <l>de un golpe atravesó  mi pecho abierto.</l>
+        </lg>
+        <lg>
+          <l>Y antes, que yo pudiese de mi pena</l>
+          <l>alabar la ventura,  envidioso</l>
+          <l>huyó con vos, y me dejó perdido;</l>
+        </lg>
+        <lg>
+          <l>Cual huye el Parto,  do el Éufrates suena,</l>
+          <l>y revuelve el caballo presuroso,</l>
+          <l>dejando al fiero contendor  herido.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO  LXXI</head>
+        <lg>
+          <l>Del fresco seno ya la blanca Aurora</l>
+          <l>perlas de hielo puras esparcía,</l>
+          <l>y con serena frente alegre abría</l>
+          <l>el esplendor suave, que atesora;</l>
+        </lg>
+        <lg>
+          <l>El lúcido confín de Euro  y de Flora</l>
+          <l>con la rosada llama, que encendía</l>
+          <l>Delio aún no rojo, al tierno y nuevo día</l>
+          <l>esclarece y esmalta, orla y colora;</l>
+        </lg>
+        <lg>
+          <l>Cuando sale mi Luz, y en Oriente</l>
+          <l>desmaya el vivo lustre; oh vos del cielo</l>
+          <l>vagas lumbres, si tanto se consiente,</l>
+        </lg>
+        <lg>
+          <l>Digo con vuestra paz, que en mortal  velo</l>
+          <l>pareció más que vos bella y fulgente</l>
+          <l>mi Luz, que honora el rico, Hesperio suelo.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO  LXXII</head>
+        <lg>
+          <l>Amor en mí se muestra  todo fuego,</l>
+          <l>y en las entrañas  de mi Luz es nieve.</l>
+          <l>fuego no hay, que ella no torne nieve,</l>
+          <l>ni nieve, que no mude yo en mi fuego.</l>
+        </lg>
+        <lg>
+          <l>La fría zona abraso con mi fuego,</l>
+          <l>la ardiente mi Luz vuelve helada nieve.</l>
+          <l>pero no puedo yo encender su nieve,</l>
+          <l>ni ella entibiar la fuerza de mi fuego.</l>
+        </lg>
+        <lg>
+          <l>Contrastan igualmente hielo y llama;</l>
+          <l>que de otra  suerte fuera el mundo hielo,</l>
+          <l>o su máquina toda viva llama.</l>
+        </lg>
+        <lg>
+          <l>Mas fuera;  porque ya resuelto en hielo,</l>
+          <l>o el corazón desvanecido en llama,</l>
+          <l>ni temiera mi llama, ni su hielo.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>ELEGIA  VII</head>
+        <lg>
+          <l>Si el presente  dolor de vuestra  pena</l>
+          <l>sufre escuchar de la pasión, que siento,</l>
+          <l>esta mi Musa de dulzura ajena;</l>
+        </lg>
+        <lg>
+          <l>Estad, Señor, un breve espacio atento</l>
+          <l>a las llorosas lástimas, que canto</l>
+          <l>solo, puesto en olvido y descontento.</l>
+        </lg>
+        <lg>
+          <l>Que si yo puedo declarar bien, cuanto</l>
+          <l>estrago hace Amor en mis entrañas,</l>
+          <l>no será en vano mi quejoso llanto.</l>
+        </lg>
+        <lg>
+          <l>Mas cómo las crudezas y hazañas</l>
+          <l>del fiero usurpador  de la alma  mía</l>
+          <l>decir podré, y sus vueltas siempre extrañas?</l>
+        </lg>
+        <lg>
+          <l>Seguro, alegre, en quietud  vivía</l>
+          <l>con libertad  y corazón  ufano,</l>
+          <l>mostrando contra Amor grande osadía.</l>
+        </lg>
+        <lg>
+          <l>Pensaba, mas al fin pensaba en vano,</l>
+          <l>que contra la dureza de mi pecho</l>
+          <l>no pudiera el rigor de este tirano.</l>
+        </lg>
+        <lg>
+          <l>No me valió; que al cabo a mi despecho</l>
+          <l>rendí a su yugo el quebrantado cuello,</l>
+          <l>y fue mi orgullo sin valor deshecho.</l>
+        </lg>
+        <lg>
+          <l>Un sutil hilo pudo de un cabello,</l>
+          <l>más bello que la luz del Sol dorado,</l>
+          <l>traerme preso sin jamás rompello;</l>
+        </lg>
+        <lg>
+          <l>Y unos ojuelos de color mezclado,</l>
+          <l>que prometen  mil bienes, sin dar uno,</l>
+          <l>tomaron  el imperio en mi cuidado.</l>
+        </lg>
+        <lg>
+          <l>Vilos, y me perdí, mas oh importuno</l>
+          <l>remedio, que no viéndolos me pierdo</l>
+          <l>del mayor mal, que tuvo amante  alguno.</l>
+        </lg>
+        <lg>
+          <l>El seso pierdo, cuando estoy más cuerdo.</l>
+          <l>pero Amor es furor.  quien no está loco,</l>
+          <l>dirá, que hablo sin algún acuerdo.</l>
+        </lg>
+        <lg>
+          <l>Las cosas, que de amor  apunto y  toco,</l>
+          <l>no alcanza esa profana y ruda gente;</l>
+          <l>vos sí, que de su mal no sabéis poco.</l>
+        </lg>
+        <lg>
+          <l>Yo voy por un camino diferente</l>
+          <l>en los males que tengo, y nunca espero</l>
+          <l>sanar  de este dolor, que la alma siente.</l>
+        </lg>
+        <lg>
+          <l>Al bien medroso, al mal osado y  fiero,</l>
+          <l>y estoy de gloria y ufanía lleno,</l>
+          <l>cuando  en la fuerza del tormento muero.</l>
+        </lg>
+        <lg>
+          <l>Si puedo alguna vez hallarme ajeno</l>
+          <l>de mi pasión, ocupo la memoria;</l>
+          <l>en cuan poco merezco, lo que peno.</l>
+        </lg>
+        <lg>
+          <l>No cabe en mí pensar que tanta gloria</l>
+          <l>se debe a mi dolor;  ni que se entienda</l>
+          <l>de mis afanes la dichosa historia.</l>
+        </lg>
+        <lg>
+          <l>No hallo ya razón, que me defienda</l>
+          <l>de perdición, pues corro tras mi engaño,</l>
+          <l>y me despeño sin cobrar la rienda.</l>
+        </lg>
+        <lg>
+          <l>de un día en otro voy al fin del año,</l>
+          <l>desvanecido y lleno de esperanza,</l>
+          <l>sin abrazar el claro desengaño.</l>
+        </lg>
+        <lg>
+          <l>Pienso y entiendo, que hacer mudanza</l>
+          <l>podrá valerme, mas la cruda vira</l>
+          <l>de Amor o cerca, o lejos todo alcanza.</l>
+        </lg>
+        <lg>
+          <l>Mil veces contra mí me pongo en ira,</l>
+          <l>y culpo mi temor y mi flaqueza,</l>
+          <l>que del honrado intento  me retira.</l>
+        </lg>
+        <lg>
+          <l>Mas quién tiene tan grande fortaleza?</l>
+          <l>quién ve libre del mal aquel semblante</l>
+          <l>y pura flor de angélica belleza?</l>
+        </lg>
+        <lg>
+          <l>No soy peña, ni duro diamante;</l>
+          <l>tal furor tierno vive en estos ojos,</l>
+          <l>que de su luz se enciende en un instante.</l>
+        </lg>
+        <lg>
+          <l>Pequeños son, no alcanzan mis enojos</l>
+          <l>a merecer la gloria del mal mío,</l>
+          <l>ni verse juntos entre sus despojos.</l>
+        </lg>
+        <lg>
+          <l>Nevoso invierno y abrasado estío</l>
+          <l>destruyen mi esperanza de tal suerte,</l>
+          <l>que me mata el calor, y acaba el frío.</l>
+        </lg>
+        <lg>
+          <l>Mas, que otro  pudo ser, mi pecho es fuerte,</l>
+          <l>pues no fallece en tal dolor, sufriendo</l>
+          <l>los extremos efectos de la muerte.</l>
+        </lg>
+        <lg>
+          <l>Cual suele Febo aparecer,  trayendo</l>
+          <l>la luz, y los colores a las cosas,</l>
+          <l>cuando  del sacro mar sale luciendo;</l>
+        </lg>
+        <lg>
+          <l>Tales sus dos estrellas gloriosas</l>
+          <l>dan a mi alma claridad  divina,</l>
+          <l>que me enciende  en mil llamas amorosas.</l>
+        </lg>
+        <lg>
+          <l>Y cual se muestra  el cielo, si declina</l>
+          <l>la luz, y con la sombra  tenebrosa</l>
+          <l>el horror  de la noche se avecina;</l>
+        </lg>
+        <lg>
+          <l>Tal yo, sin su beldad maravillosa,</l>
+          <l>estoy confuso y lleno de recelo,</l>
+          <l>desierto y triste en soledad penosa.</l>
+        </lg>
+        <lg>
+          <l>Las ricas hebras del dorado velo</l>
+          <l>vencen a las que cercan  a Ariana</l>
+          <l>en el eterno  resplandor  del cielo.</l>
+        </lg>
+        <lg>
+          <l>Cuánto me engaña esta esperanza vana</l>
+          <l>en contar  de mi afán la triste historia,</l>
+          <l>y el desdén de mi Estrella  soberana!</l>
+        </lg>
+        <lg>
+          <l>No sufre mi fortuna  tanta  gloria,</l>
+          <l>que espere  merecer alguna parte</l>
+          <l>de mi dolor lugar en su memoria.</l>
+        </lg>
+        <lg>
+          <l>El fiero estruendo del sangriento  Marte,</l>
+          <l>de que tiembla  medroso el Lusitano,</l>
+          <l>atónito de tanto  esfuerzo y arte;</l>
+        </lg>
+        <lg>
+          <l>Incita este mi canto humilde y llano</l>
+          <l>en su alabanza, pero apena puedo</l>
+          <l>juntar las Musas al furor insano.</l>
+        </lg>
+        <lg>
+          <l>Otro, que tenga espíritu y denuedo,</l>
+          <l>podrá cantar  igual a tan gran hecho;</l>
+          <l>que yo en decir mis males estoy ledo.</l>
+        </lg>
+        <lg>
+          <l>El dolor, que padece vuestro  pecho,</l>
+          <l>permita, y la serena luz ardiente,</l>
+          <l>y  el oro, que os enlaza en nudo estrecho,</l>
+        </lg>
+        <lg>
+          <l>Que yo, oh sublime gloria de Occidente,</l>
+          <l>ose mostrar en este rudo canto</l>
+          <l>lo que el deseo publicar consiente.</l>
+        </lg>
+        <lg>
+          <l>Que si, como pretendo, yo levanto</l>
+          <l>la voz, el Indo extremo,  el Lapon frío,</l>
+          <l>y aquel, que el alto Febo abrasa  tanto;</l>
+        </lg>
+        <lg>
+          <l>Y quien habita el Amazonio  río</l>
+          <l>honrarán  vuestro  nombre generoso,</l>
+          <l>admirados  de oír el canto  mío.</l>
+        </lg>
+        <lg>
+          <l>Cuando será aquel día, en que el hermoso</l>
+          <l>rayo de Amor  y celestial Lucero</l>
+          <l>hiera este campo y  río venturoso?</l>
+        </lg>
+        <lg>
+          <l>Betis, que al grande  Océano ligero</l>
+          <l>con curso ufano contrastar porfías,</l>
+          <l>sin espantarte su semblante fiero;</l>
+        </lg>
+        <lg>
+          <l>Con creciente  mayor, que la que envías,</l>
+          <l>rebosa, y salgan del ondoso  seno</l>
+          <l>tus Ninfas a ayudar las voces mías.</l>
+        </lg>
+        <lg>
+          <l>Descubra el cielo el resplandor  sereno,</l>
+          <l>y  virtud nueva infunda a tu ribera,</l>
+          <l>y al campo de mis flores siempre lleno.</l>
+        </lg>
+        <lg>
+          <l>La luz de hermosura  verdadera,</l>
+          <l>por quien suspira el venturoso amante,</l>
+          <l>por quien en esperanza desespera;</l>
+        </lg>
+        <lg>
+          <l>Con pura faz de rosas, semejante</l>
+          <l>a la bella y divina cazadora,</l>
+          <l>se te muestra,  y ya casi está delante.</l>
+        </lg>
+        <lg>
+          <l>Pinta  pues variando,  orna y colora</l>
+          <l>de perlas y esmeraldas tus cristales,</l>
+          <l>y  tus arenas enriquece y dora;</l>
+        </lg>
+        <lg>
+          <l>Y ciñe con mil ramos de corales</l>
+          <l>la venerable frente, a cuya alteza</l>
+          <l>son los más grandes  ríos desiguales;</l>
+        </lg>
+        <lg>
+          <l>Y ofrece humildemente  a su belleza</l>
+          <l>los nobles dones,  que abundante cría</l>
+          <l>de tu fértil corriente  la riqueza;</l>
+        </lg>
+        <lg>
+          <l>Venid, diciendo, ya Señora mía,</l>
+          <l>merezca ya por vos aquesta  tierra</l>
+          <l>el bien, que mereció esa tierra fría.</l>
+        </lg>
+        <lg>
+          <l>En esta  parte el largo cielo encierra</l>
+          <l>(tanto puede alcanzar la suerte  humana)</l>
+          <l>cuanto  aparta  de otras y destierra.</l>
+        </lg>
+        <lg>
+          <l>Sola vuestra grandeza soberana</l>
+          <l>le falta, para ser siempre  dichosa,</l>
+          <l>venid pues, oh clarísima Diana.</l>
+        </lg>
+        <lg>
+          <l>Este  prado y ribera venturosa,</l>
+          <l>este bosque, esta selva y esta fuente</l>
+          <l>os llama y os suspira deseosa.</l>
+        </lg>
+        <lg>
+          <l>Ceñid vuestra serena y limpia frente</l>
+          <l>de este florido cerco, entrelazado</l>
+          <l>de los ricos esmaltes de Oriente.</l>
+        </lg>
+        <lg>
+          <l>Humilde don, más debe ser preciado;</l>
+          <l>que yo doy solo a vos estos despojos,</l>
+          <l>a pagar mayor censo condenado.</l>
+        </lg>
+        <lg>
+          <l>Ya son eternas flores los abrojos,</l>
+          <l>y el frío invierno vuelto ya en verano</l>
+          <l>con la cercana luz de vuestros  ojos.</l>
+        </lg>
+        <lg>
+          <l>En medio de este abierto  y fértil llano</l>
+          <l>alzará de mis Ninfas todo el coro</l>
+          <l>un templo a vuestro  nombre soberano.</l>
+        </lg>
+        <lg>
+          <l>Y con guirnaldas  en las hebras  de oro</l>
+          <l>tejerán  vueltas, y traerán  consigo</l>
+          <l>las que en sus ondas cría el seno Moro.</l>
+        </lg>
+        <lg>
+          <l>Y todas  juntas cantarán conmigo</l>
+          <l>del sagrado himeneo  en alabanza,</l>
+          <l>de que el cielo ha querido ser testigo.</l>
+        </lg>
+        <lg>
+          <l>Venid, oh gloria nuestra  y esperanza;</l>
+          <l>deshaga vuestra  vista el sentimiento</l>
+          <l>de quien tanto se ofende en la tardanza.</l>
+        </lg>
+        <lg>
+          <l>Mas dónde  me arrebata el pensamiento?</l>
+          <l>do en tan alta grandeza me levanto</l>
+          <l>con vano y temerario  atrevimiento?</l>
+        </lg>
+        <lg>
+          <l>Vos tenéis, gran Marqués,  de esto, que canto,</l>
+          <l>la culpa, y me hicisteis atrevido;</l>
+          <l>que yo de mí no pienso, ni oso tanto.</l>
+        </lg>
+        <lg>
+          <l>Mi ruda Musa solo en mi gemido</l>
+          <l>se ocupa y en memoria de los daños,</l>
+          <l>que a tan mísero estado me han  traído.</l>
+        </lg>
+        <lg>
+          <l>Sabrosa perdición,  dulces engaños,</l>
+          <l>siempre temido mal, eterna pena,</l>
+          <l>que sufrí triste de mis tiernos años,</l>
+        </lg>
+        <lg>
+          <l>Dieron la gloria de desdichas llena</l>
+          <l>al simple canto, a cuya rustiqueza</l>
+          <l>abrió el Amor una profunda  vena.</l>
+        </lg>
+        <lg>
+          <l>Mas para celebrar la gran belleza</l>
+          <l>de la inmortal  Diana y su luz pura,</l>
+          <l>y del mucho amor vuestro la grandeza,</l>
+          <l>ni puedo, ni merezco tal ventura.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO  LXXIII</head>
+        <lg>
+          <l>Tú, que con la robusta y ancha frente</l>
+          <l>y grandes hombros sustentaste alzado,</l>
+          <l>rey Africano, todo  el consagrado</l>
+          <l>cerco de las estrellas  reluciente;</l>
+        </lg>
+        <lg>
+          <l>Y tú, que cuando  Atlante temblar siente</l>
+          <l>la inmensa carga, sin doblar cansado</l>
+          <l>el vigor de tu cuello, levantado</l>
+          <l>sufriste  tanto  peso osadamente;</l>
+        </lg>
+        <lg>
+          <l>Yo no os envidio, aunque en  la grandeza</l>
+          <l>y en valor desigual;  porque el  sereno</l>
+          <l>cielo y estrellas, do el Amor se cría;</l>
+        </lg>
+        <lg>
+          <l>Y donde  reina eterna  la belleza,</l>
+          <l>sostuve  glorioso y de bien lleno,</l>
+          <l>cuanto sufrió la corta suerte  mía.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO  LXXIV</head>
+        <lg>
+          <l>Donde el dolor me lleva, vuelvo el paso</l>
+          <l>tan cansado y perdido, que no tengo</l>
+          <l>para arribar  fuerza, y nunca vengo</l>
+          <l>a conceder  holganza al cuerpo laso.</l>
+        </lg>
+        <lg>
+          <l>El mal me sigue de uno  en otro paso,</l>
+          <l>perpetuo y grave, tal, que lo sostengo</l>
+          <l>solo por entender,  que en mí me vengo</l>
+          <l>de cuanta  pena por Amor yo paso.</l>
+        </lg>
+        <lg>
+          <l>Si en este afán, que ha de acabarse tarde,</l>
+          <l>osara esperar  bien, fuera descanso</l>
+          <l>dulce y regalo mi mortal  congoja.</l>
+        </lg>
+        <lg>
+          <l>Mas ya remedio no vendrá, que guarde</l>
+          <l>el corazón caído;  y  más me canso,</l>
+          <l>cuando el trabajo  intenso en algo afloja.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO  LXXV</head>
+        <lg>
+          <l>Sigo por un desierto  no tratado,</l>
+          <l>sin luz, sin guía, en confusión  perdido,</l>
+          <l>el vano error,  que solo me ha traído</l>
+          <l>a la miseria del más triste  estado.</l>
+        </lg>
+        <lg>
+          <l>Cuanto  me alargo más, voy más errado,</l>
+          <l>y a mayores peligros ofrecido.</l>
+          <l>dejar atrás el mal me es defendido;</l>
+          <l>que el  paso del remedio está cerrado.</l>
+        </lg>
+        <lg>
+          <l>En ira enciende el daño manifiesto</l>
+          <l>al corazón caído, y cobra aliento,</l>
+          <l>contra  la instante  tempestad  osando.</l>
+        </lg>
+        <lg>
+          <l>O venceré tanto  rigor molesto,</l>
+          <l>o en los concursos  de su movimiento</l>
+          <l>moriré,  con mis males acabando.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO  LXXVI</head>
+        <lg>
+          <l>El triste afán del corazón doliente</l>
+          <l>con la memoria  de mis males llena</l>
+          <l>voy repitiendo por tu sola arena,</l>
+          <l>sacro  rey de las aguas de Occidente.</l>
+        </lg>
+        <lg>
+          <l>Las ondas acreciento a tu corriente,</l>
+          <l>socorriendo a tu curso con la vena</l>
+          <l>de mis ojos llorosa, y junto suena</l>
+          <l>el suspiro,  que esfuerza a la creciente.</l>
+        </lg>
+        <lg>
+          <l>Al fin gasto el humor, y cesa el viento,</l>
+          <l>y exhala el fuego con incendio  tanto,</l>
+          <l>que de húmedo  te hace ardiente río.</l>
+        </lg>
+        <lg>
+          <l>En vano intentas a este encendimiento</l>
+          <l>resistir; pues no pudo el grave llanto,</l>
+          <l>quebrantar su rigor, del dolor mío.</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO  LXXVII</head>
+        <lg>
+          <l>Cese tu fuego, Amor, cese ya, en tanto</l>
+          <l>que respirando de su ardor  injusto,</l>
+          <l>pruebo a sentir  este pequeño gusto</l>
+          <l>de ver mi rostro  humedecido  en llanto.</l>
+        </lg>
+        <lg>
+          <l>Que nunca el alto Etna con espanto</l>
+          <l>los grandes miembros  y el rebelde busto</l>
+          <l>del impío, que cayó con rayo justo,</l>
+          <l>puede encender,  ni nunca encendió  tanto.</l>
+        </lg>
+        <lg>
+          <l>No amortiguan mis lágrimas tu fuego,</l>
+          <l>antes avivan su furor  creciendo,</l>
+          <l>aunque venzan del Nilo la corriente.</l>
+        </lg>
+        <lg>
+          <l>Si suelto en agua rompo el nudo luego,</l>
+          <l>que más te agrada desatallo  ardiendo?</l>
+          <l>es menos mal lo que es más diferente?</l>
+        </lg>
+    </div1>
+    <div1 type="poem">
+        <head>SONETO  LXXVIII</head>
+        <lg>
+          <l>Amor, en un incendio  no acabado</l>
+          <l>ardí del fuego tuyo, en la florida</l>
+          <l>sazón y alegre de mi dulce vida,</l>
+          <l>todo en tu viva imagen trasformado.</l>
+        </lg>
+        <lg>
+          <l>Y ahora (oh vano error) en este estado,</l>
+          <l>no con llama en cenizas escondida,</l>
+          <l>mas descubierta, clara y encendida,</l>
+          <l>pierdo en ti lo mejor de mi cuidado.</l>
+        </lg>
+        <lg>
+          <l>No más, baste, cruel, ya en tantos  años</l>
+          <l>rendido haber al yugo el cuello yerto,</l>
+          <l>y  haber visto en el fin tu desvarío.</l>
+        </lg>
+        <lg>
+          <l>Abra la luz la niebla a tus engaños,</l>
+          <l>antes que el lazo rompa el tiempo, y muerto</l>
+          <l>sea el fuego del tardo  hielo mío.</l>
+        </lg>
+    </div1>
+        </body>
+    </text>
+</TEI>
+
