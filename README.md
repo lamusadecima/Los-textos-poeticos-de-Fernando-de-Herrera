@@ -32,7 +32,7 @@ Listado con los títulos de los poemas herrerianos que aparecen en los testimoni
 
 ## Anexos II y III. Digitalización del corpus poético de Herrera y Pacheco
 
-Los Anexos II y III contienen el corpus digitalizado de la poesía de Herrera y Pacheco. Se encuentran en la carpeta "corpus". Dentro de esta, el corpus con la ortografía original (Anexo II) se encuentra en la carpeta "original", y el corpus con ortografía modernizada (Anexo III), en la carpeta "modernizado".
+Los Anexos II y III contienen el corpus digitalizado de la poesía de Herrera y Pacheco. Se encuentran en la carpeta "corpus". Dentro de esta, el corpus con la ortografía original (Anexo II) se encuentra en la carpeta "original", y el corpus con ortografía modernizada (Anexo III), en la carpeta "modernizado". Se incluye también una versión con etiquetado básico XML-TEI (carpeta "XML-TEI").
 
 ## Anexo IV. Corpus etiquetado morfosintácticamente
 
