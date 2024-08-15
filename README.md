@@ -48,7 +48,7 @@ La primera lista incluye las palabras como tokens, mientras que la segunda inclu
 
 ## Anexos VI y VIII. Ngramas morfosintácticos más frecuentes en el corpus
 
-Los Anexos VII y IX incluyen los 20 bigramas y trigramas morfosintácticos más frecuentes del corpus completo obtenidos en los apartados 3.3.3.2.1 y 3.3.3.2.2 del libro. Se encuentran en la carpeta "POS-ngrams".
+Los Anexos VII y VIII incluyen los 20 bigramas y trigramas morfosintácticos más frecuentes del corpus completo obtenidos en los apartados 3.3.3.2.1 y 3.3.3.2.2 del libro. Se encuentran en la carpeta "POS-ngrams".
 
 ### Anexo VI. Bigramas morfosintácticos
 
