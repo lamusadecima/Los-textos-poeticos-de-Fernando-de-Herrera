@@ -28,7 +28,7 @@ Los Anexos I y II contienen el corpus digitalizado de la poesía de Herrera y Pa
 
 ## Anexo III. Corpus etiquetado morfosintácticamente
 
-El Anexo IV contiene el corpus poético de Herrera y Pacheco anotado automáticamente con información de Part-of-Speech (categorías morfológicas). Se encuentra también dentro de la carpeta "corpus", dentro de "POS".
+El Anexo III contiene el corpus poético de Herrera y Pacheco anotado automáticamente con información de Part-of-Speech (categorías morfológicas). Se encuentra también dentro de la carpeta "corpus", dentro de "POS".
 
 ## Anexo IV. Scripts en R
 
