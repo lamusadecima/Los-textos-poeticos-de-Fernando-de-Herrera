@@ -1,4 +1,4 @@
-## Anexo VI: Palabras de H que no aparecen en P desglosadas
+## Anexo V: Palabras de H que no aparecen en P desglosadas
 
 Advertencia: En esta lista de palabras no han sido contempladas las flexiones gramaticales ni la distinción entre homónimos.
 
