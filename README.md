@@ -1,6 +1,6 @@
 # Los-textos-poeticos-de-Fernando-de-Herrera
 
-Este repositorio contiene los anexos de mi obra <i>TÍTULO</i>, fruto de mi tesis doctoral. Estos son los siguientes:
+Este repositorio contiene los anexos de mi obra <i>El drama textual herreriano desde la Estilística de corpus y la Estilometría</i>. Estos son los siguientes:
 
 - Anexo I. Corpus de la poesía herreriana con su ortografía original en texto plano Unicode UTF-8
 
