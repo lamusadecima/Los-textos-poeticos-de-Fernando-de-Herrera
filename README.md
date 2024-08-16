@@ -76,4 +76,4 @@ En la medida de lo posible, los gráficos resultantes de los análisis estilomé
 
 ## Cómo citar
 
-Hernández Lorenzo, Laura, <i>TÍTULO</i>.
+Hernández-Lorenzo, Laura, <i>El drama textual herreriano desde la Estilística de corpus y la Estilometría</i>.
