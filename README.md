@@ -1,5 +1,5 @@
 # Los-textos-poeticos-de-Fernando-de-Herrera
-![image](https://github.com/user-attachments/assets/06d6da74-267a-4a84-80fb-94c599842222)
+[![image](https://github.com/user-attachments/assets/06d6da74-267a-4a84-80fb-94c599842222)](https://zenodo.org/badge/DOI/10.5281/zenodo.15173620.svg)
 
 Este repositorio contiene los siguientes datos:
 
