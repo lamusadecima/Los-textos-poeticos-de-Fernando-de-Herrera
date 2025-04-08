@@ -1,4 +1,5 @@
 # Los-textos-poeticos-de-Fernando-de-Herrera
+DOI: 10.5281/zenodo.15173620
 
 Este repositorio contiene los siguientes datos:
 
