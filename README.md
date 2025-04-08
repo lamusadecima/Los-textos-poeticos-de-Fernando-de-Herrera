@@ -1,5 +1,5 @@
 # Los-textos-poeticos-de-Fernando-de-Herrera
-DOI: 10.5281/zenodo.15173620
+
 
 Este repositorio contiene los siguientes datos:
 
@@ -74,3 +74,7 @@ Tabla completa de las distancias de patrones morfosintácticos obtenidas para P2
 ## Anexo X. Imágenes en color de Rolling Classify
 
 En la medida de lo posible, los gráficos resultantes de los análisis estilométricos se han generado en blanco y negro para facilitar su impresión y visualización por parte del lector. En el caso de Rolling Classify, esto no ha sido posible, pues no lo permite la herramienta. Por esta razón, se incluyen en el Anexo X las imágenes originales en color por si el lector necesita consultarlas. Se encuentran en "rolling_classify-color.zip". Descárguela en su ordenador y descomprima para extraer todo el contenido.
+
+## Cómo citar
+
+Laura HL. (2025). lamusadecima/Los-textos-poeticos-de-Fernando-de-Herrera: version 1.0.0 (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.15173620
